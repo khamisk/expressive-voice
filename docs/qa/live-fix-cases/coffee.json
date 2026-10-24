@@ -1,0 +1,6931 @@
+{
+  "name": "coffee",
+  "prompt": "I made coffee and sat by the window for a bit.",
+  "startedAt": "2026-08-28T01:27:24.531Z",
+  "startMeter": 238021,
+  "frames": [
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "-0.439,0.250,1.000,1.001,0.999",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "-0.18,0.00,-0.49",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 238372,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [],
+      "t": 350
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "-0.190,0.108,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "-0.06,0.00,-0.17",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 238454,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [],
+      "t": 433
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "-0.078,0.044,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "-0.02,0.00,-0.05",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 238538,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [],
+      "t": 517
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "-0.029,0.016,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "-0.01,0.00,-0.02",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 238627,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [],
+      "t": 605
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "-0.012,0.007,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,-0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 238705,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [],
+      "t": 683
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "-0.005,0.003,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,-0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 238782,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [],
+      "t": 761
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "-0.002,0.001,1.000,1.000,1.000",
+        "data-cue-id": "reaction-1-7",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "user",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,-0.00",
+        "data-intent": "react",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-return",
+        "data-word-tick": "0"
+      },
+      "cue": {
+        "confidence": 0,
+        "effect": "none",
+        "expression": "neutral",
+        "id": "reaction-1-7",
+        "intensity": 0,
+        "intent": "react",
+        "source": "user",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 238866,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [],
+      "t": 845
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "double-blink",
+        "data-beat": "respond",
+        "data-body-pose": "-0.001,0.412,0.999,1.002,0.998",
+        "data-cue-id": "reaction-1-7",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "user",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "settle",
+        "data-head-pose": "0.37,0.00,-0.38",
+        "data-intent": "react",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-return",
+        "data-word-tick": "0"
+      },
+      "cue": {
+        "confidence": 0,
+        "effect": "none",
+        "expression": "neutral",
+        "id": "reaction-1-7",
+        "intensity": 0,
+        "intent": "react",
+        "source": "user",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 238955,
+      "outputRms": 0.0042,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [],
+      "t": 933
+    },
+    {
+      "caption": "That",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-0",
+        "data-body-pose": "-0.001,1.305,0.995,1.004,0.996",
+        "data-cue-anchor": "That sounds like a gentle",
+        "data-cue-id": "1:3:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "1.03,0.00,-1.07",
+        "data-intent": "explain",
+        "data-output-level": "0.165",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.106",
+        "data-speech-energy": "0.152",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "1"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That sounds like a gentle",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 239032,
+      "outputRms": 0.05668,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That"
+        }
+      ],
+      "t": 1011
+    },
+    {
+      "caption": "That sounds",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-0",
+        "data-body-pose": "-0.001,1.170,0.996,1.003,0.997",
+        "data-cue-anchor": "That sounds like a gentle",
+        "data-cue-id": "1:3:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.86,0.00,-0.90",
+        "data-intent": "explain",
+        "data-output-level": "0.298",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.429",
+        "data-speech-energy": "0.510",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "2"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That sounds like a gentle",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 239116,
+      "outputRms": 0.04161,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That"
+        },
+        {
+          "index": 1,
+          "text": " sounds"
+        }
+      ],
+      "t": 1091
+    },
+    {
+      "caption": "That sounds",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-0",
+        "data-body-pose": "-0.001,0.844,0.997,1.002,0.998",
+        "data-cue-anchor": "That sounds like a gentle",
+        "data-cue-id": "1:3:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.60,0.00,-0.63",
+        "data-intent": "explain",
+        "data-output-level": "0.140",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.389",
+        "data-speech-energy": "0.423",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "2"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That sounds like a gentle",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 239205,
+      "outputRms": 0.00498,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That"
+        },
+        {
+          "index": 1,
+          "text": " sounds"
+        }
+      ],
+      "t": 1183
+    },
+    {
+      "caption": "That sounds",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-0",
+        "data-body-pose": "-0.001,0.576,0.998,1.001,0.999",
+        "data-cue-anchor": "That sounds like a gentle",
+        "data-cue-id": "1:3:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.40,0.00,-0.41",
+        "data-intent": "explain",
+        "data-output-level": "0.029",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.239",
+        "data-speech-energy": "0.250",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "2"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That sounds like a gentle",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 239282,
+      "outputRms": 0.00328,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That"
+        },
+        {
+          "index": 1,
+          "text": " sounds"
+        }
+      ],
+      "t": 1261
+    },
+    {
+      "caption": "That sounds like",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-0",
+        "data-body-pose": "-0.000,0.299,0.999,1.001,0.999",
+        "data-cue-anchor": "That sounds like a gentle",
+        "data-cue-id": "1:3:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.18,0.00,-0.19",
+        "data-intent": "explain",
+        "data-output-level": "0.022",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.114",
+        "data-speech-energy": "0.117",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "3"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That sounds like a gentle",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 239377,
+      "outputRms": 0,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That"
+        },
+        {
+          "index": 1,
+          "text": " sounds"
+        },
+        {
+          "index": 2,
+          "text": " like"
+        }
+      ],
+      "t": 1356
+    },
+    {
+      "caption": "That sounds like",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-3",
+        "data-body-pose": "-0.000,0.128,1.000,1.000,1.000",
+        "data-cue-anchor": "That sounds like a gentle",
+        "data-cue-id": "1:3:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.06,0.00,-0.07",
+        "data-intent": "explain",
+        "data-output-level": "0.038",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.060",
+        "data-speech-energy": "0.061",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "3"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That sounds like a gentle",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 239471,
+      "outputRms": 0.00498,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That"
+        },
+        {
+          "index": 1,
+          "text": " sounds"
+        },
+        {
+          "index": 2,
+          "text": " like"
+        }
+      ],
+      "t": 1446
+    },
+    {
+      "caption": "That sounds like a",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-3",
+        "data-body-pose": "-0.000,0.055,1.000,1.000,1.000",
+        "data-cue-anchor": "That sounds like a gentle",
+        "data-cue-id": "1:3:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.02,0.00,-0.02",
+        "data-intent": "explain",
+        "data-output-level": "0.160",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.181",
+        "data-speech-energy": "0.182",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "4"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That sounds like a gentle",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 239556,
+      "outputRms": 0.03848,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That"
+        },
+        {
+          "index": 1,
+          "text": " sounds"
+        },
+        {
+          "index": 2,
+          "text": " like"
+        },
+        {
+          "index": 3,
+          "text": " a"
+        }
+      ],
+      "t": 1531
+    },
+    {
+      "caption": "That sounds like a gentle",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-3",
+        "data-body-pose": "-0.000,0.019,1.000,1.000,1.000",
+        "data-cue-anchor": "That sounds like a gentle",
+        "data-cue-id": "1:3:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.01,0.00,-0.01",
+        "data-intent": "explain",
+        "data-output-level": "0.502",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.856",
+        "data-speech-energy": "0.859",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "4"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That sounds like a gentle",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 239655,
+      "outputRms": 0.05492,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That"
+        },
+        {
+          "index": 1,
+          "text": " sounds"
+        },
+        {
+          "index": 2,
+          "text": " like"
+        },
+        {
+          "index": 3,
+          "text": " a"
+        },
+        {
+          "index": 4,
+          "text": " gentle"
+        }
+      ],
+      "t": 1636
+    },
+    {
+      "caption": "That sounds like a gentle",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-5",
+        "data-body-pose": "-0.000,0.006,1.000,1.000,1.000",
+        "data-cue-anchor": "That sounds like a gentle",
+        "data-cue-id": "1:3:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.420",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.708",
+        "data-speech-energy": "0.709",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "5"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That sounds like a gentle",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 239758,
+      "outputRms": 0.09568,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That"
+        },
+        {
+          "index": 1,
+          "text": " sounds"
+        },
+        {
+          "index": 2,
+          "text": " like"
+        },
+        {
+          "index": 3,
+          "text": " a"
+        },
+        {
+          "index": 4,
+          "text": " gentle"
+        }
+      ],
+      "t": 1735
+    },
+    {
+      "caption": "That sounds like a gentle",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-5",
+        "data-body-pose": "-0.000,0.002,1.000,1.000,1.000",
+        "data-cue-anchor": "That sounds like a gentle",
+        "data-cue-id": "1:3:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.612",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.754",
+        "data-speech-energy": "0.755",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "5"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That sounds like a gentle",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 239844,
+      "outputRms": 0.07538,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That"
+        },
+        {
+          "index": 1,
+          "text": " sounds"
+        },
+        {
+          "index": 2,
+          "text": " like"
+        },
+        {
+          "index": 3,
+          "text": " a"
+        },
+        {
+          "index": 4,
+          "text": " gentle"
+        }
+      ],
+      "t": 1822
+    },
+    {
+      "caption": "That sounds like a gentle reset,",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-6",
+        "data-body-pose": "-0.000,0.001,1.000,1.000,1.000",
+        "data-cue-anchor": "That sounds like a gentle",
+        "data-cue-id": "1:3:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.340",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.605",
+        "data-speech-energy": "0.605",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "6"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That sounds like a gentle",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 239939,
+      "outputRms": 0.0868,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That"
+        },
+        {
+          "index": 1,
+          "text": " sounds"
+        },
+        {
+          "index": 2,
+          "text": " like"
+        },
+        {
+          "index": 3,
+          "text": " a"
+        },
+        {
+          "index": 4,
+          "text": " gentle"
+        },
+        {
+          "index": 5,
+          "text": " reset,"
+        }
+      ],
+      "t": 1914
+    },
+    {
+      "caption": "That sounds like a gentle reset,",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-6",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "That sounds like a gentle",
+        "data-cue-id": "1:3:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.565",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.932",
+        "data-speech-energy": "0.932",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "6"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That sounds like a gentle",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 240027,
+      "outputRms": 0.08519,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That"
+        },
+        {
+          "index": 1,
+          "text": " sounds"
+        },
+        {
+          "index": 2,
+          "text": " like"
+        },
+        {
+          "index": 3,
+          "text": " a"
+        },
+        {
+          "index": 4,
+          "text": " gentle"
+        },
+        {
+          "index": 5,
+          "text": " reset,"
+        }
+      ],
+      "t": 2006
+    },
+    {
+      "caption": "That sounds like a gentle reset,",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-6",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "That sounds like a gentle",
+        "data-cue-id": "1:3:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.076",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.597",
+        "data-speech-energy": "0.597",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "6"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That sounds like a gentle",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 240122,
+      "outputRms": 0.08969,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That"
+        },
+        {
+          "index": 1,
+          "text": " sounds"
+        },
+        {
+          "index": 2,
+          "text": " like"
+        },
+        {
+          "index": 3,
+          "text": " a"
+        },
+        {
+          "index": 4,
+          "text": " gentle"
+        },
+        {
+          "index": 5,
+          "text": " reset,"
+        }
+      ],
+      "t": 2100
+    },
+    {
+      "caption": "That sounds like a gentle reset,",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-0",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "just sitting with a warm",
+        "data-cue-id": "1:3:fast:33",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.266",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.569",
+        "data-speech-energy": "0.569",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "6"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "just sitting with a warm",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:33",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 240210,
+      "outputRms": 0.05003,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That"
+        },
+        {
+          "index": 1,
+          "text": " sounds"
+        },
+        {
+          "index": 2,
+          "text": " like"
+        },
+        {
+          "index": 3,
+          "text": " a"
+        },
+        {
+          "index": 4,
+          "text": " gentle"
+        },
+        {
+          "index": 5,
+          "text": " reset,"
+        }
+      ],
+      "t": 2189
+    },
+    {
+      "caption": "That sounds like a gentle reset, just",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-1",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "just sitting with a warm",
+        "data-cue-id": "1:3:fast:33",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.453",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.733",
+        "data-speech-energy": "0.733",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "7"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "just sitting with a warm",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:33",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 240305,
+      "outputRms": 0.064,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That"
+        },
+        {
+          "index": 1,
+          "text": " sounds"
+        },
+        {
+          "index": 2,
+          "text": " like"
+        },
+        {
+          "index": 3,
+          "text": " a"
+        },
+        {
+          "index": 4,
+          "text": " gentle"
+        },
+        {
+          "index": 5,
+          "text": " reset,"
+        },
+        {
+          "index": 6,
+          "text": " just"
+        }
+      ],
+      "t": 2280
+    },
+    {
+      "caption": "That sounds like a gentle reset, just",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-1",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "just sitting with a warm",
+        "data-cue-id": "1:3:fast:33",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.258",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.592",
+        "data-speech-energy": "0.592",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "7"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "just sitting with a warm",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:33",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 240383,
+      "outputRms": 0.05049,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That"
+        },
+        {
+          "index": 1,
+          "text": " sounds"
+        },
+        {
+          "index": 2,
+          "text": " like"
+        },
+        {
+          "index": 3,
+          "text": " a"
+        },
+        {
+          "index": 4,
+          "text": " gentle"
+        },
+        {
+          "index": 5,
+          "text": " reset,"
+        },
+        {
+          "index": 6,
+          "text": " just"
+        }
+      ],
+      "t": 2361
+    },
+    {
+      "caption": "That sounds like a gentle reset, just",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-1",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "just sitting with a warm",
+        "data-cue-id": "1:3:fast:33",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.292",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.466",
+        "data-speech-energy": "0.466",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "7"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "just sitting with a warm",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:33",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 240471,
+      "outputRms": 0.02808,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That"
+        },
+        {
+          "index": 1,
+          "text": " sounds"
+        },
+        {
+          "index": 2,
+          "text": " like"
+        },
+        {
+          "index": 3,
+          "text": " a"
+        },
+        {
+          "index": 4,
+          "text": " gentle"
+        },
+        {
+          "index": 5,
+          "text": " reset,"
+        },
+        {
+          "index": 6,
+          "text": " just"
+        }
+      ],
+      "t": 2450
+    },
+    {
+      "caption": "sitting",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-2",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "just sitting with a warm",
+        "data-cue-id": "1:3:fast:33",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.090",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.376",
+        "data-speech-energy": "0.376",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "8"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "just sitting with a warm",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:33",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 240550,
+      "outputRms": 0.00741,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        }
+      ],
+      "t": 2528
+    },
+    {
+      "caption": "sitting",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-2",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "just sitting with a warm",
+        "data-cue-id": "1:3:fast:33",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.036",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.196",
+        "data-speech-energy": "0.196",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "8"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "just sitting with a warm",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:33",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 240644,
+      "outputRms": 0.00285,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        }
+      ],
+      "t": 2622
+    },
+    {
+      "caption": "sitting",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-2",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "just sitting with a warm",
+        "data-cue-id": "1:3:fast:33",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.031",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.099",
+        "data-speech-energy": "0.099",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "8"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "just sitting with a warm",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:33",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 240738,
+      "outputRms": 0.00533,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        }
+      ],
+      "t": 2714
+    },
+    {
+      "caption": "sitting",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-2",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "just sitting with a warm",
+        "data-cue-id": "1:3:fast:33",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.027",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.055",
+        "data-speech-energy": "0.055",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "8"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "just sitting with a warm",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:33",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 240827,
+      "outputRms": 0.00521,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        }
+      ],
+      "t": 2805
+    },
+    {
+      "caption": "sitting with",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-9",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "just sitting with a warm",
+        "data-cue-id": "1:3:fast:33",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.029",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.034",
+        "data-speech-energy": "0.034",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "9"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "just sitting with a warm",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:33",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 240927,
+      "outputRms": 0.00777,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        }
+      ],
+      "t": 2903
+    },
+    {
+      "caption": "sitting with",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-2",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "gentle reset, just",
+        "data-cue-id": "speech-plan-1-8-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "settle",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.025",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.026",
+        "data-speech-energy": "0.026",
+        "data-variant-id": "neutral-present",
+        "data-word-tick": "9"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "gentle reset, just",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "settle",
+        "id": "speech-plan-1-8-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 241022,
+      "outputRms": 0.00535,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        }
+      ],
+      "t": 2997
+    },
+    {
+      "caption": "sitting with",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-2",
+        "data-body-pose": "-0.000,0.853,0.997,1.003,0.997",
+        "data-cue-anchor": "gentle reset, just",
+        "data-cue-id": "speech-plan-1-8-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "settle",
+        "data-head-pose": "0.75,0.00,-0.77",
+        "data-intent": "explain",
+        "data-output-level": "0.034",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.021",
+        "data-speech-energy": "0.021",
+        "data-variant-id": "neutral-present",
+        "data-word-tick": "9"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "gentle reset, just",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "settle",
+        "id": "speech-plan-1-8-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 241110,
+      "outputRms": 0.00687,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        }
+      ],
+      "t": 3089
+    },
+    {
+      "caption": "sitting with a",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-2",
+        "data-body-pose": "-0.000,3.746,0.986,1.012,0.988",
+        "data-cue-anchor": "gentle reset, just",
+        "data-cue-id": "speech-plan-1-8-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "settle",
+        "data-head-pose": "3.00,0.00,-3.12",
+        "data-intent": "explain",
+        "data-output-level": "0.053",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.047",
+        "data-speech-energy": "0.047",
+        "data-variant-id": "neutral-present",
+        "data-word-tick": "9"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "gentle reset, just",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "settle",
+        "id": "speech-plan-1-8-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 241188,
+      "outputRms": 0.00461,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        },
+        {
+          "index": 9,
+          "text": " a"
+        }
+      ],
+      "t": 3168
+    },
+    {
+      "caption": "sitting with a",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-2",
+        "data-body-pose": "-0.000,7.990,0.970,1.025,0.977",
+        "data-cue-anchor": "gentle reset, just",
+        "data-cue-id": "speech-plan-1-8-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "settle",
+        "data-head-pose": "6.08,0.00,-6.68",
+        "data-intent": "explain",
+        "data-output-level": "0.266",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.381",
+        "data-speech-energy": "0.381",
+        "data-variant-id": "neutral-present",
+        "data-word-tick": "10"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "gentle reset, just",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "settle",
+        "id": "speech-plan-1-8-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 241283,
+      "outputRms": 0.04176,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        },
+        {
+          "index": 9,
+          "text": " a"
+        }
+      ],
+      "t": 3261
+    },
+    {
+      "caption": "sitting with a",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-2",
+        "data-body-pose": "-0.000,12.465,0.951,1.040,0.964",
+        "data-cue-anchor": "gentle reset, just",
+        "data-cue-id": "speech-plan-1-8-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "settle",
+        "data-head-pose": "9.43,0.00,-10.96",
+        "data-intent": "explain",
+        "data-output-level": "0.194",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.369",
+        "data-speech-energy": "0.369",
+        "data-variant-id": "neutral-present",
+        "data-word-tick": "10"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "gentle reset, just",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "settle",
+        "id": "speech-plan-1-8-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 241360,
+      "outputRms": 0.01866,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        },
+        {
+          "index": 9,
+          "text": " a"
+        }
+      ],
+      "t": 3338
+    },
+    {
+      "caption": "sitting with a warm",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-2",
+        "data-body-pose": "-0.000,16.089,0.934,1.051,0.956",
+        "data-cue-anchor": "sitting with a",
+        "data-cue-id": "speech-plan-1-8-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "11.68,0.00,-14.25",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.034",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.211",
+        "data-speech-energy": "0.211",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "11"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "sitting with a",
+        "confidence": 0.8,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-8-2",
+        "intensity": 0.5,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 241456,
+      "outputRms": 0.00555,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        },
+        {
+          "index": 9,
+          "text": " a"
+        },
+        {
+          "index": 10,
+          "text": " warm"
+        }
+      ],
+      "t": 3433
+    },
+    {
+      "caption": "sitting with a warm",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-2",
+        "data-body-pose": "-0.000,7.707,0.956,1.016,0.992",
+        "data-cue-anchor": "sitting with a",
+        "data-cue-id": "speech-plan-1-8-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "2.97,0.00,-8.05",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.029",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.109",
+        "data-speech-energy": "0.109",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "11"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "sitting with a",
+        "confidence": 0.8,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-8-2",
+        "intensity": 0.5,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 241550,
+      "outputRms": 0.00458,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        },
+        {
+          "index": 9,
+          "text": " a"
+        },
+        {
+          "index": 10,
+          "text": " warm"
+        }
+      ],
+      "t": 3525
+    },
+    {
+      "caption": "sitting with a warm",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-2",
+        "data-body-pose": "-0.000,3.439,0.980,1.013,0.996",
+        "data-cue-anchor": "sitting with a",
+        "data-cue-id": "speech-plan-1-8-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "1.04,0.00,-2.88",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.106",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.092",
+        "data-speech-energy": "0.092",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "11"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "sitting with a",
+        "confidence": 0.8,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-8-2",
+        "intensity": 0.5,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 241644,
+      "outputRms": 0.02338,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        },
+        {
+          "index": 9,
+          "text": " a"
+        },
+        {
+          "index": 10,
+          "text": " warm"
+        }
+      ],
+      "t": 3619
+    },
+    {
+      "caption": "sitting with a warm cup",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-12",
+        "data-body-pose": "-0.000,10.652,0.992,1.049,0.961",
+        "data-cue-anchor": "sitting with a",
+        "data-cue-id": "speech-plan-1-8-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "9.93,0.00,-0.89",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.106",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.197",
+        "data-speech-energy": "0.197",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "12"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "sitting with a",
+        "confidence": 0.8,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-8-2",
+        "intensity": 0.5,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 241738,
+      "outputRms": 0.1081,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        },
+        {
+          "index": 9,
+          "text": " a"
+        },
+        {
+          "index": 10,
+          "text": " warm"
+        },
+        {
+          "index": 11,
+          "text": " cup"
+        }
+      ],
+      "t": 3714
+    },
+    {
+      "caption": "sitting with a warm cup",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-12",
+        "data-body-pose": "-0.000,13.981,0.997,1.054,0.956",
+        "data-cue-anchor": "sitting with a",
+        "data-cue-id": "speech-plan-1-8-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "12.31,0.00,-0.25",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.442",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.654",
+        "data-speech-energy": "0.654",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "12"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "sitting with a",
+        "confidence": 0.8,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-8-2",
+        "intensity": 0.5,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 241833,
+      "outputRms": 0.085,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        },
+        {
+          "index": 9,
+          "text": " a"
+        },
+        {
+          "index": 10,
+          "text": " warm"
+        },
+        {
+          "index": 11,
+          "text": " cup"
+        }
+      ],
+      "t": 3810
+    },
+    {
+      "caption": "sitting with a warm cup and",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-13",
+        "data-body-pose": "-0.000,4.546,0.999,1.014,0.996",
+        "data-cue-anchor": "sitting with a",
+        "data-cue-id": "speech-plan-1-8-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "2.50,0.00,-0.06",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.442",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.727",
+        "data-speech-energy": "0.727",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "13"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "sitting with a",
+        "confidence": 0.8,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-8-2",
+        "intensity": 0.5,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 241930,
+      "outputRms": 0.07684,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        },
+        {
+          "index": 9,
+          "text": " a"
+        },
+        {
+          "index": 10,
+          "text": " warm"
+        },
+        {
+          "index": 11,
+          "text": " cup"
+        },
+        {
+          "index": 12,
+          "text": " and"
+        }
+      ],
+      "t": 3906
+    },
+    {
+      "caption": "sitting with a warm cup and",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-13",
+        "data-body-pose": "-0.000,-4.504,1.000,0.990,1.020",
+        "data-cue-anchor": "sitting with a",
+        "data-cue-id": "speech-plan-1-8-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "-4.63,0.00,-0.02",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.099",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.556",
+        "data-speech-energy": "0.556",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "13"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "sitting with a",
+        "confidence": 0.8,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-8-2",
+        "intensity": 0.5,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 242022,
+      "outputRms": 0.01741,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        },
+        {
+          "index": 9,
+          "text": " a"
+        },
+        {
+          "index": 10,
+          "text": " warm"
+        },
+        {
+          "index": 11,
+          "text": " cup"
+        },
+        {
+          "index": 12,
+          "text": " and"
+        }
+      ],
+      "t": 3997
+    },
+    {
+      "caption": "sitting with a warm cup and",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-13",
+        "data-body-pose": "-0.000,-2.112,1.000,1.009,1.001",
+        "data-cue-anchor": "sitting with a",
+        "data-cue-id": "speech-plan-1-8-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "-0.54,0.00,-0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.348",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.651",
+        "data-speech-energy": "0.651",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "13"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "sitting with a",
+        "confidence": 0.8,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-8-2",
+        "intensity": 0.5,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 242111,
+      "outputRms": 0.02655,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        },
+        {
+          "index": 9,
+          "text": " a"
+        },
+        {
+          "index": 10,
+          "text": " warm"
+        },
+        {
+          "index": 11,
+          "text": " cup"
+        },
+        {
+          "index": 12,
+          "text": " and"
+        }
+      ],
+      "t": 4086
+    },
+    {
+      "caption": "sitting with a warm cup and a",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-13",
+        "data-body-pose": "-0.000,8.252,1.000,1.045,0.965",
+        "data-cue-anchor": "sitting with a",
+        "data-cue-id": "speech-plan-1-8-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "9.16,0.00,-0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.884",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.839",
+        "data-speech-energy": "0.839",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "14"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "sitting with a",
+        "confidence": 0.8,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-8-2",
+        "intensity": 0.5,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 242205,
+      "outputRms": 0.10984,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        },
+        {
+          "index": 9,
+          "text": " a"
+        },
+        {
+          "index": 10,
+          "text": " warm"
+        },
+        {
+          "index": 11,
+          "text": " cup"
+        },
+        {
+          "index": 12,
+          "text": " and"
+        },
+        {
+          "index": 13,
+          "text": " a"
+        }
+      ],
+      "t": 4182
+    },
+    {
+      "caption": "sitting with a warm cup and a",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-13",
+        "data-body-pose": "-0.000,15.040,1.000,1.058,0.951",
+        "data-cue-anchor": "sitting with a",
+        "data-cue-id": "speech-plan-1-8-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "13.71,0.00,-0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.564",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.949",
+        "data-speech-energy": "0.949",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "14"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "sitting with a",
+        "confidence": 0.8,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-8-2",
+        "intensity": 0.5,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 242305,
+      "outputRms": 0.06789,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        },
+        {
+          "index": 9,
+          "text": " a"
+        },
+        {
+          "index": 10,
+          "text": " warm"
+        },
+        {
+          "index": 11,
+          "text": " cup"
+        },
+        {
+          "index": 12,
+          "text": " and"
+        },
+        {
+          "index": 13,
+          "text": " a"
+        }
+      ],
+      "t": 4281
+    },
+    {
+      "caption": "sitting with a warm cup and a view.",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-15",
+        "data-body-pose": "-0.000,15.048,1.000,1.049,0.958",
+        "data-cue-anchor": "sitting with a",
+        "data-cue-id": "speech-plan-1-8-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "12.54,0.00,-0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.131",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.655",
+        "data-speech-energy": "0.655",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "15"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "sitting with a",
+        "confidence": 0.8,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-8-2",
+        "intensity": 0.5,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 242388,
+      "outputRms": 0.03453,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        },
+        {
+          "index": 9,
+          "text": " a"
+        },
+        {
+          "index": 10,
+          "text": " warm"
+        },
+        {
+          "index": 11,
+          "text": " cup"
+        },
+        {
+          "index": 12,
+          "text": " and"
+        },
+        {
+          "index": 13,
+          "text": " a"
+        },
+        {
+          "index": 14,
+          "text": " view."
+        }
+      ],
+      "t": 4367
+    },
+    {
+      "caption": "sitting with a warm cup and a view.",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-15",
+        "data-body-pose": "-0.000,12.441,1.000,1.035,0.968",
+        "data-cue-anchor": "sitting with a",
+        "data-cue-id": "speech-plan-1-8-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "9.79,0.00,-0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.829",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.928",
+        "data-speech-energy": "0.928",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "15"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "sitting with a",
+        "confidence": 0.8,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-8-2",
+        "intensity": 0.5,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 242466,
+      "outputRms": 0.14286,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        },
+        {
+          "index": 9,
+          "text": " a"
+        },
+        {
+          "index": 10,
+          "text": " warm"
+        },
+        {
+          "index": 11,
+          "text": " cup"
+        },
+        {
+          "index": 12,
+          "text": " and"
+        },
+        {
+          "index": 13,
+          "text": " a"
+        },
+        {
+          "index": 14,
+          "text": " view."
+        }
+      ],
+      "t": 4445
+    },
+    {
+      "caption": "sitting with a warm cup and a view.",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-15",
+        "data-body-pose": "-0.000,9.762,1.000,1.026,0.976",
+        "data-cue-anchor": "sitting with a",
+        "data-cue-id": "speech-plan-1-8-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "7.58,0.00,-0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.148",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.762",
+        "data-speech-energy": "0.762",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "15"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "sitting with a",
+        "confidence": 0.8,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-8-2",
+        "intensity": 0.5,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 242544,
+      "outputRms": 0.01307,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        },
+        {
+          "index": 9,
+          "text": " a"
+        },
+        {
+          "index": 10,
+          "text": " warm"
+        },
+        {
+          "index": 11,
+          "text": " cup"
+        },
+        {
+          "index": 12,
+          "text": " and"
+        },
+        {
+          "index": 13,
+          "text": " a"
+        },
+        {
+          "index": 14,
+          "text": " view."
+        }
+      ],
+      "t": 4522
+    },
+    {
+      "caption": "sitting with a warm cup and a view.",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-15",
+        "data-body-pose": "-0.000,7.331,1.000,1.019,0.982",
+        "data-cue-anchor": "sitting with a",
+        "data-cue-id": "speech-plan-1-8-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "5.73,0.00,-0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.580",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.796",
+        "data-speech-energy": "0.796",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "15"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "sitting with a",
+        "confidence": 0.8,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-8-2",
+        "intensity": 0.5,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 242638,
+      "outputRms": 0.10386,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        },
+        {
+          "index": 9,
+          "text": " a"
+        },
+        {
+          "index": 10,
+          "text": " warm"
+        },
+        {
+          "index": 11,
+          "text": " cup"
+        },
+        {
+          "index": 12,
+          "text": " and"
+        },
+        {
+          "index": 13,
+          "text": " a"
+        },
+        {
+          "index": 14,
+          "text": " view."
+        }
+      ],
+      "t": 4617
+    },
+    {
+      "caption": "sitting with a warm cup and a view.",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-15",
+        "data-body-pose": "-0.000,5.066,1.000,1.012,0.988",
+        "data-cue-anchor": "sitting with a",
+        "data-cue-id": "speech-plan-1-8-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "3.83,0.00,-0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.179",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.630",
+        "data-speech-energy": "0.630",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "15"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "sitting with a",
+        "confidence": 0.8,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-8-2",
+        "intensity": 0.5,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 242733,
+      "outputRms": 0.05407,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        },
+        {
+          "index": 9,
+          "text": " a"
+        },
+        {
+          "index": 10,
+          "text": " warm"
+        },
+        {
+          "index": 11,
+          "text": " cup"
+        },
+        {
+          "index": 12,
+          "text": " and"
+        },
+        {
+          "index": 13,
+          "text": " a"
+        },
+        {
+          "index": 14,
+          "text": " view."
+        }
+      ],
+      "t": 4712
+    },
+    {
+      "caption": "sitting with a warm cup and a view.",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-15",
+        "data-body-pose": "-0.000,2.883,1.000,1.006,0.994",
+        "data-cue-anchor": "sitting with a",
+        "data-cue-id": "speech-plan-1-8-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "1.95,0.00,-0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.447",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.644",
+        "data-speech-energy": "0.644",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "15"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "sitting with a",
+        "confidence": 0.8,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-8-2",
+        "intensity": 0.5,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 242827,
+      "outputRms": 0.07017,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        },
+        {
+          "index": 9,
+          "text": " a"
+        },
+        {
+          "index": 10,
+          "text": " warm"
+        },
+        {
+          "index": 11,
+          "text": " cup"
+        },
+        {
+          "index": 12,
+          "text": " and"
+        },
+        {
+          "index": 13,
+          "text": " a"
+        },
+        {
+          "index": 14,
+          "text": " view."
+        }
+      ],
+      "t": 4806
+    },
+    {
+      "caption": "sitting with a warm cup and a view.",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-15",
+        "data-body-pose": "-0.000,1.288,1.000,1.002,0.998",
+        "data-cue-anchor": "sitting with a",
+        "data-cue-id": "speech-plan-1-8-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "0.71,0.00,-0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.356",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.743",
+        "data-speech-energy": "0.743",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "15"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "sitting with a",
+        "confidence": 0.8,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-8-2",
+        "intensity": 0.5,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 242922,
+      "outputRms": 0.06281,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        },
+        {
+          "index": 9,
+          "text": " a"
+        },
+        {
+          "index": 10,
+          "text": " warm"
+        },
+        {
+          "index": 11,
+          "text": " cup"
+        },
+        {
+          "index": 12,
+          "text": " and"
+        },
+        {
+          "index": 13,
+          "text": " a"
+        },
+        {
+          "index": 14,
+          "text": " view."
+        }
+      ],
+      "t": 4901
+    },
+    {
+      "caption": "sitting with a warm cup and a view.",
+      "captionWindow": "7",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-2",
+        "data-body-pose": "-0.000,0.546,1.000,1.001,0.999",
+        "data-cue-anchor": "If it helped even a",
+        "data-cue-id": "1:3:fast:74",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.24,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.150",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.562",
+        "data-speech-energy": "0.562",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "15"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "If it helped even a",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:74",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 243016,
+      "outputRms": 0.00567,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 7,
+          "text": "sitting"
+        },
+        {
+          "index": 8,
+          "text": " with"
+        },
+        {
+          "index": 9,
+          "text": " a"
+        },
+        {
+          "index": 10,
+          "text": " warm"
+        },
+        {
+          "index": 11,
+          "text": " cup"
+        },
+        {
+          "index": 12,
+          "text": " and"
+        },
+        {
+          "index": 13,
+          "text": " a"
+        },
+        {
+          "index": 14,
+          "text": " view."
+        }
+      ],
+      "t": 4991
+    },
+    {
+      "caption": "If",
+      "captionWindow": "15",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-3",
+        "data-body-pose": "-0.000,0.491,1.000,1.001,0.999",
+        "data-cue-anchor": "If it helped even a",
+        "data-cue-id": "1:3:fast:74",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.23,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.032",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.285",
+        "data-speech-energy": "0.285",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "16"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "If it helped even a",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:74",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 243110,
+      "outputRms": 0.0055,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 15,
+          "text": "If"
+        }
+      ],
+      "t": 5086
+    },
+    {
+      "caption": "If",
+      "captionWindow": "15",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-3",
+        "data-body-pose": "-0.000,0.483,1.000,1.001,0.999",
+        "data-cue-anchor": "If it helped even a",
+        "data-cue-id": "1:3:fast:74",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.22,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.028",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.140",
+        "data-speech-energy": "0.140",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "16"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "If it helped even a",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:74",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 243205,
+      "outputRms": 0.00493,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 15,
+          "text": "If"
+        }
+      ],
+      "t": 5181
+    },
+    {
+      "caption": "If",
+      "captionWindow": "15",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-3",
+        "data-body-pose": "-0.000,0.380,1.000,1.000,1.000",
+        "data-cue-anchor": "If it helped even a",
+        "data-cue-id": "1:3:fast:74",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.16,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.029",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.077",
+        "data-speech-energy": "0.077",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "16"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "If it helped even a",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:74",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 243294,
+      "outputRms": 0.00582,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 15,
+          "text": "If"
+        }
+      ],
+      "t": 5272
+    },
+    {
+      "caption": "If it",
+      "captionWindow": "15",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-17",
+        "data-body-pose": "-0.000,0.237,1.000,1.000,1.000",
+        "data-cue-anchor": "If it helped even a",
+        "data-cue-id": "1:3:fast:74",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.09,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.030",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.049",
+        "data-speech-energy": "0.049",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "If it helped even a",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:74",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 243377,
+      "outputRms": 0.00588,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 15,
+          "text": "If"
+        },
+        {
+          "index": 16,
+          "text": " it"
+        }
+      ],
+      "t": 5354
+    },
+    {
+      "caption": "If it",
+      "captionWindow": "15",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-17",
+        "data-body-pose": "-0.000,0.063,1.000,1.000,1.000",
+        "data-cue-anchor": "If it helped even a",
+        "data-cue-id": "1:3:fast:74",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.02,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.031",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.027",
+        "data-speech-energy": "0.027",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "If it helped even a",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:74",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 243528,
+      "outputRms": 0.00637,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 15,
+          "text": "If"
+        },
+        {
+          "index": 16,
+          "text": " it"
+        }
+      ],
+      "t": 5508
+    },
+    {
+      "caption": "If it helped",
+      "captionWindow": "15",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-17",
+        "data-body-pose": "-0.000,0.024,1.000,1.000,1.000",
+        "data-cue-anchor": "If it helped even a",
+        "data-cue-id": "1:3:fast:74",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.033",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.027",
+        "data-speech-energy": "0.027",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "18"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "If it helped even a",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:74",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 243622,
+      "outputRms": 0.04981,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 15,
+          "text": "If"
+        },
+        {
+          "index": 16,
+          "text": " it"
+        },
+        {
+          "index": 17,
+          "text": " helped"
+        }
+      ],
+      "t": 5601
+    },
+    {
+      "caption": "If it helped",
+      "captionWindow": "15",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-17",
+        "data-body-pose": "-0.000,0.009,1.000,1.000,1.000",
+        "data-cue-anchor": "If it helped even a",
+        "data-cue-id": "1:3:fast:74",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.365",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.257",
+        "data-speech-energy": "0.257",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "18"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "If it helped even a",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:74",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 243716,
+      "outputRms": 0.07455,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 15,
+          "text": "If"
+        },
+        {
+          "index": 16,
+          "text": " it"
+        },
+        {
+          "index": 17,
+          "text": " helped"
+        }
+      ],
+      "t": 5692
+    },
+    {
+      "caption": "If it helped",
+      "captionWindow": "15",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-17",
+        "data-body-pose": "-0.000,0.003,1.000,1.000,1.000",
+        "data-cue-anchor": "If it helped even a",
+        "data-cue-id": "1:3:fast:74",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.129",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.341",
+        "data-speech-energy": "0.341",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "18"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "If it helped even a",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:74",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 243810,
+      "outputRms": 0.03238,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 15,
+          "text": "If"
+        },
+        {
+          "index": 16,
+          "text": " it"
+        },
+        {
+          "index": 17,
+          "text": " helped"
+        }
+      ],
+      "t": 5786
+    },
+    {
+      "caption": "If it helped",
+      "captionWindow": "15",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-17",
+        "data-body-pose": "-0.000,0.001,1.000,1.000,1.000",
+        "data-cue-anchor": "If it helped even a",
+        "data-cue-id": "1:3:fast:74",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.461",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.669",
+        "data-speech-energy": "0.669",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "18"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "If it helped even a",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:74",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 243899,
+      "outputRms": 0.06441,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 15,
+          "text": "If"
+        },
+        {
+          "index": 16,
+          "text": " it"
+        },
+        {
+          "index": 17,
+          "text": " helped"
+        }
+      ],
+      "t": 5878
+    },
+    {
+      "caption": "If it helped even",
+      "captionWindow": "15",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-19",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "If it helped even a",
+        "data-cue-id": "1:3:fast:74",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.054",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.453",
+        "data-speech-energy": "0.453",
+        "data-variant-id": "neutral-return",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "If it helped even a",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:74",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 243988,
+      "outputRms": 0.00569,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 15,
+          "text": "If"
+        },
+        {
+          "index": 16,
+          "text": " it"
+        },
+        {
+          "index": 17,
+          "text": " helped"
+        },
+        {
+          "index": 18,
+          "text": " even"
+        }
+      ],
+      "t": 5966
+    },
+    {
+      "caption": "If it helped even",
+      "captionWindow": "15",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-19",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "If it helped even a",
+        "data-cue-id": "1:3:fast:74",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.226",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.251",
+        "data-speech-energy": "0.251",
+        "data-variant-id": "neutral-return",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "If it helped even a",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:74",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 244082,
+      "outputRms": 0.08075,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 15,
+          "text": "If"
+        },
+        {
+          "index": 16,
+          "text": " it"
+        },
+        {
+          "index": 17,
+          "text": " helped"
+        },
+        {
+          "index": 18,
+          "text": " even"
+        }
+      ],
+      "t": 6058
+    },
+    {
+      "caption": "If it helped even",
+      "captionWindow": "15",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-19",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "If it helped even a",
+        "data-cue-id": "1:3:fast:74",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.617",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.808",
+        "data-speech-energy": "0.808",
+        "data-variant-id": "neutral-return",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "If it helped even a",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:74",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 244160,
+      "outputRms": 0.1215,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 15,
+          "text": "If"
+        },
+        {
+          "index": 16,
+          "text": " it"
+        },
+        {
+          "index": 17,
+          "text": " helped"
+        },
+        {
+          "index": 18,
+          "text": " even"
+        }
+      ],
+      "t": 6136
+    },
+    {
+      "caption": "If it helped even",
+      "captionWindow": "15",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-19",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "If it helped even a",
+        "data-cue-id": "1:3:fast:74",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.446",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.838",
+        "data-speech-energy": "0.838",
+        "data-variant-id": "neutral-return",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "If it helped even a",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:74",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 244238,
+      "outputRms": 0.08753,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 15,
+          "text": "If"
+        },
+        {
+          "index": 16,
+          "text": " it"
+        },
+        {
+          "index": 17,
+          "text": " helped"
+        },
+        {
+          "index": 18,
+          "text": " even"
+        }
+      ],
+      "t": 6213
+    },
+    {
+      "caption": "If it helped even a",
+      "captionWindow": "15",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-20",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "If it helped even a",
+        "data-cue-id": "1:3:fast:74",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.685",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.958",
+        "data-speech-energy": "0.958",
+        "data-variant-id": "neutral-return",
+        "data-word-tick": "20"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "If it helped even a",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:74",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 244316,
+      "outputRms": 0.09511,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 15,
+          "text": "If"
+        },
+        {
+          "index": 16,
+          "text": " it"
+        },
+        {
+          "index": 17,
+          "text": " helped"
+        },
+        {
+          "index": 18,
+          "text": " even"
+        },
+        {
+          "index": 19,
+          "text": " a"
+        }
+      ],
+      "t": 6295
+    },
+    {
+      "caption": "If it helped even a",
+      "captionWindow": "15",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-20",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "If it helped even a",
+        "data-cue-id": "1:3:fast:74",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.216",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.811",
+        "data-speech-energy": "0.811",
+        "data-variant-id": "neutral-return",
+        "data-word-tick": "20"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "If it helped even a",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:74",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 244410,
+      "outputRms": 0.02582,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 15,
+          "text": "If"
+        },
+        {
+          "index": 16,
+          "text": " it"
+        },
+        {
+          "index": 17,
+          "text": " helped"
+        },
+        {
+          "index": 18,
+          "text": " even"
+        },
+        {
+          "index": 19,
+          "text": " a"
+        }
+      ],
+      "t": 6386
+    },
+    {
+      "caption": "If it helped even a little,",
+      "captionWindow": "15",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-20",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "If it helped even a",
+        "data-cue-id": "1:3:fast:74",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.335",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.561",
+        "data-speech-energy": "0.561",
+        "data-variant-id": "neutral-return",
+        "data-word-tick": "21"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "If it helped even a",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:74",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 244499,
+      "outputRms": 0.09228,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 15,
+          "text": "If"
+        },
+        {
+          "index": 16,
+          "text": " it"
+        },
+        {
+          "index": 17,
+          "text": " helped"
+        },
+        {
+          "index": 18,
+          "text": " even"
+        },
+        {
+          "index": 19,
+          "text": " a"
+        },
+        {
+          "index": 20,
+          "text": " little,"
+        }
+      ],
+      "t": 6479
+    },
+    {
+      "caption": "If it helped even a little,",
+      "captionWindow": "15",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-20",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "If it helped even a",
+        "data-cue-id": "1:3:fast:74",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.361",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.770",
+        "data-speech-energy": "0.770",
+        "data-variant-id": "neutral-return",
+        "data-word-tick": "21"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "If it helped even a",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:74",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 244593,
+      "outputRms": 0.03537,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 15,
+          "text": "If"
+        },
+        {
+          "index": 16,
+          "text": " it"
+        },
+        {
+          "index": 17,
+          "text": " helped"
+        },
+        {
+          "index": 18,
+          "text": " even"
+        },
+        {
+          "index": 19,
+          "text": " a"
+        },
+        {
+          "index": 20,
+          "text": " little,"
+        }
+      ],
+      "t": 6572
+    },
+    {
+      "caption": "If it helped even a little,",
+      "captionWindow": "15",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-20",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "If it helped even a",
+        "data-cue-id": "1:3:fast:74",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.159",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.586",
+        "data-speech-energy": "0.586",
+        "data-variant-id": "neutral-return",
+        "data-word-tick": "21"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "If it helped even a",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:74",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 244682,
+      "outputRms": 0.0272,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 15,
+          "text": "If"
+        },
+        {
+          "index": 16,
+          "text": " it"
+        },
+        {
+          "index": 17,
+          "text": " helped"
+        },
+        {
+          "index": 18,
+          "text": " even"
+        },
+        {
+          "index": 19,
+          "text": " a"
+        },
+        {
+          "index": 20,
+          "text": " little,"
+        }
+      ],
+      "t": 6661
+    },
+    {
+      "caption": "If it helped even a little,",
+      "captionWindow": "15",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-20",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "If it helped even a",
+        "data-cue-id": "1:3:fast:74",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.058",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.353",
+        "data-speech-energy": "0.353",
+        "data-variant-id": "neutral-return",
+        "data-word-tick": "21"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "If it helped even a",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:74",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 244765,
+      "outputRms": 0.00578,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 15,
+          "text": "If"
+        },
+        {
+          "index": 16,
+          "text": " it"
+        },
+        {
+          "index": 17,
+          "text": " helped"
+        },
+        {
+          "index": 18,
+          "text": " even"
+        },
+        {
+          "index": 19,
+          "text": " a"
+        },
+        {
+          "index": 20,
+          "text": " little,"
+        }
+      ],
+      "t": 6741
+    },
+    {
+      "caption": "If it helped even a little,",
+      "captionWindow": "15",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-3",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.037",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.201",
+        "data-speech-energy": "0.201",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "21"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 244843,
+      "outputRms": 0.00528,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 15,
+          "text": "If"
+        },
+        {
+          "index": 16,
+          "text": " it"
+        },
+        {
+          "index": 17,
+          "text": " helped"
+        },
+        {
+          "index": 18,
+          "text": " even"
+        },
+        {
+          "index": 19,
+          "text": " a"
+        },
+        {
+          "index": 20,
+          "text": " little,"
+        }
+      ],
+      "t": 6821
+    },
+    {
+      "caption": "that’s",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-4",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.039",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.118",
+        "data-speech-energy": "0.118",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "22"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 244921,
+      "outputRms": 0.00316,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        }
+      ],
+      "t": 6899
+    },
+    {
+      "caption": "that’s",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-4",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.029",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.069",
+        "data-speech-energy": "0.069",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "22"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 244999,
+      "outputRms": 0.00631,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        }
+      ],
+      "t": 6977
+    },
+    {
+      "caption": "that’s",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-4",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.026",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.043",
+        "data-speech-energy": "0.043",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "22"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 245082,
+      "outputRms": 0,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        }
+      ],
+      "t": 7061
+    },
+    {
+      "caption": "that’s",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-4",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.022",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.029",
+        "data-speech-energy": "0.029",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "22"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 245177,
+      "outputRms": 0.00272,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        }
+      ],
+      "t": 7155
+    },
+    {
+      "caption": "that’s a",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-23",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.143",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.078",
+        "data-speech-energy": "0.078",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "23"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 245271,
+      "outputRms": 0.04356,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        },
+        {
+          "index": 22,
+          "text": " a"
+        }
+      ],
+      "t": 7250
+    },
+    {
+      "caption": "that’s a",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-23",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.460",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.871",
+        "data-speech-energy": "0.871",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "23"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 245365,
+      "outputRms": 0.01935,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        },
+        {
+          "index": 22,
+          "text": " a"
+        }
+      ],
+      "t": 7341
+    },
+    {
+      "caption": "that’s a win.",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-23",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.598",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.775",
+        "data-speech-energy": "0.775",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "24"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 245460,
+      "outputRms": 0.12144,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        },
+        {
+          "index": 22,
+          "text": " a"
+        },
+        {
+          "index": 23,
+          "text": " win."
+        }
+      ],
+      "t": 7436
+    },
+    {
+      "caption": "that’s a win.",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-23",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.427",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.812",
+        "data-speech-energy": "0.812",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "24"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 245550,
+      "outputRms": 0.06265,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        },
+        {
+          "index": 22,
+          "text": " a"
+        },
+        {
+          "index": 23,
+          "text": " win."
+        }
+      ],
+      "t": 7528
+    },
+    {
+      "caption": "that’s a win.",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-23",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.483",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.872",
+        "data-speech-energy": "0.872",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "24"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 245644,
+      "outputRms": 0.05218,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        },
+        {
+          "index": 22,
+          "text": " a"
+        },
+        {
+          "index": 23,
+          "text": " win."
+        }
+      ],
+      "t": 7632
+    },
+    {
+      "caption": "that’s a win.",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-23",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.144",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.604",
+        "data-speech-energy": "0.604",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "24"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 245738,
+      "outputRms": 0.01945,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        },
+        {
+          "index": 22,
+          "text": " a"
+        },
+        {
+          "index": 23,
+          "text": " win."
+        }
+      ],
+      "t": 7714
+    },
+    {
+      "caption": "that’s a win.",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-23",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.037",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.317",
+        "data-speech-energy": "0.317",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "24"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 245832,
+      "outputRms": 0.00728,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        },
+        {
+          "index": 22,
+          "text": " a"
+        },
+        {
+          "index": 23,
+          "text": " win."
+        }
+      ],
+      "t": 7810
+    },
+    {
+      "caption": "that’s a win.",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-23",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.031",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.162",
+        "data-speech-energy": "0.162",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "24"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 245921,
+      "outputRms": 0.00466,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        },
+        {
+          "index": 22,
+          "text": " a"
+        },
+        {
+          "index": 23,
+          "text": " win."
+        }
+      ],
+      "t": 7900
+    },
+    {
+      "caption": "that’s a win.",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-23",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.023",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.093",
+        "data-speech-energy": "0.093",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "24"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 245999,
+      "outputRms": 0,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        },
+        {
+          "index": 22,
+          "text": " a"
+        },
+        {
+          "index": 23,
+          "text": " win."
+        }
+      ],
+      "t": 7977
+    },
+    {
+      "caption": "that’s a win.",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-23",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.032",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.054",
+        "data-speech-energy": "0.054",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "24"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 246082,
+      "outputRms": 0.00557,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        },
+        {
+          "index": 22,
+          "text": " a"
+        },
+        {
+          "index": 23,
+          "text": " win."
+        }
+      ],
+      "t": 8057
+    },
+    {
+      "caption": "that’s a win.",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-23",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.030",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.034",
+        "data-speech-energy": "0.034",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "24"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 246154,
+      "outputRms": 0.00671,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        },
+        {
+          "index": 22,
+          "text": " a"
+        },
+        {
+          "index": 23,
+          "text": " win."
+        }
+      ],
+      "t": 8133
+    },
+    {
+      "caption": "that’s a win.",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-23",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.019",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.025",
+        "data-speech-energy": "0.025",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "24"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 246232,
+      "outputRms": 0,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        },
+        {
+          "index": 22,
+          "text": " a"
+        },
+        {
+          "index": 23,
+          "text": " win."
+        }
+      ],
+      "t": 8211
+    },
+    {
+      "caption": "that’s a win.",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-23",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.002",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.013",
+        "data-speech-energy": "0.013",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "24"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 246310,
+      "outputRms": 0,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        },
+        {
+          "index": 22,
+          "text": " a"
+        },
+        {
+          "index": 23,
+          "text": " win."
+        }
+      ],
+      "t": 8288
+    },
+    {
+      "caption": "that’s a win.",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "attentive",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.005",
+        "data-speech-energy": "0.007",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "24"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 246393,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        },
+        {
+          "index": 22,
+          "text": " a"
+        },
+        {
+          "index": 23,
+          "text": " win."
+        }
+      ],
+      "t": 8368
+    },
+    {
+      "caption": "that’s a win.",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "attentive",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.001",
+        "data-speech-energy": "0.003",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "24"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 246471,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        },
+        {
+          "index": 22,
+          "text": " a"
+        },
+        {
+          "index": 23,
+          "text": " win."
+        }
+      ],
+      "t": 8446
+    },
+    {
+      "caption": "that’s a win.",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "attentive",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.002",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "24"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 246548,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        },
+        {
+          "index": 22,
+          "text": " a"
+        },
+        {
+          "index": 23,
+          "text": " win."
+        }
+      ],
+      "t": 8526
+    },
+    {
+      "caption": "that’s a win.",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "attentive",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.001",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "24"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 246626,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        },
+        {
+          "index": 22,
+          "text": " a"
+        },
+        {
+          "index": 23,
+          "text": " win."
+        }
+      ],
+      "t": 8604
+    },
+    {
+      "caption": "that’s a win.",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "attentive",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "24"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 246705,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        },
+        {
+          "index": 22,
+          "text": " a"
+        },
+        {
+          "index": 23,
+          "text": " win."
+        }
+      ],
+      "t": 8682
+    },
+    {
+      "caption": "that’s a win.",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "attentive",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "24"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 246787,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        },
+        {
+          "index": 22,
+          "text": " a"
+        },
+        {
+          "index": 23,
+          "text": " win."
+        }
+      ],
+      "t": 8763
+    },
+    {
+      "caption": "that’s a win.",
+      "captionWindow": "21",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "that’s a win.",
+        "data-cue-id": "1:3:fast:102",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "attentive",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "3",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "24"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "that’s a win.",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:3:fast:102",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 3,
+        "source": "assistant",
+        "turnId": "1:3"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 246865,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "I made coffee and sat by the window for a bit.",
+      "words": [
+        {
+          "index": 21,
+          "text": "that’s"
+        },
+        {
+          "index": 22,
+          "text": " a"
+        },
+        {
+          "index": 23,
+          "text": " win."
+        }
+      ],
+      "t": 8841
+    }
+  ],
+  "completed": true,
+  "firstAudibleAt": 1011,
+  "events": [
+    {
+      "atMs": 238097,
+      "direction": "send",
+      "generating": true,
+      "playing": false,
+      "type": "response.create",
+      "userSpeaking": false
+    },
+    {
+      "atMs": 238250,
+      "direction": "receive",
+      "generating": true,
+      "playing": false,
+      "responseId": "resp_EHffI0rt09pg2nh4Ze9yz",
+      "type": "response.created",
+      "userSpeaking": false
+    },
+    {
+      "atMs": 238878,
+      "direction": "receive",
+      "generating": true,
+      "playing": false,
+      "responseId": "resp_EHffI0rt09pg2nh4Ze9yz",
+      "type": "output_audio_buffer.started",
+      "userSpeaking": false
+    },
+    {
+      "atMs": 240243,
+      "direction": "receive",
+      "generating": true,
+      "playing": true,
+      "responseId": "resp_EHffI0rt09pg2nh4Ze9yz",
+      "type": "response.done",
+      "userSpeaking": false
+    },
+    {
+      "atMs": 246108,
+      "direction": "receive",
+      "generating": false,
+      "playing": true,
+      "responseId": "resp_EHffI0rt09pg2nh4Ze9yz",
+      "type": "output_audio_buffer.stopped",
+      "userSpeaking": false
+    }
+  ],
+  "diagnostics": [
+    {
+      "state": "requested",
+      "turnId": "1:1"
+    },
+    {
+      "elapsedMs": 0,
+      "reason": "explicit_user_event",
+      "state": "prepared",
+      "turnId": "1:1"
+    },
+    {
+      "elapsedMs": 7,
+      "state": "received",
+      "turnId": "1:1"
+    },
+    {
+      "elapsedMs": 1530,
+      "state": "received",
+      "turnId": "1:1"
+    },
+    {
+      "elapsedMs": 1672,
+      "state": "received",
+      "turnId": "1:1"
+    },
+    {
+      "state": "requested",
+      "turnId": "1:2"
+    },
+    {
+      "elapsedMs": 898,
+      "state": "prepared",
+      "turnId": "1:2"
+    },
+    {
+      "elapsedMs": 898,
+      "reason": "reaction_after_speech_plan",
+      "state": "rejected",
+      "turnId": "1:2"
+    },
+    {
+      "elapsedMs": 2089,
+      "state": "received",
+      "turnId": "1:2"
+    },
+    {
+      "elapsedMs": 1057,
+      "state": "received",
+      "turnId": "1:2"
+    },
+    {
+      "state": "requested",
+      "turnId": "1:3"
+    },
+    {
+      "elapsedMs": 755,
+      "state": "prepared",
+      "turnId": "1:3"
+    },
+    {
+      "elapsedMs": 755,
+      "state": "received",
+      "turnId": "1:3"
+    },
+    {
+      "elapsedMs": 1578,
+      "state": "received",
+      "turnId": "1:3"
+    },
+    {
+      "elapsedMs": 3421,
+      "reason": "phrase_already_presented",
+      "state": "rejected",
+      "turnId": "1:3"
+    },
+    {
+      "elapsedMs": 3510,
+      "reason": "speech_plan_timeout",
+      "state": "timeout",
+      "turnId": "1:3"
+    }
+  ],
+  "cues": [
+    {
+      "confidence": 0,
+      "effect": "none",
+      "expression": "neutral",
+      "id": "reaction-1-7",
+      "intensity": 0,
+      "intent": "react",
+      "source": "user",
+      "turnId": "1:3",
+      "atMs": 933
+    },
+    {
+      "accent": "none",
+      "anchor": "That sounds like a gentle",
+      "confidence": 0.68,
+      "effect": "none",
+      "expression": "neutral",
+      "gesture": "still",
+      "id": "1:3:fast:0",
+      "intensity": 0.45,
+      "intent": "explain",
+      "kind": "speech",
+      "phraseIndex": 0,
+      "source": "assistant",
+      "turnId": "1:3",
+      "atMs": 1011
+    },
+    {
+      "accent": "none",
+      "anchor": "just sitting with a warm",
+      "confidence": 0.68,
+      "effect": "none",
+      "expression": "neutral",
+      "gesture": "still",
+      "id": "1:3:fast:33",
+      "intensity": 0.45,
+      "intent": "explain",
+      "kind": "speech",
+      "phraseIndex": 1,
+      "source": "assistant",
+      "turnId": "1:3",
+      "atMs": 2189
+    },
+    {
+      "accent": "none",
+      "anchor": "gentle reset, just",
+      "confidence": 0.9,
+      "effect": "none",
+      "expression": "neutral",
+      "gesture": "settle",
+      "id": "speech-plan-1-8-1",
+      "intensity": 0.55,
+      "intent": "explain",
+      "kind": "speech",
+      "phraseIndex": 1,
+      "source": "assistant",
+      "turnId": "1:3",
+      "atMs": 2997
+    },
+    {
+      "accent": "none",
+      "anchor": "sitting with a",
+      "confidence": 0.8,
+      "effect": "none",
+      "expression": "neutral",
+      "gesture": "nod",
+      "id": "speech-plan-1-8-2",
+      "intensity": 0.5,
+      "intent": "acknowledge",
+      "kind": "speech",
+      "phraseIndex": 2,
+      "source": "assistant",
+      "turnId": "1:3",
+      "atMs": 3433
+    },
+    {
+      "accent": "none",
+      "anchor": "If it helped even a",
+      "confidence": 0.68,
+      "effect": "none",
+      "expression": "neutral",
+      "gesture": "still",
+      "id": "1:3:fast:74",
+      "intensity": 0.45,
+      "intent": "explain",
+      "kind": "speech",
+      "phraseIndex": 2,
+      "source": "assistant",
+      "turnId": "1:3",
+      "atMs": 4991
+    },
+    {
+      "accent": "none",
+      "anchor": "that’s a win.",
+      "confidence": 0.68,
+      "effect": "none",
+      "expression": "neutral",
+      "gesture": "still",
+      "id": "1:3:fast:102",
+      "intensity": 0.45,
+      "intent": "explain",
+      "kind": "speech",
+      "phraseIndex": 3,
+      "source": "assistant",
+      "turnId": "1:3",
+      "atMs": 6821
+    }
+  ],
+  "reconstructedCaption": "That sounds like a gentle reset, just sitting with a warm cup and a view. If it helped even a little, that’s a win.",
+  "sampledWordCount": 24,
+  "firstSpeechCueAt": 1011,
+  "cueLagMs": 0,
+  "lastAudibleAt": 8133,
+  "effects": [],
+  "finalUserTranscript": "I made coffee and sat by the window for a bit.",
+  "summary": {
+    "name": "coffee",
+    "completed": true,
+    "reply": "That sounds like a gentle reset, just sitting with a warm cup and a view. If it helped even a little, that’s a win.",
+    "sampledWordCount": 24,
+    "firstAudibleAt": 1011,
+    "cueLagMs": 0,
+    "effects": [],
+    "cues": [
+      {
+        "expression": "neutral",
+        "intent": "react",
+        "source": "user"
+      },
+      {
+        "expression": "neutral",
+        "intent": "explain",
+        "source": "assistant",
+        "anchor": "That sounds like a gentle"
+      },
+      {
+        "expression": "neutral",
+        "intent": "explain",
+        "source": "assistant",
+        "anchor": "just sitting with a warm"
+      },
+      {
+        "expression": "neutral",
+        "intent": "explain",
+        "source": "assistant",
+        "anchor": "gentle reset, just"
+      },
+      {
+        "expression": "neutral",
+        "intent": "acknowledge",
+        "source": "assistant",
+        "anchor": "sitting with a"
+      },
+      {
+        "expression": "neutral",
+        "intent": "explain",
+        "source": "assistant",
+        "anchor": "If it helped even a"
+      },
+      {
+        "expression": "neutral",
+        "intent": "explain",
+        "source": "assistant",
+        "anchor": "that’s a win."
+      }
+    ],
+    "error": null
+  }
+}

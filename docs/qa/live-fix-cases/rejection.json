@@ -1,0 +1,5236 @@
+{
+  "name": "rejection",
+  "prompt": "Actually I misread the email. It was a rejection. I feel awful.",
+  "startedAt": "2026-08-28T01:26:54.695Z",
+  "startMeter": 208188,
+  "frames": [
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 208527,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [],
+      "t": 342
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 208622,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [],
+      "t": 432
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 208711,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [],
+      "t": 525
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 208804,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [],
+      "t": 616
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 208883,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [],
+      "t": 693
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 208971,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [],
+      "t": 784
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "speaking",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 209054,
+      "outputRms": 0,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [],
+      "t": 867
+    },
+    {
+      "caption": "Oof,",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "phrase-0",
+        "data-body-pose": "0.005,-0.003,1.000,1.000,1.000",
+        "data-cue-anchor": "Oof, that’s brutal,",
+        "data-cue-id": "1:2:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "0.01,0.00,0.01",
+        "data-intent": "comfort",
+        "data-output-level": "0.111",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.031",
+        "data-speech-energy": "0.049",
+        "data-variant-id": "concerned-open",
+        "data-word-tick": "1"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "Oof, that’s brutal,",
+        "confidence": 0.88,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "1:2:fast:0",
+        "intensity": 0.82,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 209144,
+      "outputRms": 0.04537,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 0,
+          "text": "Oof,"
+        }
+      ],
+      "t": 957
+    },
+    {
+      "caption": "Oof,",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "phrase-0",
+        "data-body-pose": "0.932,-0.502,1.010,1.005,0.995",
+        "data-cue-anchor": "Oof, that’s brutal,",
+        "data-cue-id": "1:2:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "1.28,0.00,1.77",
+        "data-intent": "comfort",
+        "data-output-level": "0.520",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.386",
+        "data-speech-energy": "0.620",
+        "data-variant-id": "concerned-open",
+        "data-word-tick": "1"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "Oof, that’s brutal,",
+        "confidence": 0.88,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "1:2:fast:0",
+        "intensity": 0.82,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 209238,
+      "outputRms": 0.09886,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 0,
+          "text": "Oof,"
+        }
+      ],
+      "t": 1049
+    },
+    {
+      "caption": "Oof,",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "phrase-0",
+        "data-body-pose": "2.881,-1.569,1.031,1.014,0.986",
+        "data-cue-anchor": "Oof, that’s brutal,",
+        "data-cue-id": "1:2:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "3.59,0.00,4.95",
+        "data-intent": "comfort",
+        "data-output-level": "0.182",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.369",
+        "data-speech-energy": "0.626",
+        "data-variant-id": "concerned-open",
+        "data-word-tick": "1"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "Oof, that’s brutal,",
+        "confidence": 0.88,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "1:2:fast:0",
+        "intensity": 0.82,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 209316,
+      "outputRms": 0.01254,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 0,
+          "text": "Oof,"
+        }
+      ],
+      "t": 1127
+    },
+    {
+      "caption": "Oof, that’s",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "phrase-1",
+        "data-body-pose": "5.736,-3.313,1.057,1.025,0.976",
+        "data-cue-anchor": "Oof, that’s brutal,",
+        "data-cue-id": "1:2:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "6.25,0.00,8.52",
+        "data-intent": "comfort",
+        "data-output-level": "0.093",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.224",
+        "data-speech-energy": "0.401",
+        "data-variant-id": "concerned-return",
+        "data-word-tick": "2"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "Oof, that’s brutal,",
+        "confidence": 0.88,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "1:2:fast:0",
+        "intensity": 0.82,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 209393,
+      "outputRms": 0.01579,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 0,
+          "text": "Oof,"
+        },
+        {
+          "index": 1,
+          "text": " that’s"
+        }
+      ],
+      "t": 1205
+    },
+    {
+      "caption": "Oof, that’s",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "phrase-1",
+        "data-body-pose": "10.225,-6.244,1.092,1.041,0.963",
+        "data-cue-anchor": "Oof, that’s brutal,",
+        "data-cue-id": "1:2:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "9.92,0.00,13.34",
+        "data-intent": "comfort",
+        "data-output-level": "0.084",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.142",
+        "data-speech-energy": "0.265",
+        "data-variant-id": "concerned-return",
+        "data-word-tick": "2"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "Oof, that’s brutal,",
+        "confidence": 0.88,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "1:2:fast:0",
+        "intensity": 0.82,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 209471,
+      "outputRms": 0.01301,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 0,
+          "text": "Oof,"
+        },
+        {
+          "index": 1,
+          "text": " that’s"
+        }
+      ],
+      "t": 1285
+    },
+    {
+      "caption": "Oof, that’s",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "phrase-1",
+        "data-body-pose": "16.113,-10.163,1.135,1.059,0.949",
+        "data-cue-anchor": "Oof, that’s brutal,",
+        "data-cue-id": "1:2:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "14.18,0.00,18.91",
+        "data-intent": "comfort",
+        "data-output-level": "0.037",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.079",
+        "data-speech-energy": "0.154",
+        "data-variant-id": "concerned-return",
+        "data-word-tick": "2"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "Oof, that’s brutal,",
+        "confidence": 0.88,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "1:2:fast:0",
+        "intensity": 0.82,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 209566,
+      "outputRms": 0.00414,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 0,
+          "text": "Oof,"
+        },
+        {
+          "index": 1,
+          "text": " that’s"
+        }
+      ],
+      "t": 1377
+    },
+    {
+      "caption": "Oof, that’s brutal,",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "phrase-1",
+        "data-body-pose": "19.500,-12.429,1.160,1.067,0.943",
+        "data-cue-anchor": "Oof, that’s brutal,",
+        "data-cue-id": "1:2:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "16.17,0.00,21.51",
+        "data-intent": "comfort",
+        "data-output-level": "0.033",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.043",
+        "data-speech-energy": "0.086",
+        "data-variant-id": "concerned-return",
+        "data-word-tick": "3"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "Oof, that’s brutal,",
+        "confidence": 0.88,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "1:2:fast:0",
+        "intensity": 0.82,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 209653,
+      "outputRms": 0.00714,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 0,
+          "text": "Oof,"
+        },
+        {
+          "index": 1,
+          "text": " that’s"
+        },
+        {
+          "index": 2,
+          "text": " brutal,"
+        }
+      ],
+      "t": 1555
+    },
+    {
+      "caption": "Oof, that’s brutal,",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "phrase-1",
+        "data-body-pose": "21.835,-13.995,1.177,1.070,0.940",
+        "data-cue-anchor": "Oof, that’s brutal,",
+        "data-cue-id": "1:2:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "17.18,0.00,22.83",
+        "data-intent": "comfort",
+        "data-output-level": "0.033",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.017",
+        "data-speech-energy": "0.036",
+        "data-variant-id": "concerned-return",
+        "data-word-tick": "3"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "Oof, that’s brutal,",
+        "confidence": 0.88,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "1:2:fast:0",
+        "intensity": 0.82,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 209832,
+      "outputRms": 0.00442,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 0,
+          "text": "Oof,"
+        },
+        {
+          "index": 1,
+          "text": " that’s"
+        },
+        {
+          "index": 2,
+          "text": " brutal,"
+        }
+      ],
+      "t": 1647
+    },
+    {
+      "caption": "after thinking",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-6",
+        "data-body-pose": "0.000,18.089,0.901,1.048,0.955",
+        "data-cue-anchor": "especially after thinking it was",
+        "data-cue-id": "1:2:fast:20",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "settle",
+        "data-head-pose": "11.44,0.00,-14.20",
+        "data-intent": "correct",
+        "data-output-level": "0.048",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.325",
+        "data-speech-energy": "0.325",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "6"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "especially after thinking it was",
+        "confidence": 0.78,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "settle",
+        "id": "1:2:fast:20",
+        "intensity": 0.48,
+        "intent": "correct",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 211010,
+      "outputRms": 0.00555,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 4,
+          "text": "after"
+        },
+        {
+          "index": 5,
+          "text": " thinking"
+        }
+      ],
+      "t": 2824
+    },
+    {
+      "caption": "after thinking",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-6",
+        "data-body-pose": "0.000,14.581,0.908,1.037,0.964",
+        "data-cue-anchor": "especially after thinking it was",
+        "data-cue-id": "1:2:fast:20",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "settle",
+        "data-head-pose": "8.87,0.00,-11.17",
+        "data-intent": "correct",
+        "data-output-level": "0.035",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.183",
+        "data-speech-energy": "0.183",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "6"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "especially after thinking it was",
+        "confidence": 0.78,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "settle",
+        "id": "1:2:fast:20",
+        "intensity": 0.48,
+        "intent": "correct",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 211088,
+      "outputRms": 0.00678,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 4,
+          "text": "after"
+        },
+        {
+          "index": 5,
+          "text": " thinking"
+        }
+      ],
+      "t": 2903
+    },
+    {
+      "caption": "after thinking",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-6",
+        "data-body-pose": "0.000,10.662,0.924,1.026,0.975",
+        "data-cue-anchor": "especially after thinking it was",
+        "data-cue-id": "1:2:fast:20",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "settle",
+        "data-head-pose": "6.22,0.00,-8.07",
+        "data-intent": "correct",
+        "data-output-level": "0.028",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.093",
+        "data-speech-energy": "0.093",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "6"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "especially after thinking it was",
+        "confidence": 0.78,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "settle",
+        "id": "1:2:fast:20",
+        "intensity": 0.48,
+        "intent": "correct",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 211182,
+      "outputRms": 0.00301,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 4,
+          "text": "after"
+        },
+        {
+          "index": 5,
+          "text": " thinking"
+        }
+      ],
+      "t": 2993
+    },
+    {
+      "caption": "after thinking it",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-7",
+        "data-body-pose": "0.000,8.482,0.935,1.020,0.980",
+        "data-cue-anchor": "especially after thinking it was",
+        "data-cue-id": "1:2:fast:20",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "settle",
+        "data-head-pose": "4.94,0.00,-6.51",
+        "data-intent": "correct",
+        "data-output-level": "0.191",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.173",
+        "data-speech-energy": "0.173",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "7"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "especially after thinking it was",
+        "confidence": 0.78,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "settle",
+        "id": "1:2:fast:20",
+        "intensity": 0.48,
+        "intent": "correct",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 211260,
+      "outputRms": 0.08351,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 4,
+          "text": "after"
+        },
+        {
+          "index": 5,
+          "text": " thinking"
+        },
+        {
+          "index": 6,
+          "text": " it"
+        }
+      ],
+      "t": 3073
+    },
+    {
+      "caption": "after thinking it",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-7",
+        "data-body-pose": "0.000,6.711,0.946,1.016,0.984",
+        "data-cue-anchor": "especially after thinking it was",
+        "data-cue-id": "1:2:fast:20",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "settle",
+        "data-head-pose": "3.88,0.00,-5.16",
+        "data-intent": "correct",
+        "data-output-level": "0.564",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.651",
+        "data-speech-energy": "0.651",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "7"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "especially after thinking it was",
+        "confidence": 0.78,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "settle",
+        "id": "1:2:fast:20",
+        "intensity": 0.48,
+        "intent": "correct",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 211338,
+      "outputRms": 0.11717,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 4,
+          "text": "after"
+        },
+        {
+          "index": 5,
+          "text": " thinking"
+        },
+        {
+          "index": 6,
+          "text": " it"
+        }
+      ],
+      "t": 3152
+    },
+    {
+      "caption": "after thinking it was",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "phrase-3",
+        "data-body-pose": "-0.014,5.330,0.957,1.013,0.987",
+        "data-cue-anchor": "it was good news",
+        "data-cue-id": "speech-plan-1-5-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "tilt-left",
+        "data-head-pose": "3.02,0.00,-4.10",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.263",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.779",
+        "data-speech-energy": "0.779",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "8"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "it was good news",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "tilt-left",
+        "id": "speech-plan-1-5-2",
+        "intensity": 0.55,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 211416,
+      "outputRms": 0.00586,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 4,
+          "text": "after"
+        },
+        {
+          "index": 5,
+          "text": " thinking"
+        },
+        {
+          "index": 6,
+          "text": " it"
+        },
+        {
+          "index": 7,
+          "text": " was"
+        }
+      ],
+      "t": 3231
+    },
+    {
+      "caption": "after thinking it was",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "phrase-3",
+        "data-body-pose": "-0.905,4.784,0.965,1.015,0.985",
+        "data-cue-anchor": "it was good news",
+        "data-cue-id": "speech-plan-1-5-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "tilt-left",
+        "data-head-pose": "1.41,0.00,-5.49",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.617",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.772",
+        "data-speech-energy": "0.772",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "8"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "it was good news",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "tilt-left",
+        "id": "speech-plan-1-5-2",
+        "intensity": 0.55,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 211499,
+      "outputRms": 0.08712,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 4,
+          "text": "after"
+        },
+        {
+          "index": 5,
+          "text": " thinking"
+        },
+        {
+          "index": 6,
+          "text": " it"
+        },
+        {
+          "index": 7,
+          "text": " was"
+        }
+      ],
+      "t": 3311
+    },
+    {
+      "caption": "after thinking it was",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "phrase-3",
+        "data-body-pose": "-3.334,4.146,0.981,1.019,0.981",
+        "data-cue-anchor": "it was good news",
+        "data-cue-id": "speech-plan-1-5-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "tilt-left",
+        "data-head-pose": "-1.69,0.00,-8.99",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.204",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.672",
+        "data-speech-energy": "0.672",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "8"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "it was good news",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "tilt-left",
+        "id": "speech-plan-1-5-2",
+        "intensity": 0.55,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 211588,
+      "outputRms": 0.03277,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 4,
+          "text": "after"
+        },
+        {
+          "index": 5,
+          "text": " thinking"
+        },
+        {
+          "index": 6,
+          "text": " it"
+        },
+        {
+          "index": 7,
+          "text": " was"
+        }
+      ],
+      "t": 3402
+    },
+    {
+      "caption": "after thinking it was good",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "phrase-3",
+        "data-body-pose": "-7.755,4.997,0.991,1.028,0.972",
+        "data-cue-anchor": "it was good news",
+        "data-cue-id": "speech-plan-1-5-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "tilt-left",
+        "data-head-pose": "-4.15,0.00,-15.51",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.331",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.489",
+        "data-speech-energy": "0.489",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "9"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "it was good news",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "tilt-left",
+        "id": "speech-plan-1-5-2",
+        "intensity": 0.55,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 211666,
+      "outputRms": 0.07095,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 4,
+          "text": "after"
+        },
+        {
+          "index": 5,
+          "text": " thinking"
+        },
+        {
+          "index": 6,
+          "text": " it"
+        },
+        {
+          "index": 7,
+          "text": " was"
+        },
+        {
+          "index": 8,
+          "text": " good"
+        }
+      ],
+      "t": 3480
+    },
+    {
+      "caption": "after thinking it was good",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "phrase-3",
+        "data-body-pose": "-13.900,7.001,0.996,1.040,0.960",
+        "data-cue-anchor": "it was good news",
+        "data-cue-id": "speech-plan-1-5-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "tilt-left",
+        "data-head-pose": "-6.39,0.00,-24.04",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.434",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.660",
+        "data-speech-energy": "0.660",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "9"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "it was good news",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "tilt-left",
+        "id": "speech-plan-1-5-2",
+        "intensity": 0.55,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 211743,
+      "outputRms": 0.02837,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 4,
+          "text": "after"
+        },
+        {
+          "index": 5,
+          "text": " thinking"
+        },
+        {
+          "index": 6,
+          "text": " it"
+        },
+        {
+          "index": 7,
+          "text": " was"
+        },
+        {
+          "index": 8,
+          "text": " good"
+        }
+      ],
+      "t": 3555
+    },
+    {
+      "caption": "after thinking it was good",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "phrase-3",
+        "data-body-pose": "-18.614,8.684,0.998,1.046,0.954",
+        "data-cue-anchor": "it was good news",
+        "data-cue-id": "speech-plan-1-5-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "tilt-left",
+        "data-head-pose": "-7.72,0.00,-29.60",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.190",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.466",
+        "data-speech-energy": "0.466",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "9"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "it was good news",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "tilt-left",
+        "id": "speech-plan-1-5-2",
+        "intensity": 0.55,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 211822,
+      "outputRms": 0.08456,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 4,
+          "text": "after"
+        },
+        {
+          "index": 5,
+          "text": " thinking"
+        },
+        {
+          "index": 6,
+          "text": " it"
+        },
+        {
+          "index": 7,
+          "text": " was"
+        },
+        {
+          "index": 8,
+          "text": " good"
+        }
+      ],
+      "t": 3636
+    },
+    {
+      "caption": "after thinking it was good news.",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-10",
+        "data-body-pose": "-21.903,9.894,0.999,1.049,0.951",
+        "data-cue-anchor": "it was good news",
+        "data-cue-id": "speech-plan-1-5-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "tilt-left",
+        "data-head-pose": "-8.42,0.00,-32.63",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.097",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.573",
+        "data-speech-energy": "0.573",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "10"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "it was good news",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "tilt-left",
+        "id": "speech-plan-1-5-2",
+        "intensity": 0.55,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 211934,
+      "outputRms": 0.00642,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 4,
+          "text": "after"
+        },
+        {
+          "index": 5,
+          "text": " thinking"
+        },
+        {
+          "index": 6,
+          "text": " it"
+        },
+        {
+          "index": 7,
+          "text": " was"
+        },
+        {
+          "index": 8,
+          "text": " good"
+        },
+        {
+          "index": 9,
+          "text": " news."
+        }
+      ],
+      "t": 3747
+    },
+    {
+      "caption": "after thinking it was good news.",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-10",
+        "data-body-pose": "-22.957,10.288,1.000,1.050,0.950",
+        "data-cue-anchor": "it was good news",
+        "data-cue-id": "speech-plan-1-5-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "tilt-left",
+        "data-head-pose": "-8.58,0.00,-33.35",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.450",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.706",
+        "data-speech-energy": "0.706",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "10"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "it was good news",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "tilt-left",
+        "id": "speech-plan-1-5-2",
+        "intensity": 0.55,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 212033,
+      "outputRms": 0.02069,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 4,
+          "text": "after"
+        },
+        {
+          "index": 5,
+          "text": " thinking"
+        },
+        {
+          "index": 6,
+          "text": " it"
+        },
+        {
+          "index": 7,
+          "text": " was"
+        },
+        {
+          "index": 8,
+          "text": " good"
+        },
+        {
+          "index": 9,
+          "text": " news."
+        }
+      ],
+      "t": 3844
+    },
+    {
+      "caption": "after thinking it was good news.",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-10",
+        "data-body-pose": "-23.296,10.415,1.000,1.050,0.950",
+        "data-cue-anchor": "it was good news",
+        "data-cue-id": "speech-plan-1-5-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "tilt-left",
+        "data-head-pose": "-8.62,0.00,-33.52",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.247",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.506",
+        "data-speech-energy": "0.506",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "10"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "it was good news",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "tilt-left",
+        "id": "speech-plan-1-5-2",
+        "intensity": 0.55,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 212116,
+      "outputRms": 0.0672,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 4,
+          "text": "after"
+        },
+        {
+          "index": 5,
+          "text": " thinking"
+        },
+        {
+          "index": 6,
+          "text": " it"
+        },
+        {
+          "index": 7,
+          "text": " was"
+        },
+        {
+          "index": 8,
+          "text": " good"
+        },
+        {
+          "index": 9,
+          "text": " news."
+        }
+      ],
+      "t": 3931
+    },
+    {
+      "caption": "after thinking it was good news.",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-10",
+        "data-body-pose": "-23.330,10.414,1.000,1.049,0.951",
+        "data-cue-anchor": "it was good news",
+        "data-cue-id": "speech-plan-1-5-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "tilt-left",
+        "data-head-pose": "-8.56,0.00,-33.35",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.346",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.559",
+        "data-speech-energy": "0.559",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "10"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "it was good news",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "tilt-left",
+        "id": "speech-plan-1-5-2",
+        "intensity": 0.55,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 212211,
+      "outputRms": 0.07018,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 4,
+          "text": "after"
+        },
+        {
+          "index": 5,
+          "text": " thinking"
+        },
+        {
+          "index": 6,
+          "text": " it"
+        },
+        {
+          "index": 7,
+          "text": " was"
+        },
+        {
+          "index": 8,
+          "text": " good"
+        },
+        {
+          "index": 9,
+          "text": " news."
+        }
+      ],
+      "t": 4022
+    },
+    {
+      "caption": "after thinking it was good news.",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-10",
+        "data-body-pose": "-22.155,9.821,1.000,1.043,0.957",
+        "data-cue-anchor": "it was good news",
+        "data-cue-id": "speech-plan-1-5-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "tilt-left",
+        "data-head-pose": "-7.85,0.00,-31.13",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.423",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.571",
+        "data-speech-energy": "0.571",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "10"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "it was good news",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "tilt-left",
+        "id": "speech-plan-1-5-2",
+        "intensity": 0.55,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 212294,
+      "outputRms": 0.05942,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 4,
+          "text": "after"
+        },
+        {
+          "index": 5,
+          "text": " thinking"
+        },
+        {
+          "index": 6,
+          "text": " it"
+        },
+        {
+          "index": 7,
+          "text": " was"
+        },
+        {
+          "index": 8,
+          "text": " good"
+        },
+        {
+          "index": 9,
+          "text": " news."
+        }
+      ],
+      "t": 4108
+    },
+    {
+      "caption": "after thinking it was good news.",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-10",
+        "data-body-pose": "-19.914,8.698,1.000,1.035,0.965",
+        "data-cue-anchor": "it was good news",
+        "data-cue-id": "speech-plan-1-5-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "tilt-left",
+        "data-head-pose": "-6.71,0.00,-27.56",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.089",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.433",
+        "data-speech-energy": "0.433",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "10"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "it was good news",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "tilt-left",
+        "id": "speech-plan-1-5-2",
+        "intensity": 0.55,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 212383,
+      "outputRms": 0.00313,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 4,
+          "text": "after"
+        },
+        {
+          "index": 5,
+          "text": " thinking"
+        },
+        {
+          "index": 6,
+          "text": " it"
+        },
+        {
+          "index": 7,
+          "text": " was"
+        },
+        {
+          "index": 8,
+          "text": " good"
+        },
+        {
+          "index": 9,
+          "text": " news."
+        }
+      ],
+      "t": 4193
+    },
+    {
+      "caption": "after thinking it was good news.",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-10",
+        "data-body-pose": "-17.197,7.339,1.000,1.029,0.971",
+        "data-cue-anchor": "it was good news",
+        "data-cue-id": "speech-plan-1-5-2",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "tilt-left",
+        "data-head-pose": "-5.59,0.00,-23.75",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.604",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "2",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.615",
+        "data-speech-energy": "0.615",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "10"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "it was good news",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "tilt-left",
+        "id": "speech-plan-1-5-2",
+        "intensity": 0.55,
+        "intent": "acknowledge",
+        "kind": "speech",
+        "phraseIndex": 2,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 212460,
+      "outputRms": 0.11927,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 4,
+          "text": "after"
+        },
+        {
+          "index": 5,
+          "text": " thinking"
+        },
+        {
+          "index": 6,
+          "text": " it"
+        },
+        {
+          "index": 7,
+          "text": " was"
+        },
+        {
+          "index": 8,
+          "text": " good"
+        },
+        {
+          "index": 9,
+          "text": " news."
+        }
+      ],
+      "t": 4271
+    },
+    {
+      "caption": "after thinking it was good news.",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "phrase-3",
+        "data-body-pose": "-14.833,6.177,1.001,1.026,0.974",
+        "data-cue-anchor": "I’m really sorry",
+        "data-cue-id": "speech-plan-1-6-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "-4.64,0.00,-20.63",
+        "data-intent": "comfort",
+        "data-output-level": "0.202",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.566",
+        "data-speech-energy": "0.675",
+        "data-variant-id": "concerned-present",
+        "data-word-tick": "10"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "I’m really sorry",
+        "confidence": 0.95,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-6-0",
+        "intensity": 0.9,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 212544,
+      "outputRms": 0.06503,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 4,
+          "text": "after"
+        },
+        {
+          "index": 5,
+          "text": " thinking"
+        },
+        {
+          "index": 6,
+          "text": " it"
+        },
+        {
+          "index": 7,
+          "text": " was"
+        },
+        {
+          "index": 8,
+          "text": " good"
+        },
+        {
+          "index": 9,
+          "text": " news."
+        }
+      ],
+      "t": 4355
+    },
+    {
+      "caption": "I’m",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "phrase-4",
+        "data-body-pose": "-8.995,3.553,1.018,1.024,0.976",
+        "data-cue-anchor": "I’m really sorry",
+        "data-cue-id": "speech-plan-1-6-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "-0.88,0.00,-10.26",
+        "data-intent": "comfort",
+        "data-output-level": "0.418",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.449",
+        "data-speech-energy": "0.643",
+        "data-variant-id": "concerned-left-focus",
+        "data-word-tick": "11"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "I’m really sorry",
+        "confidence": 0.95,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-6-0",
+        "intensity": 0.9,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 212633,
+      "outputRms": 0.10319,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        }
+      ],
+      "t": 4447
+    },
+    {
+      "caption": "I’m",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "phrase-4",
+        "data-body-pose": "-0.687,-0.352,1.045,1.025,0.976",
+        "data-cue-anchor": "I’m really sorry",
+        "data-cue-id": "speech-plan-1-6-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "3.91,0.00,1.91",
+        "data-intent": "comfort",
+        "data-output-level": "0.404",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.505",
+        "data-speech-energy": "0.828",
+        "data-variant-id": "concerned-left-focus",
+        "data-word-tick": "11"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "I’m really sorry",
+        "confidence": 0.95,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-6-0",
+        "intensity": 0.9,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 212727,
+      "outputRms": 0.03818,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        }
+      ],
+      "t": 4542
+    },
+    {
+      "caption": "I’m",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "phrase-4",
+        "data-body-pose": "7.218,-4.760,1.084,1.039,0.965",
+        "data-cue-anchor": "I’m really sorry",
+        "data-cue-id": "speech-plan-1-6-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "8.82,0.00,10.80",
+        "data-intent": "comfort",
+        "data-output-level": "0.289",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.355",
+        "data-speech-energy": "0.638",
+        "data-variant-id": "concerned-left-focus",
+        "data-word-tick": "11"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "I’m really sorry",
+        "confidence": 0.95,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-6-0",
+        "intensity": 0.9,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 212822,
+      "outputRms": 0.04759,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        }
+      ],
+      "t": 4633
+    },
+    {
+      "caption": "I’m really",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-12",
+        "data-body-pose": "14.162,-9.067,1.127,1.057,0.951",
+        "data-cue-anchor": "I’m really sorry",
+        "data-cue-id": "speech-plan-1-6-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "13.31,0.00,17.44",
+        "data-intent": "comfort",
+        "data-output-level": "0.181",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.260",
+        "data-speech-energy": "0.494",
+        "data-variant-id": "concerned-left-focus",
+        "data-word-tick": "12"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "I’m really sorry",
+        "confidence": 0.95,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-6-0",
+        "intensity": 0.9,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 212910,
+      "outputRms": 0.02509,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        },
+        {
+          "index": 11,
+          "text": " really"
+        }
+      ],
+      "t": 4724
+    },
+    {
+      "caption": "I’m really",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-12",
+        "data-body-pose": "18.229,-11.668,1.153,1.065,0.944",
+        "data-cue-anchor": "I’m really sorry",
+        "data-cue-id": "speech-plan-1-6-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "15.64,0.00,20.71",
+        "data-intent": "comfort",
+        "data-output-level": "0.070",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.175",
+        "data-speech-energy": "0.343",
+        "data-variant-id": "concerned-left-focus",
+        "data-word-tick": "12"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "I’m really sorry",
+        "confidence": 0.95,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-6-0",
+        "intensity": 0.9,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 212988,
+      "outputRms": 0.00644,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        },
+        {
+          "index": 11,
+          "text": " really"
+        }
+      ],
+      "t": 4802
+    },
+    {
+      "caption": "I’m really",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-12",
+        "data-body-pose": "20.505,-13.138,1.168,1.069,0.941",
+        "data-cue-anchor": "I’m really sorry",
+        "data-cue-id": "speech-plan-1-6-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "16.71,0.00,22.18",
+        "data-intent": "comfort",
+        "data-output-level": "0.033",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.095",
+        "data-speech-energy": "0.189",
+        "data-variant-id": "concerned-left-focus",
+        "data-word-tick": "12"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "I’m really sorry",
+        "confidence": 0.95,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-6-0",
+        "intensity": 0.9,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 213072,
+      "outputRms": 0.00642,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        },
+        {
+          "index": 11,
+          "text": " really"
+        }
+      ],
+      "t": 4882
+    },
+    {
+      "caption": "I’m really",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-12",
+        "data-body-pose": "21.578,-13.835,1.175,1.070,0.940",
+        "data-cue-anchor": "I’m really sorry",
+        "data-cue-id": "speech-plan-1-6-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "17.11,0.00,22.72",
+        "data-intent": "comfort",
+        "data-output-level": "0.029",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.050",
+        "data-speech-energy": "0.101",
+        "data-variant-id": "concerned-left-focus",
+        "data-word-tick": "12"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "I’m really sorry",
+        "confidence": 0.95,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-6-0",
+        "intensity": 0.9,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 213161,
+      "outputRms": 0.00512,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        },
+        {
+          "index": 11,
+          "text": " really"
+        }
+      ],
+      "t": 4974
+    },
+    {
+      "caption": "I’m really sorry",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-13",
+        "data-body-pose": "22.018,-14.122,1.178,1.070,0.940",
+        "data-cue-anchor": "I’m really sorry",
+        "data-cue-id": "speech-plan-1-6-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "17.23,0.00,22.90",
+        "data-intent": "comfort",
+        "data-output-level": "0.031",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.029",
+        "data-speech-energy": "0.059",
+        "data-variant-id": "concerned-left-focus",
+        "data-word-tick": "13"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "I’m really sorry",
+        "confidence": 0.95,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-6-0",
+        "intensity": 0.9,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 213255,
+      "outputRms": 0.00602,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        },
+        {
+          "index": 11,
+          "text": " really"
+        },
+        {
+          "index": 12,
+          "text": " sorry"
+        }
+      ],
+      "t": 5066
+    },
+    {
+      "caption": "I’m really sorry",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-13",
+        "data-body-pose": "22.160,-14.215,1.179,1.070,0.940",
+        "data-cue-anchor": "I’m really sorry",
+        "data-cue-id": "speech-plan-1-6-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "17.26,0.00,22.94",
+        "data-intent": "comfort",
+        "data-output-level": "0.034",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.020",
+        "data-speech-energy": "0.042",
+        "data-variant-id": "concerned-left-focus",
+        "data-word-tick": "13"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "I’m really sorry",
+        "confidence": 0.95,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-6-0",
+        "intensity": 0.9,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 213333,
+      "outputRms": 0.00629,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        },
+        {
+          "index": 11,
+          "text": " really"
+        },
+        {
+          "index": 12,
+          "text": " sorry"
+        }
+      ],
+      "t": 5147
+    },
+    {
+      "caption": "I’m really sorry",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-13",
+        "data-body-pose": "22.224,-14.257,1.180,1.070,0.940",
+        "data-cue-anchor": "I’m really sorry",
+        "data-cue-id": "speech-plan-1-6-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "17.27,0.00,22.95",
+        "data-intent": "comfort",
+        "data-output-level": "0.029",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.014",
+        "data-speech-energy": "0.029",
+        "data-variant-id": "concerned-left-focus",
+        "data-word-tick": "13"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "I’m really sorry",
+        "confidence": 0.95,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-6-0",
+        "intensity": 0.9,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 213427,
+      "outputRms": 0.00533,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        },
+        {
+          "index": 11,
+          "text": " really"
+        },
+        {
+          "index": 12,
+          "text": " sorry"
+        }
+      ],
+      "t": 5238
+    },
+    {
+      "caption": "I’m really sorry",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-13",
+        "data-body-pose": "21.753,-14.002,1.178,1.067,0.943",
+        "data-cue-anchor": "I’m really sorry",
+        "data-cue-id": "speech-plan-1-6-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "16.77,0.00,22.15",
+        "data-intent": "comfort",
+        "data-output-level": "0.037",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.013",
+        "data-speech-energy": "0.027",
+        "data-variant-id": "concerned-left-focus",
+        "data-word-tick": "13"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "I’m really sorry",
+        "confidence": 0.95,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-6-0",
+        "intensity": 0.9,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 213516,
+      "outputRms": 0.00431,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        },
+        {
+          "index": 11,
+          "text": " really"
+        },
+        {
+          "index": 12,
+          "text": " sorry"
+        }
+      ],
+      "t": 5331
+    },
+    {
+      "caption": "I’m really sorry you",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-14",
+        "data-body-pose": "20.216,-13.162,1.171,1.058,0.952",
+        "data-cue-anchor": "I’m really sorry",
+        "data-cue-id": "speech-plan-1-6-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "15.37,0.00,19.93",
+        "data-intent": "comfort",
+        "data-output-level": "0.199",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.055",
+        "data-speech-energy": "0.113",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "14"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "I’m really sorry",
+        "confidence": 0.95,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-6-0",
+        "intensity": 0.9,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 213600,
+      "outputRms": 0.0575,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        },
+        {
+          "index": 11,
+          "text": " really"
+        },
+        {
+          "index": 12,
+          "text": " sorry"
+        },
+        {
+          "index": 13,
+          "text": " you"
+        }
+      ],
+      "t": 5413
+    },
+    {
+      "caption": "I’m really sorry you",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-14",
+        "data-body-pose": "17.228,-11.337,1.152,1.045,0.962",
+        "data-cue-anchor": "I’m really sorry",
+        "data-cue-id": "speech-plan-1-6-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "12.76,0.00,16.29",
+        "data-intent": "comfort",
+        "data-output-level": "0.525",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.338",
+        "data-speech-energy": "0.704",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "14"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "I’m really sorry",
+        "confidence": 0.95,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-6-0",
+        "intensity": 0.9,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 213689,
+      "outputRms": 0.10799,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        },
+        {
+          "index": 11,
+          "text": " really"
+        },
+        {
+          "index": 12,
+          "text": " sorry"
+        },
+        {
+          "index": 13,
+          "text": " you"
+        }
+      ],
+      "t": 5504
+    },
+    {
+      "caption": "I’m really sorry you got",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-14",
+        "data-body-pose": "12.571,-8.321,1.118,1.029,0.974",
+        "data-cue-anchor": "I’m really sorry",
+        "data-cue-id": "speech-plan-1-6-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "8.98,0.00,11.39",
+        "data-intent": "comfort",
+        "data-output-level": "0.661",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.469",
+        "data-speech-energy": "0.976",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "15"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "I’m really sorry",
+        "confidence": 0.95,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-6-0",
+        "intensity": 0.9,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 213783,
+      "outputRms": 0.06431,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        },
+        {
+          "index": 11,
+          "text": " really"
+        },
+        {
+          "index": 12,
+          "text": " sorry"
+        },
+        {
+          "index": 13,
+          "text": " you"
+        },
+        {
+          "index": 14,
+          "text": " got"
+        }
+      ],
+      "t": 5597
+    },
+    {
+      "caption": "I’m really sorry you got",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-14",
+        "data-body-pose": "9.380,-6.230,1.093,1.021,0.980",
+        "data-cue-anchor": "I’m really sorry",
+        "data-cue-id": "speech-plan-1-6-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "6.84,0.00,8.63",
+        "data-intent": "comfort",
+        "data-output-level": "0.407",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.393",
+        "data-speech-energy": "0.819",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "15"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "I’m really sorry",
+        "confidence": 0.95,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-6-0",
+        "intensity": 0.9,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 213871,
+      "outputRms": 0.05528,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        },
+        {
+          "index": 11,
+          "text": " really"
+        },
+        {
+          "index": 12,
+          "text": " sorry"
+        },
+        {
+          "index": 13,
+          "text": " you"
+        },
+        {
+          "index": 14,
+          "text": " got"
+        }
+      ],
+      "t": 5686
+    },
+    {
+      "caption": "I’m really sorry you got",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "phrase-4",
+        "data-body-pose": "7.455,-4.486,1.074,1.018,0.982",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "settle",
+        "data-head-pose": "5.98,0.00,6.55",
+        "data-intent": "emphasize",
+        "data-output-level": "0.218",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.274",
+        "data-speech-energy": "0.571",
+        "data-variant-id": "concerned-look-up",
+        "data-word-tick": "15"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 213977,
+      "outputRms": 0.01999,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        },
+        {
+          "index": 11,
+          "text": " really"
+        },
+        {
+          "index": 12,
+          "text": " sorry"
+        },
+        {
+          "index": 13,
+          "text": " you"
+        },
+        {
+          "index": 14,
+          "text": " got"
+        }
+      ],
+      "t": 5788
+    },
+    {
+      "caption": "I’m really sorry you got jerked",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "phrase-4",
+        "data-body-pose": "4.905,0.069,1.037,1.019,0.981",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "settle",
+        "data-head-pose": "5.88,0.00,1.20",
+        "data-intent": "emphasize",
+        "data-output-level": "0.827",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.436",
+        "data-speech-energy": "0.908",
+        "data-variant-id": "concerned-look-up",
+        "data-word-tick": "16"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 214060,
+      "outputRms": 0.16188,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        },
+        {
+          "index": 11,
+          "text": " really"
+        },
+        {
+          "index": 12,
+          "text": " sorry"
+        },
+        {
+          "index": 13,
+          "text": " you"
+        },
+        {
+          "index": 14,
+          "text": " got"
+        },
+        {
+          "index": 15,
+          "text": " jerked"
+        }
+      ],
+      "t": 5874
+    },
+    {
+      "caption": "I’m really sorry you got jerked",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "phrase-4",
+        "data-body-pose": "2.482,5.254,0.999,1.024,0.977",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "settle",
+        "data-head-pose": "6.58,0.00,-4.07",
+        "data-intent": "emphasize",
+        "data-output-level": "0.760",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.476",
+        "data-speech-energy": "0.991",
+        "data-variant-id": "concerned-look-up",
+        "data-word-tick": "16"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 214144,
+      "outputRms": 0.11153,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        },
+        {
+          "index": 11,
+          "text": " really"
+        },
+        {
+          "index": 12,
+          "text": " sorry"
+        },
+        {
+          "index": 13,
+          "text": " you"
+        },
+        {
+          "index": 14,
+          "text": " got"
+        },
+        {
+          "index": 15,
+          "text": " jerked"
+        }
+      ],
+      "t": 5955
+    },
+    {
+      "caption": "I’m really sorry you got jerked",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "phrase-4",
+        "data-body-pose": "1.055,11.105,0.964,1.039,0.965",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "settle",
+        "data-head-pose": "9.37,0.00,-9.78",
+        "data-intent": "emphasize",
+        "data-output-level": "0.383",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.445",
+        "data-speech-energy": "0.927",
+        "data-variant-id": "concerned-look-up",
+        "data-word-tick": "16"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 214232,
+      "outputRms": 0.04067,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        },
+        {
+          "index": 11,
+          "text": " really"
+        },
+        {
+          "index": 12,
+          "text": " sorry"
+        },
+        {
+          "index": 13,
+          "text": " you"
+        },
+        {
+          "index": 14,
+          "text": " got"
+        },
+        {
+          "index": 15,
+          "text": " jerked"
+        }
+      ],
+      "t": 6050
+    },
+    {
+      "caption": "I’m really sorry you got jerked",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "phrase-4",
+        "data-body-pose": "0.394,17.259,0.933,1.057,0.950",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "settle",
+        "data-head-pose": "13.19,0.00,-15.54",
+        "data-intent": "emphasize",
+        "data-output-level": "0.567",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.380",
+        "data-speech-energy": "0.791",
+        "data-variant-id": "concerned-look-up",
+        "data-word-tick": "16"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 214327,
+      "outputRms": 0.12609,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        },
+        {
+          "index": 11,
+          "text": " really"
+        },
+        {
+          "index": 12,
+          "text": " sorry"
+        },
+        {
+          "index": 13,
+          "text": " you"
+        },
+        {
+          "index": 14,
+          "text": " got"
+        },
+        {
+          "index": 15,
+          "text": " jerked"
+        }
+      ],
+      "t": 6142
+    },
+    {
+      "caption": "I’m really sorry you got jerked around",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-17",
+        "data-body-pose": "0.132,21.289,0.913,1.067,0.943",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "settle",
+        "data-head-pose": "15.43,0.00,-18.71",
+        "data-intent": "emphasize",
+        "data-output-level": "0.098",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.314",
+        "data-speech-energy": "0.655",
+        "data-variant-id": "concerned-look-up",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 214427,
+      "outputRms": 0.0083,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        },
+        {
+          "index": 11,
+          "text": " really"
+        },
+        {
+          "index": 12,
+          "text": " sorry"
+        },
+        {
+          "index": 13,
+          "text": " you"
+        },
+        {
+          "index": 14,
+          "text": " got"
+        },
+        {
+          "index": 15,
+          "text": " jerked"
+        },
+        {
+          "index": 16,
+          "text": " around"
+        }
+      ],
+      "t": 6238
+    },
+    {
+      "caption": "I’m really sorry you got jerked around",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-17",
+        "data-body-pose": "0.049,22.897,0.905,1.069,0.941",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "settle",
+        "data-head-pose": "16.14,0.00,-19.70",
+        "data-intent": "emphasize",
+        "data-output-level": "0.733",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.357",
+        "data-speech-energy": "0.745",
+        "data-variant-id": "concerned-look-up",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 214516,
+      "outputRms": 0.12863,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        },
+        {
+          "index": 11,
+          "text": " really"
+        },
+        {
+          "index": 12,
+          "text": " sorry"
+        },
+        {
+          "index": 13,
+          "text": " you"
+        },
+        {
+          "index": 14,
+          "text": " got"
+        },
+        {
+          "index": 15,
+          "text": " jerked"
+        },
+        {
+          "index": 16,
+          "text": " around"
+        }
+      ],
+      "t": 6331
+    },
+    {
+      "caption": "I’m really sorry you got jerked around",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-17",
+        "data-body-pose": "0.016,23.600,0.902,1.070,0.940",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "settle",
+        "data-head-pose": "16.38,0.00,-20.03",
+        "data-intent": "emphasize",
+        "data-output-level": "0.101",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.322",
+        "data-speech-energy": "0.672",
+        "data-variant-id": "concerned-look-up",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 214610,
+      "outputRms": 0.006,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        },
+        {
+          "index": 11,
+          "text": " really"
+        },
+        {
+          "index": 12,
+          "text": " sorry"
+        },
+        {
+          "index": 13,
+          "text": " you"
+        },
+        {
+          "index": 14,
+          "text": " got"
+        },
+        {
+          "index": 15,
+          "text": " jerked"
+        },
+        {
+          "index": 16,
+          "text": " around"
+        }
+      ],
+      "t": 6425
+    },
+    {
+      "caption": "I’m really sorry you got jerked around",
+      "captionWindow": "10",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-17",
+        "data-body-pose": "0.005,23.861,0.901,1.070,0.940",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "settle",
+        "data-head-pose": "16.45,0.00,-20.13",
+        "data-intent": "emphasize",
+        "data-output-level": "0.283",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "4",
+        "data-speech-articulation": "0.238",
+        "data-speech-energy": "0.497",
+        "data-variant-id": "concerned-look-up",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 214705,
+      "outputRms": 0.05747,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 10,
+          "text": "I’m"
+        },
+        {
+          "index": 11,
+          "text": " really"
+        },
+        {
+          "index": 12,
+          "text": " sorry"
+        },
+        {
+          "index": 13,
+          "text": " you"
+        },
+        {
+          "index": 14,
+          "text": " got"
+        },
+        {
+          "index": 15,
+          "text": " jerked"
+        },
+        {
+          "index": 16,
+          "text": " around"
+        }
+      ],
+      "t": 6519
+    },
+    {
+      "caption": "like",
+      "captionWindow": "17",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "phrase-5",
+        "data-body-pose": "0.002,23.953,0.900,1.070,0.940",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "settle",
+        "data-head-pose": "16.46,0.00,-20.15",
+        "data-intent": "emphasize",
+        "data-output-level": "0.563",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "5",
+        "data-speech-articulation": "0.388",
+        "data-speech-energy": "0.809",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "18"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 214799,
+      "outputRms": 0.1292,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 17,
+          "text": "like"
+        }
+      ],
+      "t": 6611
+    },
+    {
+      "caption": "like",
+      "captionWindow": "17",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "phrase-5",
+        "data-body-pose": "0.001,23.735,0.900,1.069,0.941",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "settle",
+        "data-head-pose": "16.22,0.00,-19.86",
+        "data-intent": "emphasize",
+        "data-output-level": "0.617",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "5",
+        "data-speech-articulation": "0.471",
+        "data-speech-energy": "0.980",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "18"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 214894,
+      "outputRms": 0.10924,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 17,
+          "text": "like"
+        }
+      ],
+      "t": 6705
+    },
+    {
+      "caption": "like that.",
+      "captionWindow": "17",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-19",
+        "data-body-pose": "0.000,21.295,0.900,1.059,0.947",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "settle",
+        "data-head-pose": "14.00,0.00,-17.23",
+        "data-intent": "emphasize",
+        "data-output-level": "0.320",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "5",
+        "data-speech-articulation": "0.421",
+        "data-speech-energy": "0.877",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 214982,
+      "outputRms": 0.04242,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 17,
+          "text": "like"
+        },
+        {
+          "index": 18,
+          "text": " that."
+        }
+      ],
+      "t": 6797
+    },
+    {
+      "caption": "like that.",
+      "captionWindow": "17",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-19",
+        "data-body-pose": "0.000,17.652,0.901,1.047,0.956",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "settle",
+        "data-head-pose": "11.11,0.00,-13.81",
+        "data-intent": "emphasize",
+        "data-output-level": "0.055",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "5",
+        "data-speech-articulation": "0.262",
+        "data-speech-energy": "0.546",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 215066,
+      "outputRms": 0.00602,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 17,
+          "text": "like"
+        },
+        {
+          "index": 18,
+          "text": " that."
+        }
+      ],
+      "t": 6877
+    },
+    {
+      "caption": "like that.",
+      "captionWindow": "17",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-19",
+        "data-body-pose": "0.000,13.597,0.911,1.034,0.967",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "settle",
+        "data-head-pose": "8.16,0.00,-10.35",
+        "data-intent": "emphasize",
+        "data-output-level": "0.265",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "5",
+        "data-speech-articulation": "0.208",
+        "data-speech-energy": "0.433",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 215155,
+      "outputRms": 0.04471,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 17,
+          "text": "like"
+        },
+        {
+          "index": 18,
+          "text": " that."
+        }
+      ],
+      "t": 6969
+    },
+    {
+      "caption": "like that.",
+      "captionWindow": "17",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-19",
+        "data-body-pose": "0.000,9.800,0.928,1.024,0.977",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "settle",
+        "data-head-pose": "5.70,0.00,-7.45",
+        "data-intent": "emphasize",
+        "data-output-level": "0.095",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "5",
+        "data-speech-articulation": "0.149",
+        "data-speech-energy": "0.309",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 215256,
+      "outputRms": 0.01789,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 17,
+          "text": "like"
+        },
+        {
+          "index": 18,
+          "text": " that."
+        }
+      ],
+      "t": 7067
+    },
+    {
+      "caption": "like that.",
+      "captionWindow": "17",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-19",
+        "data-body-pose": "0.000,7.606,0.940,1.018,0.982",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "settle",
+        "data-head-pose": "4.42,0.00,-5.86",
+        "data-intent": "emphasize",
+        "data-output-level": "0.027",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "5",
+        "data-speech-articulation": "0.086",
+        "data-speech-energy": "0.179",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 215344,
+      "outputRms": 0,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 17,
+          "text": "like"
+        },
+        {
+          "index": 18,
+          "text": " that."
+        }
+      ],
+      "t": 7155
+    },
+    {
+      "caption": "like that.",
+      "captionWindow": "17",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-19",
+        "data-body-pose": "0.000,5.506,0.955,1.013,0.987",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "settle",
+        "data-head-pose": "3.12,0.00,-4.17",
+        "data-intent": "emphasize",
+        "data-output-level": "0.032",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "5",
+        "data-speech-articulation": "0.044",
+        "data-speech-energy": "0.091",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 215438,
+      "outputRms": 0.00207,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 17,
+          "text": "like"
+        },
+        {
+          "index": 18,
+          "text": " that."
+        }
+      ],
+      "t": 7250
+    },
+    {
+      "caption": "like that.",
+      "captionWindow": "17",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-19",
+        "data-body-pose": "0.000,3.555,0.971,1.007,0.993",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "settle",
+        "data-head-pose": "1.88,0.00,-2.52",
+        "data-intent": "emphasize",
+        "data-output-level": "0.027",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "5",
+        "data-speech-articulation": "0.027",
+        "data-speech-energy": "0.056",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 215527,
+      "outputRms": 0.00423,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 17,
+          "text": "like"
+        },
+        {
+          "index": 18,
+          "text": " that."
+        }
+      ],
+      "t": 7341
+    },
+    {
+      "caption": "like that.",
+      "captionWindow": "17",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-19",
+        "data-body-pose": "0.000,1.480,0.988,1.002,0.998",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "settle",
+        "data-head-pose": "0.63,0.00,-0.85",
+        "data-intent": "emphasize",
+        "data-output-level": "0.035",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "5",
+        "data-speech-articulation": "0.016",
+        "data-speech-energy": "0.033",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 215644,
+      "outputRms": 0.00397,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 17,
+          "text": "like"
+        },
+        {
+          "index": 18,
+          "text": " that."
+        }
+      ],
+      "t": 7459
+    },
+    {
+      "caption": "like that.",
+      "captionWindow": "17",
+      "character": {
+        "data-accent": "glance-down",
+        "data-beat": "word-19",
+        "data-body-pose": "0.000,0.636,0.995,1.001,0.999",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "settle",
+        "data-head-pose": "0.22,0.00,-0.29",
+        "data-intent": "emphasize",
+        "data-output-level": "0.005",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "5",
+        "data-speech-articulation": "0.010",
+        "data-speech-energy": "0.020",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 215733,
+      "outputRms": 0,
+      "status": "Conversation state: speaking",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 17,
+          "text": "like"
+        },
+        {
+          "index": 18,
+          "text": " that."
+        }
+      ],
+      "t": 7547
+    },
+    {
+      "caption": "like that.",
+      "captionWindow": "17",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "0.000,0.223,0.998,1.000,1.000",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "still",
+        "data-head-pose": "0.06,0.00,-0.08",
+        "data-intent": "emphasize",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "5",
+        "data-speech-articulation": "0.003",
+        "data-speech-energy": "0.009",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 215834,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 17,
+          "text": "like"
+        },
+        {
+          "index": 18,
+          "text": " that."
+        }
+      ],
+      "t": 7645
+    },
+    {
+      "caption": "like that.",
+      "captionWindow": "17",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "0.000,0.091,0.999,1.000,1.000",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "still",
+        "data-head-pose": "0.02,0.00,-0.02",
+        "data-intent": "emphasize",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "5",
+        "data-speech-articulation": "0.001",
+        "data-speech-energy": "0.004",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 215916,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 17,
+          "text": "like"
+        },
+        {
+          "index": 18,
+          "text": " that."
+        }
+      ],
+      "t": 7730
+    },
+    {
+      "caption": "like that.",
+      "captionWindow": "17",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "0.000,0.034,1.000,1.000,1.000",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "still",
+        "data-head-pose": "0.01,0.00,-0.01",
+        "data-intent": "emphasize",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "5",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.002",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 216004,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 17,
+          "text": "like"
+        },
+        {
+          "index": 18,
+          "text": " that."
+        }
+      ],
+      "t": 7819
+    },
+    {
+      "caption": "like that.",
+      "captionWindow": "17",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "0.000,0.013,1.000,1.000,1.000",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "emphasize",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "5",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.001",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 216088,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 17,
+          "text": "like"
+        },
+        {
+          "index": 18,
+          "text": " that."
+        }
+      ],
+      "t": 7899
+    },
+    {
+      "caption": "like that.",
+      "captionWindow": "17",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "0.000,0.005,1.000,1.000,1.000",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "emphasize",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "5",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.001",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 216166,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 17,
+          "text": "like"
+        },
+        {
+          "index": 18,
+          "text": " that."
+        }
+      ],
+      "t": 7980
+    },
+    {
+      "caption": "like that.",
+      "captionWindow": "17",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "0.000,0.002,1.000,1.000,1.000",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "emphasize",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "5",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 216260,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 17,
+          "text": "like"
+        },
+        {
+          "index": 18,
+          "text": " that."
+        }
+      ],
+      "t": 8071
+    },
+    {
+      "caption": "like that.",
+      "captionWindow": "17",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "0.000,0.001,1.000,1.000,1.000",
+        "data-cue-anchor": "jerked around like",
+        "data-cue-id": "speech-plan-1-6-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,-0.00",
+        "data-intent": "emphasize",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "5",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "concerned-punctuate",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "glance-down",
+        "anchor": "jerked around like",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "settle",
+        "id": "speech-plan-1-6-1",
+        "intensity": 0.8,
+        "intent": "emphasize",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:2"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 216349,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+      "words": [
+        {
+          "index": 17,
+          "text": "like"
+        },
+        {
+          "index": 18,
+          "text": " that."
+        }
+      ],
+      "t": 8160
+    }
+  ],
+  "completed": true,
+  "firstAudibleAt": 957,
+  "events": [
+    {
+      "atMs": 208260,
+      "direction": "send",
+      "generating": true,
+      "playing": false,
+      "type": "response.create",
+      "userSpeaking": false
+    },
+    {
+      "atMs": 208429,
+      "direction": "receive",
+      "generating": true,
+      "playing": false,
+      "responseId": "resp_EHfeoyAAcddgB0QkqwWJ0",
+      "type": "response.created",
+      "userSpeaking": false
+    },
+    {
+      "atMs": 208992,
+      "direction": "receive",
+      "generating": true,
+      "playing": false,
+      "responseId": "resp_EHfeoyAAcddgB0QkqwWJ0",
+      "type": "output_audio_buffer.started",
+      "userSpeaking": false
+    },
+    {
+      "atMs": 210132,
+      "direction": "receive",
+      "generating": true,
+      "playing": true,
+      "responseId": "resp_EHfeoyAAcddgB0QkqwWJ0",
+      "type": "response.done",
+      "userSpeaking": false
+    },
+    {
+      "atMs": 215548,
+      "direction": "receive",
+      "generating": false,
+      "playing": true,
+      "responseId": "resp_EHfeoyAAcddgB0QkqwWJ0",
+      "type": "output_audio_buffer.stopped",
+      "userSpeaking": false
+    }
+  ],
+  "diagnostics": [
+    {
+      "state": "requested",
+      "turnId": "1:1"
+    },
+    {
+      "elapsedMs": 0,
+      "reason": "explicit_user_event",
+      "state": "prepared",
+      "turnId": "1:1"
+    },
+    {
+      "elapsedMs": 7,
+      "state": "received",
+      "turnId": "1:1"
+    },
+    {
+      "elapsedMs": 1530,
+      "state": "received",
+      "turnId": "1:1"
+    },
+    {
+      "elapsedMs": 1672,
+      "state": "received",
+      "turnId": "1:1"
+    },
+    {
+      "state": "requested",
+      "turnId": "1:2"
+    },
+    {
+      "elapsedMs": 898,
+      "state": "prepared",
+      "turnId": "1:2"
+    },
+    {
+      "elapsedMs": 898,
+      "reason": "reaction_after_speech_plan",
+      "state": "rejected",
+      "turnId": "1:2"
+    },
+    {
+      "elapsedMs": 2089,
+      "state": "received",
+      "turnId": "1:2"
+    },
+    {
+      "elapsedMs": 1057,
+      "state": "received",
+      "turnId": "1:2"
+    }
+  ],
+  "cues": [
+    {
+      "accent": "soften",
+      "anchor": "Oof, that’s brutal,",
+      "confidence": 0.88,
+      "effect": "none",
+      "expression": "concerned",
+      "gesture": "lean-in",
+      "id": "1:2:fast:0",
+      "intensity": 0.82,
+      "intent": "comfort",
+      "kind": "speech",
+      "phraseIndex": 0,
+      "source": "assistant",
+      "turnId": "1:2",
+      "atMs": 957
+    },
+    {
+      "accent": "glance-down",
+      "anchor": "especially after thinking it was",
+      "confidence": 0.78,
+      "effect": "none",
+      "expression": "neutral",
+      "gesture": "settle",
+      "id": "1:2:fast:20",
+      "intensity": 0.48,
+      "intent": "correct",
+      "kind": "speech",
+      "phraseIndex": 1,
+      "source": "assistant",
+      "turnId": "1:2",
+      "atMs": 2824
+    },
+    {
+      "accent": "glance-down",
+      "anchor": "it was good news",
+      "confidence": 0.85,
+      "effect": "none",
+      "expression": "neutral",
+      "gesture": "tilt-left",
+      "id": "speech-plan-1-5-2",
+      "intensity": 0.55,
+      "intent": "acknowledge",
+      "kind": "speech",
+      "phraseIndex": 2,
+      "source": "assistant",
+      "turnId": "1:2",
+      "atMs": 3231
+    },
+    {
+      "accent": "soften",
+      "anchor": "I’m really sorry",
+      "confidence": 0.95,
+      "effect": "none",
+      "expression": "concerned",
+      "gesture": "lean-in",
+      "id": "speech-plan-1-6-0",
+      "intensity": 0.9,
+      "intent": "comfort",
+      "kind": "speech",
+      "phraseIndex": 0,
+      "source": "assistant",
+      "turnId": "1:2",
+      "atMs": 4355
+    },
+    {
+      "accent": "glance-down",
+      "anchor": "jerked around like",
+      "confidence": 0.9,
+      "effect": "none",
+      "expression": "concerned",
+      "gesture": "settle",
+      "id": "speech-plan-1-6-1",
+      "intensity": 0.8,
+      "intent": "emphasize",
+      "kind": "speech",
+      "phraseIndex": 1,
+      "source": "assistant",
+      "turnId": "1:2",
+      "atMs": 5788
+    }
+  ],
+  "reconstructedCaption": "Oof, that’s brutal, after thinking it was good news. I’m really sorry you got jerked around like that.",
+  "sampledWordCount": 18,
+  "firstSpeechCueAt": 957,
+  "cueLagMs": 0,
+  "lastAudibleAt": 7067,
+  "effects": [],
+  "finalUserTranscript": "Actually I misread the email. It was a rejection. I feel awful.",
+  "summary": {
+    "name": "rejection",
+    "completed": true,
+    "reply": "Oof, that’s brutal, after thinking it was good news. I’m really sorry you got jerked around like that.",
+    "sampledWordCount": 18,
+    "firstAudibleAt": 957,
+    "cueLagMs": 0,
+    "effects": [],
+    "cues": [
+      {
+        "expression": "concerned",
+        "intent": "comfort",
+        "source": "assistant",
+        "anchor": "Oof, that’s brutal,"
+      },
+      {
+        "expression": "neutral",
+        "intent": "correct",
+        "source": "assistant",
+        "anchor": "especially after thinking it was"
+      },
+      {
+        "expression": "neutral",
+        "intent": "acknowledge",
+        "source": "assistant",
+        "anchor": "it was good news"
+      },
+      {
+        "expression": "concerned",
+        "intent": "comfort",
+        "source": "assistant",
+        "anchor": "I’m really sorry"
+      },
+      {
+        "expression": "concerned",
+        "intent": "emphasize",
+        "source": "assistant",
+        "anchor": "jerked around like"
+      }
+    ],
+    "error": null
+  }
+}

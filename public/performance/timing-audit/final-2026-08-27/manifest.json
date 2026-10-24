@@ -1,0 +1,1155 @@
+{
+  "kind": "realtime-speech-timing-audit",
+  "generatedAt": "2026-08-27T15:14:02.147Z",
+  "model": "gpt-realtime-2.1",
+  "voice": "cedar",
+  "sampleRate": 24000,
+  "channels": 1,
+  "encoding": "pcm_s16le",
+  "totalDurationSeconds": 9.15,
+  "whisperRequested": true,
+  "safetyLimits": {
+    "maxClipSeconds": 18,
+    "maxTotalSeconds": 35
+  },
+  "clips": [
+    {
+      "id": "side-question",
+      "filename": "side-question.wav",
+      "expectedText": "What’s going on on your side?",
+      "responseInstructions": "Say this exact sentence.\nSound curious and warm.\nLet the question land naturally.\nDo not add any other words.\nWhat’s going on on your side?",
+      "transcript": "What’s going on on your side?",
+      "transcriptMatchesExpected": true,
+      "transcriptNewlineCount": 0,
+      "instructionNewlineCount": 4,
+      "responseId": "resp_EHW5aO0AQ0CEoolokgOME",
+      "sampleRate": 24000,
+      "pcmSamples": 63600,
+      "pcmBytes": 127200,
+      "durationSeconds": 2.65,
+      "streamElapsedMs": 1512.109,
+      "audioDeltaCount": 7,
+      "transcriptDeltaCount": 8,
+      "firstAudioDeltaMs": 1118.989,
+      "firstTranscriptDeltaMs": 889.903,
+      "lastAudioDeltaMs": 1478.954,
+      "lastTranscriptDeltaMs": 1224.945,
+      "firstTranscriptAudioSamples": 0,
+      "lastTranscriptAudioSamples": 28800,
+      "firstTranscriptAudioOffsetMs": 0,
+      "lastTranscriptAudioOffsetMs": 1200,
+      "whisper": {
+        "text": "What′s going on on your side?",
+        "normalizedTextMatchesExpected": false,
+        "words": [
+          {
+            "word": "What′s",
+            "startMs": 0,
+            "endMs": 420
+          },
+          {
+            "word": "going",
+            "startMs": 420,
+            "endMs": 820
+          },
+          {
+            "word": "on",
+            "startMs": 820,
+            "endMs": 1280
+          },
+          {
+            "word": "on",
+            "startMs": 1280,
+            "endMs": 1480
+          },
+          {
+            "word": "your",
+            "startMs": 1480,
+            "endMs": 1760
+          },
+          {
+            "word": "side",
+            "startMs": 1760,
+            "endMs": 2040
+          }
+        ]
+      },
+      "timeline": [
+        {
+          "index": 8,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 889.903,
+          "pcmSamplesCumulative": 0,
+          "delta": "What",
+          "transcriptCumulative": "What",
+          "transcriptCharsCumulative": 4
+        },
+        {
+          "index": 9,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 899.04,
+          "pcmSamplesCumulative": 0,
+          "delta": "’s",
+          "transcriptCumulative": "What’s",
+          "transcriptCharsCumulative": 6
+        },
+        {
+          "index": 10,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 904.677,
+          "pcmSamplesCumulative": 0,
+          "delta": " going",
+          "transcriptCumulative": "What’s going",
+          "transcriptCharsCumulative": 12
+        },
+        {
+          "index": 11,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1118.989,
+          "pcmSamplesCumulative": 9600,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 400
+        },
+        {
+          "index": 12,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1119.107,
+          "pcmSamplesCumulative": 9600,
+          "delta": " on",
+          "transcriptCumulative": "What’s going on",
+          "transcriptCharsCumulative": 15
+        },
+        {
+          "index": 13,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1119.165,
+          "pcmSamplesCumulative": 9600,
+          "delta": " on",
+          "transcriptCumulative": "What’s going on on",
+          "transcriptCharsCumulative": 18
+        },
+        {
+          "index": 14,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1119.216,
+          "pcmSamplesCumulative": 9600,
+          "delta": " your",
+          "transcriptCumulative": "What’s going on on your",
+          "transcriptCharsCumulative": 23
+        },
+        {
+          "index": 15,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1157.906,
+          "pcmSamplesCumulative": 19200,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 800
+        },
+        {
+          "index": 16,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1221.71,
+          "pcmSamplesCumulative": 28800,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 1200
+        },
+        {
+          "index": 17,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1221.812,
+          "pcmSamplesCumulative": 28800,
+          "delta": " side",
+          "transcriptCumulative": "What’s going on on your side",
+          "transcriptCharsCumulative": 28
+        },
+        {
+          "index": 18,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1224.945,
+          "pcmSamplesCumulative": 28800,
+          "delta": "?",
+          "transcriptCumulative": "What’s going on on your side?",
+          "transcriptCharsCumulative": 29
+        },
+        {
+          "index": 19,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1313.878,
+          "pcmSamplesCumulative": 38400,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 1600
+        },
+        {
+          "index": 20,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1379.897,
+          "pcmSamplesCumulative": 48000,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 2000
+        },
+        {
+          "index": 21,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1449.56,
+          "pcmSamplesCumulative": 57600,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 2400
+        },
+        {
+          "index": 22,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1478.954,
+          "pcmSamplesCumulative": 63600,
+          "deltaSamples": 6000,
+          "audioOffsetMs": 2650
+        }
+      ],
+      "audioDeltas": [
+        {
+          "index": 11,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1118.989,
+          "pcmSamplesCumulative": 9600,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 400
+        },
+        {
+          "index": 15,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1157.906,
+          "pcmSamplesCumulative": 19200,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 800
+        },
+        {
+          "index": 16,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1221.71,
+          "pcmSamplesCumulative": 28800,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 1200
+        },
+        {
+          "index": 19,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1313.878,
+          "pcmSamplesCumulative": 38400,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 1600
+        },
+        {
+          "index": 20,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1379.897,
+          "pcmSamplesCumulative": 48000,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 2000
+        },
+        {
+          "index": 21,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1449.56,
+          "pcmSamplesCumulative": 57600,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 2400
+        },
+        {
+          "index": 22,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1478.954,
+          "pcmSamplesCumulative": 63600,
+          "deltaSamples": 6000,
+          "audioOffsetMs": 2650
+        }
+      ],
+      "transcriptDeltas": [
+        {
+          "index": 8,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 889.903,
+          "pcmSamplesCumulative": 0,
+          "delta": "What",
+          "transcriptCumulative": "What",
+          "transcriptCharsCumulative": 4
+        },
+        {
+          "index": 9,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 899.04,
+          "pcmSamplesCumulative": 0,
+          "delta": "’s",
+          "transcriptCumulative": "What’s",
+          "transcriptCharsCumulative": 6
+        },
+        {
+          "index": 10,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 904.677,
+          "pcmSamplesCumulative": 0,
+          "delta": " going",
+          "transcriptCumulative": "What’s going",
+          "transcriptCharsCumulative": 12
+        },
+        {
+          "index": 12,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1119.107,
+          "pcmSamplesCumulative": 9600,
+          "delta": " on",
+          "transcriptCumulative": "What’s going on",
+          "transcriptCharsCumulative": 15
+        },
+        {
+          "index": 13,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1119.165,
+          "pcmSamplesCumulative": 9600,
+          "delta": " on",
+          "transcriptCumulative": "What’s going on on",
+          "transcriptCharsCumulative": 18
+        },
+        {
+          "index": 14,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1119.216,
+          "pcmSamplesCumulative": 9600,
+          "delta": " your",
+          "transcriptCumulative": "What’s going on on your",
+          "transcriptCharsCumulative": 23
+        },
+        {
+          "index": 17,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1221.812,
+          "pcmSamplesCumulative": 28800,
+          "delta": " side",
+          "transcriptCumulative": "What’s going on on your side",
+          "transcriptCharsCumulative": 28
+        },
+        {
+          "index": 18,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1224.945,
+          "pcmSamplesCumulative": 28800,
+          "delta": "?",
+          "transcriptCumulative": "What’s going on on your side?",
+          "transcriptCharsCumulative": 29
+        }
+      ]
+    },
+    {
+      "id": "empathy-correction",
+      "filename": "empathy-correction.wav",
+      "expectedText": "I was wrong about that. Thanks for catching it. That sounds frustrating, but we can fix it together.",
+      "responseInstructions": "Say these three complete sentences exactly.\nSound sincere, calm, and conversational.\nGive the correction a small pause before the empathy.\nDo not add any other words.\nI was wrong about that.\nThanks for catching it.\nThat sounds frustrating, but we can fix it together.",
+      "transcript": "I was wrong about that.\nThanks for catching it.\nThat sounds frustrating, but we can fix it together.",
+      "transcriptMatchesExpected": true,
+      "transcriptNewlineCount": 2,
+      "instructionNewlineCount": 6,
+      "responseId": "resp_EHW5eXJ2rXGTFZetgvB5r",
+      "sampleRate": 24000,
+      "pcmSamples": 156000,
+      "pcmBytes": 312000,
+      "durationSeconds": 6.5,
+      "streamElapsedMs": 2355.589,
+      "audioDeltaCount": 17,
+      "transcriptDeltaCount": 23,
+      "firstAudioDeltaMs": 1294.77,
+      "firstTranscriptDeltaMs": 1058.835,
+      "lastAudioDeltaMs": 2326.323,
+      "lastTranscriptDeltaMs": 1874.891,
+      "firstTranscriptAudioSamples": 0,
+      "lastTranscriptAudioSamples": 76800,
+      "firstTranscriptAudioOffsetMs": 0,
+      "lastTranscriptAudioOffsetMs": 3200,
+      "whisper": {
+        "text": "I was wrong about that. Thanks for catching it. That sounds frustrating, but we can fix it together.",
+        "normalizedTextMatchesExpected": true,
+        "words": [
+          {
+            "word": "I",
+            "startMs": 0,
+            "endMs": 500
+          },
+          {
+            "word": "was",
+            "startMs": 500,
+            "endMs": 660
+          },
+          {
+            "word": "wrong",
+            "startMs": 660,
+            "endMs": 840
+          },
+          {
+            "word": "about",
+            "startMs": 840,
+            "endMs": 1060
+          },
+          {
+            "word": "that",
+            "startMs": 1060,
+            "endMs": 1580
+          },
+          {
+            "word": "Thanks",
+            "startMs": 2180,
+            "endMs": 2220
+          },
+          {
+            "word": "for",
+            "startMs": 2220,
+            "endMs": 2420
+          },
+          {
+            "word": "catching",
+            "startMs": 2420,
+            "endMs": 2560
+          },
+          {
+            "word": "it",
+            "startMs": 2560,
+            "endMs": 3000
+          },
+          {
+            "word": "That",
+            "startMs": 3640,
+            "endMs": 4080
+          },
+          {
+            "word": "sounds",
+            "startMs": 4080,
+            "endMs": 4300
+          },
+          {
+            "word": "frustrating",
+            "startMs": 4300,
+            "endMs": 4760
+          },
+          {
+            "word": "but",
+            "startMs": 4960,
+            "endMs": 5180
+          },
+          {
+            "word": "we",
+            "startMs": 5180,
+            "endMs": 5320
+          },
+          {
+            "word": "can",
+            "startMs": 5320,
+            "endMs": 5460
+          },
+          {
+            "word": "fix",
+            "startMs": 5460,
+            "endMs": 5600
+          },
+          {
+            "word": "it",
+            "startMs": 5600,
+            "endMs": 5820
+          },
+          {
+            "word": "together",
+            "startMs": 5820,
+            "endMs": 5980
+          }
+        ]
+      },
+      "timeline": [
+        {
+          "index": 8,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1058.835,
+          "pcmSamplesCumulative": 0,
+          "delta": "I",
+          "transcriptCumulative": "I",
+          "transcriptCharsCumulative": 1
+        },
+        {
+          "index": 9,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1063.765,
+          "pcmSamplesCumulative": 0,
+          "delta": " was",
+          "transcriptCumulative": "I was",
+          "transcriptCharsCumulative": 5
+        },
+        {
+          "index": 10,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1073.482,
+          "pcmSamplesCumulative": 0,
+          "delta": " wrong",
+          "transcriptCumulative": "I was wrong",
+          "transcriptCharsCumulative": 11
+        },
+        {
+          "index": 11,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1294.77,
+          "pcmSamplesCumulative": 9600,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 400
+        },
+        {
+          "index": 12,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1296.473,
+          "pcmSamplesCumulative": 9600,
+          "delta": " about",
+          "transcriptCumulative": "I was wrong about",
+          "transcriptCharsCumulative": 17
+        },
+        {
+          "index": 13,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1297.642,
+          "pcmSamplesCumulative": 9600,
+          "delta": " that",
+          "transcriptCumulative": "I was wrong about that",
+          "transcriptCharsCumulative": 22
+        },
+        {
+          "index": 14,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1300.717,
+          "pcmSamplesCumulative": 9600,
+          "delta": ".",
+          "transcriptCumulative": "I was wrong about that.",
+          "transcriptCharsCumulative": 23
+        },
+        {
+          "index": 15,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1358.265,
+          "pcmSamplesCumulative": 19200,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 800
+        },
+        {
+          "index": 16,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1421.635,
+          "pcmSamplesCumulative": 28800,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 1200
+        },
+        {
+          "index": 17,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1421.736,
+          "pcmSamplesCumulative": 28800,
+          "delta": "\n",
+          "transcriptCumulative": "I was wrong about that.\n",
+          "transcriptCharsCumulative": 24
+        },
+        {
+          "index": 18,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1421.796,
+          "pcmSamplesCumulative": 28800,
+          "delta": "Thanks",
+          "transcriptCumulative": "I was wrong about that.\nThanks",
+          "transcriptCharsCumulative": 30
+        },
+        {
+          "index": 19,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1421.852,
+          "pcmSamplesCumulative": 28800,
+          "delta": " for",
+          "transcriptCumulative": "I was wrong about that.\nThanks for",
+          "transcriptCharsCumulative": 34
+        },
+        {
+          "index": 20,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1470.114,
+          "pcmSamplesCumulative": 38400,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 1600
+        },
+        {
+          "index": 21,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1522.907,
+          "pcmSamplesCumulative": 38400,
+          "delta": " catching",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching",
+          "transcriptCharsCumulative": 43
+        },
+        {
+          "index": 22,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1529.649,
+          "pcmSamplesCumulative": 38400,
+          "delta": " it",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it",
+          "transcriptCharsCumulative": 46
+        },
+        {
+          "index": 23,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1541.088,
+          "pcmSamplesCumulative": 38400,
+          "delta": ".\n",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\n",
+          "transcriptCharsCumulative": 48
+        },
+        {
+          "index": 24,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1556.53,
+          "pcmSamplesCumulative": 38400,
+          "delta": "That",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat",
+          "transcriptCharsCumulative": 52
+        },
+        {
+          "index": 25,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1560.269,
+          "pcmSamplesCumulative": 38400,
+          "delta": " sounds",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat sounds",
+          "transcriptCharsCumulative": 59
+        },
+        {
+          "index": 26,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1597.964,
+          "pcmSamplesCumulative": 48000,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 2000
+        },
+        {
+          "index": 27,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1653.471,
+          "pcmSamplesCumulative": 57600,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 2400
+        },
+        {
+          "index": 28,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1723.541,
+          "pcmSamplesCumulative": 67200,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 2800
+        },
+        {
+          "index": 29,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1768.628,
+          "pcmSamplesCumulative": 76800,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 3200
+        },
+        {
+          "index": 30,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1819.492,
+          "pcmSamplesCumulative": 76800,
+          "delta": " frustrating",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat sounds frustrating",
+          "transcriptCharsCumulative": 71
+        },
+        {
+          "index": 31,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1822.554,
+          "pcmSamplesCumulative": 76800,
+          "delta": ",",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat sounds frustrating,",
+          "transcriptCharsCumulative": 72
+        },
+        {
+          "index": 32,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1830.129,
+          "pcmSamplesCumulative": 76800,
+          "delta": " but",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat sounds frustrating, but",
+          "transcriptCharsCumulative": 76
+        },
+        {
+          "index": 33,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1848.714,
+          "pcmSamplesCumulative": 76800,
+          "delta": " we",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat sounds frustrating, but we",
+          "transcriptCharsCumulative": 79
+        },
+        {
+          "index": 34,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1859.97,
+          "pcmSamplesCumulative": 76800,
+          "delta": " can",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat sounds frustrating, but we can",
+          "transcriptCharsCumulative": 83
+        },
+        {
+          "index": 35,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1871.322,
+          "pcmSamplesCumulative": 76800,
+          "delta": " fix",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat sounds frustrating, but we can fix",
+          "transcriptCharsCumulative": 87
+        },
+        {
+          "index": 36,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1873.89,
+          "pcmSamplesCumulative": 76800,
+          "delta": " it",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat sounds frustrating, but we can fix it",
+          "transcriptCharsCumulative": 90
+        },
+        {
+          "index": 37,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1874.836,
+          "pcmSamplesCumulative": 76800,
+          "delta": " together",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat sounds frustrating, but we can fix it together",
+          "transcriptCharsCumulative": 99
+        },
+        {
+          "index": 38,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1874.891,
+          "pcmSamplesCumulative": 76800,
+          "delta": ".",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat sounds frustrating, but we can fix it together.",
+          "transcriptCharsCumulative": 100
+        },
+        {
+          "index": 39,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1912.935,
+          "pcmSamplesCumulative": 86400,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 3600
+        },
+        {
+          "index": 40,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1996.042,
+          "pcmSamplesCumulative": 96000,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 4000
+        },
+        {
+          "index": 41,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 2033.619,
+          "pcmSamplesCumulative": 105600,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 4400
+        },
+        {
+          "index": 42,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 2095.917,
+          "pcmSamplesCumulative": 115200,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 4800
+        },
+        {
+          "index": 43,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 2154.636,
+          "pcmSamplesCumulative": 124800,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 5200
+        },
+        {
+          "index": 44,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 2217.105,
+          "pcmSamplesCumulative": 134400,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 5600
+        },
+        {
+          "index": 45,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 2277.413,
+          "pcmSamplesCumulative": 144000,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 6000
+        },
+        {
+          "index": 46,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 2316.071,
+          "pcmSamplesCumulative": 153600,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 6400
+        },
+        {
+          "index": 47,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 2326.323,
+          "pcmSamplesCumulative": 156000,
+          "deltaSamples": 2400,
+          "audioOffsetMs": 6500
+        }
+      ],
+      "audioDeltas": [
+        {
+          "index": 11,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1294.77,
+          "pcmSamplesCumulative": 9600,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 400
+        },
+        {
+          "index": 15,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1358.265,
+          "pcmSamplesCumulative": 19200,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 800
+        },
+        {
+          "index": 16,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1421.635,
+          "pcmSamplesCumulative": 28800,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 1200
+        },
+        {
+          "index": 20,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1470.114,
+          "pcmSamplesCumulative": 38400,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 1600
+        },
+        {
+          "index": 26,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1597.964,
+          "pcmSamplesCumulative": 48000,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 2000
+        },
+        {
+          "index": 27,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1653.471,
+          "pcmSamplesCumulative": 57600,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 2400
+        },
+        {
+          "index": 28,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1723.541,
+          "pcmSamplesCumulative": 67200,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 2800
+        },
+        {
+          "index": 29,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1768.628,
+          "pcmSamplesCumulative": 76800,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 3200
+        },
+        {
+          "index": 39,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1912.935,
+          "pcmSamplesCumulative": 86400,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 3600
+        },
+        {
+          "index": 40,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 1996.042,
+          "pcmSamplesCumulative": 96000,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 4000
+        },
+        {
+          "index": 41,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 2033.619,
+          "pcmSamplesCumulative": 105600,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 4400
+        },
+        {
+          "index": 42,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 2095.917,
+          "pcmSamplesCumulative": 115200,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 4800
+        },
+        {
+          "index": 43,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 2154.636,
+          "pcmSamplesCumulative": 124800,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 5200
+        },
+        {
+          "index": 44,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 2217.105,
+          "pcmSamplesCumulative": 134400,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 5600
+        },
+        {
+          "index": 45,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 2277.413,
+          "pcmSamplesCumulative": 144000,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 6000
+        },
+        {
+          "index": 46,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 2316.071,
+          "pcmSamplesCumulative": 153600,
+          "deltaSamples": 9600,
+          "audioOffsetMs": 6400
+        },
+        {
+          "index": 47,
+          "type": "response.output_audio.delta",
+          "elapsedMs": 2326.323,
+          "pcmSamplesCumulative": 156000,
+          "deltaSamples": 2400,
+          "audioOffsetMs": 6500
+        }
+      ],
+      "transcriptDeltas": [
+        {
+          "index": 8,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1058.835,
+          "pcmSamplesCumulative": 0,
+          "delta": "I",
+          "transcriptCumulative": "I",
+          "transcriptCharsCumulative": 1
+        },
+        {
+          "index": 9,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1063.765,
+          "pcmSamplesCumulative": 0,
+          "delta": " was",
+          "transcriptCumulative": "I was",
+          "transcriptCharsCumulative": 5
+        },
+        {
+          "index": 10,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1073.482,
+          "pcmSamplesCumulative": 0,
+          "delta": " wrong",
+          "transcriptCumulative": "I was wrong",
+          "transcriptCharsCumulative": 11
+        },
+        {
+          "index": 12,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1296.473,
+          "pcmSamplesCumulative": 9600,
+          "delta": " about",
+          "transcriptCumulative": "I was wrong about",
+          "transcriptCharsCumulative": 17
+        },
+        {
+          "index": 13,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1297.642,
+          "pcmSamplesCumulative": 9600,
+          "delta": " that",
+          "transcriptCumulative": "I was wrong about that",
+          "transcriptCharsCumulative": 22
+        },
+        {
+          "index": 14,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1300.717,
+          "pcmSamplesCumulative": 9600,
+          "delta": ".",
+          "transcriptCumulative": "I was wrong about that.",
+          "transcriptCharsCumulative": 23
+        },
+        {
+          "index": 17,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1421.736,
+          "pcmSamplesCumulative": 28800,
+          "delta": "\n",
+          "transcriptCumulative": "I was wrong about that.\n",
+          "transcriptCharsCumulative": 24
+        },
+        {
+          "index": 18,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1421.796,
+          "pcmSamplesCumulative": 28800,
+          "delta": "Thanks",
+          "transcriptCumulative": "I was wrong about that.\nThanks",
+          "transcriptCharsCumulative": 30
+        },
+        {
+          "index": 19,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1421.852,
+          "pcmSamplesCumulative": 28800,
+          "delta": " for",
+          "transcriptCumulative": "I was wrong about that.\nThanks for",
+          "transcriptCharsCumulative": 34
+        },
+        {
+          "index": 21,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1522.907,
+          "pcmSamplesCumulative": 38400,
+          "delta": " catching",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching",
+          "transcriptCharsCumulative": 43
+        },
+        {
+          "index": 22,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1529.649,
+          "pcmSamplesCumulative": 38400,
+          "delta": " it",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it",
+          "transcriptCharsCumulative": 46
+        },
+        {
+          "index": 23,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1541.088,
+          "pcmSamplesCumulative": 38400,
+          "delta": ".\n",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\n",
+          "transcriptCharsCumulative": 48
+        },
+        {
+          "index": 24,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1556.53,
+          "pcmSamplesCumulative": 38400,
+          "delta": "That",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat",
+          "transcriptCharsCumulative": 52
+        },
+        {
+          "index": 25,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1560.269,
+          "pcmSamplesCumulative": 38400,
+          "delta": " sounds",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat sounds",
+          "transcriptCharsCumulative": 59
+        },
+        {
+          "index": 30,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1819.492,
+          "pcmSamplesCumulative": 76800,
+          "delta": " frustrating",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat sounds frustrating",
+          "transcriptCharsCumulative": 71
+        },
+        {
+          "index": 31,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1822.554,
+          "pcmSamplesCumulative": 76800,
+          "delta": ",",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat sounds frustrating,",
+          "transcriptCharsCumulative": 72
+        },
+        {
+          "index": 32,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1830.129,
+          "pcmSamplesCumulative": 76800,
+          "delta": " but",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat sounds frustrating, but",
+          "transcriptCharsCumulative": 76
+        },
+        {
+          "index": 33,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1848.714,
+          "pcmSamplesCumulative": 76800,
+          "delta": " we",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat sounds frustrating, but we",
+          "transcriptCharsCumulative": 79
+        },
+        {
+          "index": 34,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1859.97,
+          "pcmSamplesCumulative": 76800,
+          "delta": " can",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat sounds frustrating, but we can",
+          "transcriptCharsCumulative": 83
+        },
+        {
+          "index": 35,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1871.322,
+          "pcmSamplesCumulative": 76800,
+          "delta": " fix",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat sounds frustrating, but we can fix",
+          "transcriptCharsCumulative": 87
+        },
+        {
+          "index": 36,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1873.89,
+          "pcmSamplesCumulative": 76800,
+          "delta": " it",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat sounds frustrating, but we can fix it",
+          "transcriptCharsCumulative": 90
+        },
+        {
+          "index": 37,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1874.836,
+          "pcmSamplesCumulative": 76800,
+          "delta": " together",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat sounds frustrating, but we can fix it together",
+          "transcriptCharsCumulative": 99
+        },
+        {
+          "index": 38,
+          "type": "response.output_audio_transcript.delta",
+          "elapsedMs": 1874.891,
+          "pcmSamplesCumulative": 76800,
+          "delta": ".",
+          "transcriptCumulative": "I was wrong about that.\nThanks for catching it.\nThat sounds frustrating, but we can fix it together.",
+          "transcriptCharsCumulative": 100
+        }
+      ]
+    }
+  ]
+}

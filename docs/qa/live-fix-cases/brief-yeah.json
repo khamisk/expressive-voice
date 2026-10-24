@@ -1,0 +1,387 @@
+{
+  "name": "brief-yeah",
+  "initialPrompt": "Tell me a short three-sentence story about a lost robot.",
+  "fixture": "Brief yeah",
+  "startedAt": "2026-08-28T01:29:22.486Z",
+  "startMeter": 355976,
+  "frames": [
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 356320,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "Tell me a short three-sentence story about a lost robot.",
+      "words": [],
+      "t": 340
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 356398,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "Tell me a short three-sentence story about a lost robot.",
+      "words": [],
+      "t": 420
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 356492,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "Tell me a short three-sentence story about a lost robot.",
+      "words": [],
+      "t": 512
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,-0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 356582,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "Tell me a short three-sentence story about a lost robot.",
+      "words": [],
+      "t": 604
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "-0.000,0.000,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,-0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "error",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": "You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.",
+      "handoff": "",
+      "inputRms": 0,
+      "inputState": "idle",
+      "meterTime": 0,
+      "outputRms": 0,
+      "status": "Conversation state: error",
+      "userTranscript": "Tell me a short three-sentence story about a lost robot.",
+      "words": [],
+      "t": 682
+    }
+  ],
+  "completed": false,
+  "injectedAt": null,
+  "events": [
+    {
+      "atMs": 356046,
+      "direction": "send",
+      "generating": true,
+      "playing": false,
+      "type": "response.create",
+      "userSpeaking": false
+    },
+    {
+      "atMs": 356227,
+      "direction": "receive",
+      "generating": true,
+      "playing": false,
+      "responseId": "resp_EHfhC2rODJPMrqEZN3vQt",
+      "type": "response.created",
+      "userSpeaking": false
+    },
+    {
+      "atMs": 356586,
+      "direction": "receive",
+      "generating": true,
+      "playing": false,
+      "responseId": "resp_EHfhC2rODJPMrqEZN3vQt",
+      "type": "response.done",
+      "userSpeaking": false
+    }
+  ],
+  "diagnostics": [
+    {
+      "state": "requested",
+      "turnId": "1:1"
+    },
+    {
+      "elapsedMs": 0,
+      "reason": "explicit_user_event",
+      "state": "prepared",
+      "turnId": "1:1"
+    },
+    {
+      "elapsedMs": 7,
+      "state": "received",
+      "turnId": "1:1"
+    },
+    {
+      "elapsedMs": 1530,
+      "state": "received",
+      "turnId": "1:1"
+    },
+    {
+      "elapsedMs": 1672,
+      "state": "received",
+      "turnId": "1:1"
+    },
+    {
+      "state": "requested",
+      "turnId": "1:2"
+    },
+    {
+      "elapsedMs": 898,
+      "state": "prepared",
+      "turnId": "1:2"
+    },
+    {
+      "elapsedMs": 898,
+      "reason": "reaction_after_speech_plan",
+      "state": "rejected",
+      "turnId": "1:2"
+    },
+    {
+      "elapsedMs": 2089,
+      "state": "received",
+      "turnId": "1:2"
+    },
+    {
+      "elapsedMs": 1057,
+      "state": "received",
+      "turnId": "1:2"
+    },
+    {
+      "state": "requested",
+      "turnId": "1:3"
+    },
+    {
+      "elapsedMs": 755,
+      "state": "prepared",
+      "turnId": "1:3"
+    },
+    {
+      "elapsedMs": 755,
+      "state": "received",
+      "turnId": "1:3"
+    },
+    {
+      "elapsedMs": 1578,
+      "state": "received",
+      "turnId": "1:3"
+    },
+    {
+      "elapsedMs": 3421,
+      "reason": "phrase_already_presented",
+      "state": "rejected",
+      "turnId": "1:3"
+    },
+    {
+      "elapsedMs": 3510,
+      "reason": "speech_plan_timeout",
+      "state": "timeout",
+      "turnId": "1:3"
+    },
+    {
+      "state": "requested",
+      "turnId": "1:4"
+    },
+    {
+      "elapsedMs": 0,
+      "reason": "explicit_user_event",
+      "state": "prepared",
+      "turnId": "1:4"
+    },
+    {
+      "elapsedMs": 2,
+      "state": "received",
+      "turnId": "1:4"
+    },
+    {
+      "elapsedMs": 2893,
+      "reason": "phrase_already_presented",
+      "state": "rejected",
+      "turnId": "1:4"
+    },
+    {
+      "elapsedMs": 1440,
+      "state": "received",
+      "turnId": "1:4"
+    },
+    {
+      "elapsedMs": 1800,
+      "reason": "phrase_already_presented",
+      "state": "rejected",
+      "turnId": "1:4"
+    },
+    {
+      "state": "requested",
+      "turnId": "1:5"
+    },
+    {
+      "elapsedMs": 849,
+      "state": "prepared",
+      "turnId": "1:5"
+    },
+    {
+      "elapsedMs": 849,
+      "state": "received",
+      "turnId": "1:5"
+    },
+    {
+      "elapsedMs": 1529,
+      "state": "received",
+      "turnId": "1:5"
+    },
+    {
+      "elapsedMs": 2721,
+      "state": "received",
+      "turnId": "1:5"
+    },
+    {
+      "state": "requested",
+      "turnId": "1:6"
+    }
+  ],
+  "cues": [],
+  "reconstructedCaption": "",
+  "sampledWordCount": 0,
+  "firstSpeechCueAt": null,
+  "cueLagMs": null,
+  "effects": [],
+  "finalUserTranscript": "Tell me a short three-sentence story about a lost robot.",
+  "summary": {
+    "name": "brief-yeah",
+    "completed": false,
+    "reply": "",
+    "sampledWordCount": 0,
+    "cueLagMs": null,
+    "effects": [],
+    "cues": [],
+    "error": "You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
+  }
+}

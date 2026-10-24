@@ -1,0 +1,292 @@
+{
+  "kind": "offline-static-preview-not-provider",
+  "before": {
+    "caption": "Let's make it feel alive.",
+    "hidden": "false",
+    "opacity": "1",
+    "switches": [
+      {
+        "checked": true,
+        "transform": "matrix(1, 0, 0, 1, 18, 0)",
+        "transition": "0.22s"
+      },
+      {
+        "checked": true,
+        "transform": "matrix(1, 0, 0, 1, 18, 0)",
+        "transition": "0.22s"
+      }
+    ],
+    "window": "6",
+    "wordTick": "-1"
+  },
+  "hidden": [
+    {
+      "caption": "Let's make it feel alive.",
+      "hidden": "true",
+      "opacity": "0",
+      "switches": [
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        },
+        {
+          "checked": false,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "transition": "0.22s"
+        }
+      ],
+      "window": "6",
+      "wordTick": "-1"
+    },
+    {
+      "caption": "Let's make it feel alive.",
+      "hidden": "true",
+      "opacity": "0",
+      "switches": [
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        },
+        {
+          "checked": false,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "transition": "0.22s"
+        }
+      ],
+      "window": "6",
+      "wordTick": "-1"
+    },
+    {
+      "caption": "Let's make it feel alive.",
+      "hidden": "true",
+      "opacity": "0",
+      "switches": [
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        },
+        {
+          "checked": false,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "transition": "0.22s"
+        }
+      ],
+      "window": "6",
+      "wordTick": "-1"
+    },
+    {
+      "caption": "Let's make it feel alive.",
+      "hidden": "true",
+      "opacity": "0",
+      "switches": [
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        },
+        {
+          "checked": false,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "transition": "0.22s"
+        }
+      ],
+      "window": "6",
+      "wordTick": "-1"
+    },
+    {
+      "caption": "Let's make it feel alive.",
+      "hidden": "true",
+      "opacity": "0",
+      "switches": [
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        },
+        {
+          "checked": false,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "transition": "0.22s"
+        }
+      ],
+      "window": "6",
+      "wordTick": "-1"
+    },
+    {
+      "caption": "Let's make it feel alive.",
+      "hidden": "true",
+      "opacity": "0",
+      "switches": [
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        },
+        {
+          "checked": false,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "transition": "0.22s"
+        }
+      ],
+      "window": "6",
+      "wordTick": "-1"
+    }
+  ],
+  "shown": [
+    {
+      "caption": "Let's make it feel alive.",
+      "hidden": "false",
+      "opacity": "1",
+      "switches": [
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        },
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        }
+      ],
+      "window": "6",
+      "wordTick": "-1"
+    },
+    {
+      "caption": "Let's make it feel alive.",
+      "hidden": "false",
+      "opacity": "1",
+      "switches": [
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        },
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        }
+      ],
+      "window": "6",
+      "wordTick": "-1"
+    },
+    {
+      "caption": "Let's make it feel alive.",
+      "hidden": "false",
+      "opacity": "1",
+      "switches": [
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        },
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        }
+      ],
+      "window": "6",
+      "wordTick": "-1"
+    },
+    {
+      "caption": "Let's make it feel alive.",
+      "hidden": "false",
+      "opacity": "1",
+      "switches": [
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        },
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        }
+      ],
+      "window": "6",
+      "wordTick": "-1"
+    },
+    {
+      "caption": "Let's make it feel alive.",
+      "hidden": "false",
+      "opacity": "1",
+      "switches": [
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        },
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        }
+      ],
+      "window": "6",
+      "wordTick": "-1"
+    },
+    {
+      "caption": "Let's make it feel alive.",
+      "hidden": "false",
+      "opacity": "1",
+      "switches": [
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        },
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        }
+      ],
+      "window": "6",
+      "wordTick": "-1"
+    },
+    {
+      "caption": "Let's make it feel alive.",
+      "hidden": "false",
+      "opacity": "1",
+      "switches": [
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        },
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        }
+      ],
+      "window": "6",
+      "wordTick": "-1"
+    },
+    {
+      "caption": "Let's make it feel alive.",
+      "hidden": "false",
+      "opacity": "1",
+      "switches": [
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        },
+        {
+          "checked": true,
+          "transform": "matrix(1, 0, 0, 1, 18, 0)",
+          "transition": "0.22s"
+        }
+      ],
+      "window": "6",
+      "wordTick": "-1"
+    }
+  ]
+}

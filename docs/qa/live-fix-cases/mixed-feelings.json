@@ -1,0 +1,5953 @@
+{
+  "name": "mixed-feelings",
+  "prompt": "I got the apartment, but I am really sad about leaving my friends.",
+  "startedAt": "2026-08-28T01:27:58.891Z",
+  "startMeter": 272382,
+  "frames": [
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "0.000,-1.130,1.000,0.999,1.001",
+        "data-cue-anchor": "I got the apartment",
+        "data-cue-id": "reaction-1-10-immediate",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "user",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "-0.52,0.00,0.00",
+        "data-intent": "react",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "0"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "I got the apartment",
+        "confidence": 0.97,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "reaction-1-10-immediate",
+        "intensity": 0.55,
+        "intent": "react",
+        "source": "user",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 272704,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [],
+      "t": 322
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "0.000,-0.523,1.000,1.000,1.000",
+        "data-cue-anchor": "I got the apartment",
+        "data-cue-id": "reaction-1-10-immediate",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "user",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "-0.19,0.00,0.00",
+        "data-intent": "react",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "0"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "I got the apartment",
+        "confidence": 0.97,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "reaction-1-10-immediate",
+        "intensity": 0.55,
+        "intent": "react",
+        "source": "user",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 272782,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [],
+      "t": 400
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "0.000,-0.233,1.000,1.000,1.000",
+        "data-cue-anchor": "I got the apartment",
+        "data-cue-id": "reaction-1-10-immediate",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "user",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "-0.07,0.00,0.00",
+        "data-intent": "react",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "0"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "I got the apartment",
+        "confidence": 0.97,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "reaction-1-10-immediate",
+        "intensity": 0.55,
+        "intent": "react",
+        "source": "user",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 272859,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [],
+      "t": 479
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "0.000,-0.099,1.000,1.000,1.000",
+        "data-cue-anchor": "I got the apartment",
+        "data-cue-id": "reaction-1-10-immediate",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "user",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "-0.02,0.00,0.00",
+        "data-intent": "react",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "0"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "I got the apartment",
+        "confidence": 0.97,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "reaction-1-10-immediate",
+        "intensity": 0.55,
+        "intent": "react",
+        "source": "user",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 272937,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [],
+      "t": 557
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "0.000,-0.038,1.000,1.000,1.000",
+        "data-cue-anchor": "I got the apartment",
+        "data-cue-id": "reaction-1-10-immediate",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "user",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "-0.01,0.00,0.00",
+        "data-intent": "react",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "0"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "I got the apartment",
+        "confidence": 0.97,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "reaction-1-10-immediate",
+        "intensity": 0.55,
+        "intent": "react",
+        "source": "user",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 273022,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [],
+      "t": 637
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "0.000,-0.014,1.000,1.000,1.000",
+        "data-cue-anchor": "I got the apartment",
+        "data-cue-id": "reaction-1-10-immediate",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "user",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "react",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "0"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "I got the apartment",
+        "confidence": 0.97,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "reaction-1-10-immediate",
+        "intensity": 0.55,
+        "intent": "react",
+        "source": "user",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 273109,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [],
+      "t": 725
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "0.000,-0.006,1.000,1.000,1.000",
+        "data-cue-anchor": "I got the apartment",
+        "data-cue-id": "reaction-1-10-immediate",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "user",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "react",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "0"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "I got the apartment",
+        "confidence": 0.97,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "reaction-1-10-immediate",
+        "intensity": 0.55,
+        "intent": "react",
+        "source": "user",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 273187,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [],
+      "t": 803
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "0.000,-0.002,1.000,1.000,1.000",
+        "data-cue-anchor": "I got the apartment",
+        "data-cue-id": "reaction-1-10-immediate",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "user",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "react",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "0"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "I got the apartment",
+        "confidence": 0.97,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "reaction-1-10-immediate",
+        "intensity": 0.55,
+        "intent": "react",
+        "source": "user",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 273265,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [],
+      "t": 883
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "respond",
+        "data-body-pose": "0.000,-0.017,1.000,1.000,1.000",
+        "data-cue-anchor": "I got the apartment",
+        "data-cue-id": "reaction-1-10-immediate",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "user",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "lift",
+        "data-head-pose": "-0.02,0.00,0.00",
+        "data-intent": "react",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "0"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "I got the apartment",
+        "confidence": 0.97,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "reaction-1-10-immediate",
+        "intensity": 0.55,
+        "intent": "react",
+        "source": "user",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 273343,
+      "outputRms": 0,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [],
+      "t": 961
+    },
+    {
+      "caption": "That’s",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-0",
+        "data-body-pose": "0.000,-1.556,1.009,0.996,1.007",
+        "data-cue-anchor": "That’s a bittersweet kind of",
+        "data-cue-id": "1:4:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-1.63,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.027",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.004",
+        "data-speech-energy": "0.007",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "1"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That’s a bittersweet kind of",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 273426,
+      "outputRms": 0.01033,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That’s"
+        }
+      ],
+      "t": 1042
+    },
+    {
+      "caption": "That’s",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-0",
+        "data-body-pose": "0.000,-1.860,1.010,0.996,1.006",
+        "data-cue-anchor": "That’s a bittersweet kind of",
+        "data-cue-id": "1:4:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-1.71,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.320",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.320",
+        "data-speech-energy": "0.403",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "1"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That’s a bittersweet kind of",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 273515,
+      "outputRms": 0.05741,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That’s"
+        }
+      ],
+      "t": 1131
+    },
+    {
+      "caption": "That’s",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-0",
+        "data-body-pose": "0.000,-1.439,1.008,0.997,1.005",
+        "data-cue-anchor": "That’s a bittersweet kind of",
+        "data-cue-id": "1:4:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-1.26,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.078",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.297",
+        "data-speech-energy": "0.334",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "1"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That’s a bittersweet kind of",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 273593,
+      "outputRms": 0.01182,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That’s"
+        }
+      ],
+      "t": 1212
+    },
+    {
+      "caption": "That’s a",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-0",
+        "data-body-pose": "0.000,-1.007,1.006,0.998,1.003",
+        "data-cue-anchor": "That’s a bittersweet kind of",
+        "data-cue-id": "1:4:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.86,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.097",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.228",
+        "data-speech-energy": "0.243",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "2"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That’s a bittersweet kind of",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 273671,
+      "outputRms": 0.01016,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That’s"
+        },
+        {
+          "index": 1,
+          "text": " a"
+        }
+      ],
+      "t": 1290
+    },
+    {
+      "caption": "That’s a bittersweet",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-3",
+        "data-body-pose": "0.000,-0.616,1.003,0.999,1.002",
+        "data-cue-anchor": "That’s a bittersweet kind of",
+        "data-cue-id": "1:4:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.49,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.152",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.252",
+        "data-speech-energy": "0.261",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "3"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That’s a bittersweet kind of",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 273754,
+      "outputRms": 0.021,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That’s"
+        },
+        {
+          "index": 1,
+          "text": " a"
+        },
+        {
+          "index": 2,
+          "text": " bittersweet"
+        }
+      ],
+      "t": 1369
+    },
+    {
+      "caption": "That’s a bittersweet",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-3",
+        "data-body-pose": "0.000,-0.337,1.002,0.999,1.001",
+        "data-cue-anchor": "That’s a bittersweet kind of",
+        "data-cue-id": "1:4:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.24,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.096",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.210",
+        "data-speech-energy": "0.214",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "3"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That’s a bittersweet kind of",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 273832,
+      "outputRms": 0.00555,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That’s"
+        },
+        {
+          "index": 1,
+          "text": " a"
+        },
+        {
+          "index": 2,
+          "text": " bittersweet"
+        }
+      ],
+      "t": 1447
+    },
+    {
+      "caption": "That’s a bittersweet",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-3",
+        "data-body-pose": "0.000,-0.164,1.001,1.000,1.000",
+        "data-cue-anchor": "That’s a bittersweet kind of",
+        "data-cue-id": "1:4:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.10,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.030",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.131",
+        "data-speech-energy": "0.132",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "3"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That’s a bittersweet kind of",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 273909,
+      "outputRms": 0.00378,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That’s"
+        },
+        {
+          "index": 1,
+          "text": " a"
+        },
+        {
+          "index": 2,
+          "text": " bittersweet"
+        }
+      ],
+      "t": 1527
+    },
+    {
+      "caption": "That’s a bittersweet",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-3",
+        "data-body-pose": "0.000,-0.074,1.000,1.000,1.000",
+        "data-cue-anchor": "That’s a bittersweet kind of",
+        "data-cue-id": "1:4:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.04,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.029",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.076",
+        "data-speech-energy": "0.076",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "3"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That’s a bittersweet kind of",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 273988,
+      "outputRms": 0.00109,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That’s"
+        },
+        {
+          "index": 1,
+          "text": " a"
+        },
+        {
+          "index": 2,
+          "text": " bittersweet"
+        }
+      ],
+      "t": 1604
+    },
+    {
+      "caption": "That’s a bittersweet",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-3",
+        "data-body-pose": "0.000,-0.033,1.000,1.000,1.000",
+        "data-cue-anchor": "That’s a bittersweet kind of",
+        "data-cue-id": "1:4:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.01,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.728",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.658",
+        "data-speech-energy": "0.659",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "3"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That’s a bittersweet kind of",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 274065,
+      "outputRms": 0.16348,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That’s"
+        },
+        {
+          "index": 1,
+          "text": " a"
+        },
+        {
+          "index": 2,
+          "text": " bittersweet"
+        }
+      ],
+      "t": 1680
+    },
+    {
+      "caption": "That’s a bittersweet kind",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-4",
+        "data-body-pose": "0.000,-0.014,1.000,1.000,1.000",
+        "data-cue-anchor": "That’s a bittersweet kind of",
+        "data-cue-id": "1:4:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.733",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.936",
+        "data-speech-energy": "0.937",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "4"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That’s a bittersweet kind of",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 274143,
+      "outputRms": 0.12108,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That’s"
+        },
+        {
+          "index": 1,
+          "text": " a"
+        },
+        {
+          "index": 2,
+          "text": " bittersweet"
+        },
+        {
+          "index": 3,
+          "text": " kind"
+        }
+      ],
+      "t": 1758
+    },
+    {
+      "caption": "That’s a bittersweet kind",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-4",
+        "data-body-pose": "0.000,-0.006,1.000,1.000,1.000",
+        "data-cue-anchor": "That’s a bittersweet kind of",
+        "data-cue-id": "1:4:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.472",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.946",
+        "data-speech-energy": "0.947",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "4"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That’s a bittersweet kind of",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 274220,
+      "outputRms": 0.03739,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That’s"
+        },
+        {
+          "index": 1,
+          "text": " a"
+        },
+        {
+          "index": 2,
+          "text": " bittersweet"
+        },
+        {
+          "index": 3,
+          "text": " kind"
+        }
+      ],
+      "t": 1836
+    },
+    {
+      "caption": "That’s a bittersweet kind",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-4",
+        "data-body-pose": "0.000,-0.002,1.000,1.000,1.000",
+        "data-cue-anchor": "That’s a bittersweet kind of",
+        "data-cue-id": "1:4:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.281",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.727",
+        "data-speech-energy": "0.728",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "4"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That’s a bittersweet kind of",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 274298,
+      "outputRms": 0.03614,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That’s"
+        },
+        {
+          "index": 1,
+          "text": " a"
+        },
+        {
+          "index": 2,
+          "text": " bittersweet"
+        },
+        {
+          "index": 3,
+          "text": " kind"
+        }
+      ],
+      "t": 1916
+    },
+    {
+      "caption": "That’s a bittersweet kind of",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-4",
+        "data-body-pose": "0.000,-0.001,1.000,1.000,1.000",
+        "data-cue-anchor": "That’s a bittersweet kind of",
+        "data-cue-id": "1:4:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.124",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.441",
+        "data-speech-energy": "0.441",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "5"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That’s a bittersweet kind of",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 274387,
+      "outputRms": 0.08616,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That’s"
+        },
+        {
+          "index": 1,
+          "text": " a"
+        },
+        {
+          "index": 2,
+          "text": " bittersweet"
+        },
+        {
+          "index": 3,
+          "text": " kind"
+        },
+        {
+          "index": 4,
+          "text": " of"
+        }
+      ],
+      "t": 2005
+    },
+    {
+      "caption": "That’s a bittersweet kind of",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-4",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "That’s a bittersweet kind of",
+        "data-cue-id": "1:4:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.505",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.752",
+        "data-speech-energy": "0.752",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "5"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That’s a bittersweet kind of",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 274465,
+      "outputRms": 0.0658,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That’s"
+        },
+        {
+          "index": 1,
+          "text": " a"
+        },
+        {
+          "index": 2,
+          "text": " bittersweet"
+        },
+        {
+          "index": 3,
+          "text": " kind"
+        },
+        {
+          "index": 4,
+          "text": " of"
+        }
+      ],
+      "t": 2081
+    },
+    {
+      "caption": "That’s a bittersweet kind of win,",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-6",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "That’s a bittersweet kind of",
+        "data-cue-id": "1:4:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.073",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.553",
+        "data-speech-energy": "0.553",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "6"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That’s a bittersweet kind of",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 274543,
+      "outputRms": 0.00646,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That’s"
+        },
+        {
+          "index": 1,
+          "text": " a"
+        },
+        {
+          "index": 2,
+          "text": " bittersweet"
+        },
+        {
+          "index": 3,
+          "text": " kind"
+        },
+        {
+          "index": 4,
+          "text": " of"
+        },
+        {
+          "index": 5,
+          "text": " win,"
+        }
+      ],
+      "t": 2161
+    },
+    {
+      "caption": "That’s a bittersweet kind of win,",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-6",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "That’s a bittersweet kind of",
+        "data-cue-id": "1:4:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.051",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.316",
+        "data-speech-energy": "0.316",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "6"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That’s a bittersweet kind of",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 274621,
+      "outputRms": 0.00928,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That’s"
+        },
+        {
+          "index": 1,
+          "text": " a"
+        },
+        {
+          "index": 2,
+          "text": " bittersweet"
+        },
+        {
+          "index": 3,
+          "text": " kind"
+        },
+        {
+          "index": 4,
+          "text": " of"
+        },
+        {
+          "index": 5,
+          "text": " win,"
+        }
+      ],
+      "t": 2240
+    },
+    {
+      "caption": "That’s a bittersweet kind of win,",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-6",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "That’s a bittersweet kind of",
+        "data-cue-id": "1:4:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.413",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.462",
+        "data-speech-energy": "0.462",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "6"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "That’s a bittersweet kind of",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 274704,
+      "outputRms": 0.08981,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That’s"
+        },
+        {
+          "index": 1,
+          "text": " a"
+        },
+        {
+          "index": 2,
+          "text": " bittersweet"
+        },
+        {
+          "index": 3,
+          "text": " kind"
+        },
+        {
+          "index": 4,
+          "text": " of"
+        },
+        {
+          "index": 5,
+          "text": " win,"
+        }
+      ],
+      "t": 2323
+    },
+    {
+      "caption": "That’s a bittersweet kind of win,",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-0",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.429",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.615",
+        "data-speech-energy": "0.615",
+        "data-variant-id": "neutral-present",
+        "data-word-tick": "6"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 274805,
+      "outputRms": 0.07361,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That’s"
+        },
+        {
+          "index": 1,
+          "text": " a"
+        },
+        {
+          "index": 2,
+          "text": " bittersweet"
+        },
+        {
+          "index": 3,
+          "text": " kind"
+        },
+        {
+          "index": 4,
+          "text": " of"
+        },
+        {
+          "index": 5,
+          "text": " win,"
+        }
+      ],
+      "t": 2421
+    },
+    {
+      "caption": "That’s a bittersweet kind of win,",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-0",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.251",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.593",
+        "data-speech-energy": "0.593",
+        "data-variant-id": "neutral-present",
+        "data-word-tick": "6"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 274893,
+      "outputRms": 0.02453,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 0,
+          "text": "That’s"
+        },
+        {
+          "index": 1,
+          "text": " a"
+        },
+        {
+          "index": 2,
+          "text": " bittersweet"
+        },
+        {
+          "index": 3,
+          "text": " kind"
+        },
+        {
+          "index": 4,
+          "text": " of"
+        },
+        {
+          "index": 5,
+          "text": " win,"
+        }
+      ],
+      "t": 2509
+    },
+    {
+      "caption": "and",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-1",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.309",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.440",
+        "data-speech-energy": "0.440",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "7"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 274988,
+      "outputRms": 0.06547,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        }
+      ],
+      "t": 2606
+    },
+    {
+      "caption": "and",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-1",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.247",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.400",
+        "data-speech-energy": "0.400",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "7"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 275082,
+      "outputRms": 0.0169,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        }
+      ],
+      "t": 2702
+    },
+    {
+      "caption": "and it",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-1",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.181",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.333",
+        "data-speech-energy": "0.333",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "8"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 275171,
+      "outputRms": 0.01634,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        },
+        {
+          "index": 7,
+          "text": " it"
+        }
+      ],
+      "t": 2787
+    },
+    {
+      "caption": "and it",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-1",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.032",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.200",
+        "data-speech-energy": "0.200",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "8"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 275260,
+      "outputRms": 0.00493,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        },
+        {
+          "index": 7,
+          "text": " it"
+        }
+      ],
+      "t": 2876
+    },
+    {
+      "caption": "and it makes",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-9",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.024",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.099",
+        "data-speech-energy": "0.099",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "9"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 275355,
+      "outputRms": 0.00713,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        },
+        {
+          "index": 7,
+          "text": " it"
+        },
+        {
+          "index": 8,
+          "text": " makes"
+        }
+      ],
+      "t": 2974
+    },
+    {
+      "caption": "and it makes",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-9",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.029",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.051",
+        "data-speech-energy": "0.051",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "9"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 275454,
+      "outputRms": 0.00574,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        },
+        {
+          "index": 7,
+          "text": " it"
+        },
+        {
+          "index": 8,
+          "text": " makes"
+        }
+      ],
+      "t": 3071
+    },
+    {
+      "caption": "and it makes",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-9",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.024",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.031",
+        "data-speech-energy": "0.031",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "9"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 275543,
+      "outputRms": 0.00524,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        },
+        {
+          "index": 7,
+          "text": " it"
+        },
+        {
+          "index": 8,
+          "text": " makes"
+        }
+      ],
+      "t": 3160
+    },
+    {
+      "caption": "and it makes total",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-10",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.344",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.425",
+        "data-speech-energy": "0.425",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "10"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 275704,
+      "outputRms": 0.10363,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        },
+        {
+          "index": 7,
+          "text": " it"
+        },
+        {
+          "index": 8,
+          "text": " makes"
+        },
+        {
+          "index": 9,
+          "text": " total"
+        }
+      ],
+      "t": 3324
+    },
+    {
+      "caption": "and it makes total",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-10",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.501",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.753",
+        "data-speech-energy": "0.753",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "10"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 275788,
+      "outputRms": 0.07939,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        },
+        {
+          "index": 7,
+          "text": " it"
+        },
+        {
+          "index": 8,
+          "text": " makes"
+        },
+        {
+          "index": 9,
+          "text": " total"
+        }
+      ],
+      "t": 3403
+    },
+    {
+      "caption": "and it makes total",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-10",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.311",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.800",
+        "data-speech-energy": "0.800",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "10"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 275877,
+      "outputRms": 0.00614,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        },
+        {
+          "index": 7,
+          "text": " it"
+        },
+        {
+          "index": 8,
+          "text": " makes"
+        },
+        {
+          "index": 9,
+          "text": " total"
+        }
+      ],
+      "t": 3496
+    },
+    {
+      "caption": "and it makes total",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-10",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.092",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.475",
+        "data-speech-energy": "0.475",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "10"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 275976,
+      "outputRms": 0.0062,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        },
+        {
+          "index": 7,
+          "text": " it"
+        },
+        {
+          "index": 8,
+          "text": " makes"
+        },
+        {
+          "index": 9,
+          "text": " total"
+        }
+      ],
+      "t": 3596
+    },
+    {
+      "caption": "and it makes total sense",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-11",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.203",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.304",
+        "data-speech-energy": "0.304",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "11"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 276071,
+      "outputRms": 0.072,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        },
+        {
+          "index": 7,
+          "text": " it"
+        },
+        {
+          "index": 8,
+          "text": " makes"
+        },
+        {
+          "index": 9,
+          "text": " total"
+        },
+        {
+          "index": 10,
+          "text": " sense"
+        }
+      ],
+      "t": 3686
+    },
+    {
+      "caption": "and it makes total sense",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-11",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.511",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.847",
+        "data-speech-energy": "0.847",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "11"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 276159,
+      "outputRms": 0.09513,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        },
+        {
+          "index": 7,
+          "text": " it"
+        },
+        {
+          "index": 8,
+          "text": " makes"
+        },
+        {
+          "index": 9,
+          "text": " total"
+        },
+        {
+          "index": 10,
+          "text": " sense"
+        }
+      ],
+      "t": 3781
+    },
+    {
+      "caption": "and it makes total sense",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-11",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.239",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.791",
+        "data-speech-energy": "0.791",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "11"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 276254,
+      "outputRms": 0.03363,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        },
+        {
+          "index": 7,
+          "text": " it"
+        },
+        {
+          "index": 8,
+          "text": " makes"
+        },
+        {
+          "index": 9,
+          "text": " total"
+        },
+        {
+          "index": 10,
+          "text": " sense"
+        }
+      ],
+      "t": 3870
+    },
+    {
+      "caption": "and it makes total sense to",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-12",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.296",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.572",
+        "data-speech-energy": "0.572",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "12"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 276332,
+      "outputRms": 0.10278,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        },
+        {
+          "index": 7,
+          "text": " it"
+        },
+        {
+          "index": 8,
+          "text": " makes"
+        },
+        {
+          "index": 9,
+          "text": " total"
+        },
+        {
+          "index": 10,
+          "text": " sense"
+        },
+        {
+          "index": 11,
+          "text": " to"
+        }
+      ],
+      "t": 3948
+    },
+    {
+      "caption": "and it makes total sense to",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-12",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.405",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.709",
+        "data-speech-energy": "0.709",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "12"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 276421,
+      "outputRms": 0.04525,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        },
+        {
+          "index": 7,
+          "text": " it"
+        },
+        {
+          "index": 8,
+          "text": " makes"
+        },
+        {
+          "index": 9,
+          "text": " total"
+        },
+        {
+          "index": 10,
+          "text": " sense"
+        },
+        {
+          "index": 11,
+          "text": " to"
+        }
+      ],
+      "t": 4039
+    },
+    {
+      "caption": "and it makes total sense to feel",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-12",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.104",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.446",
+        "data-speech-energy": "0.446",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "13"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 276521,
+      "outputRms": 0.01065,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        },
+        {
+          "index": 7,
+          "text": " it"
+        },
+        {
+          "index": 8,
+          "text": " makes"
+        },
+        {
+          "index": 9,
+          "text": " total"
+        },
+        {
+          "index": 10,
+          "text": " sense"
+        },
+        {
+          "index": 11,
+          "text": " to"
+        },
+        {
+          "index": 12,
+          "text": " feel"
+        }
+      ],
+      "t": 4136
+    },
+    {
+      "caption": "and it makes total sense to feel",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-12",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.098",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.369",
+        "data-speech-energy": "0.369",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "13"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 276610,
+      "outputRms": 0.00741,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        },
+        {
+          "index": 7,
+          "text": " it"
+        },
+        {
+          "index": 8,
+          "text": " makes"
+        },
+        {
+          "index": 9,
+          "text": " total"
+        },
+        {
+          "index": 10,
+          "text": " sense"
+        },
+        {
+          "index": 11,
+          "text": " to"
+        },
+        {
+          "index": 12,
+          "text": " feel"
+        }
+      ],
+      "t": 4226
+    },
+    {
+      "caption": "and it makes total sense to feel",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-12",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.513",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.637",
+        "data-speech-energy": "0.637",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "13"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 276699,
+      "outputRms": 0.0912,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        },
+        {
+          "index": 7,
+          "text": " it"
+        },
+        {
+          "index": 8,
+          "text": " makes"
+        },
+        {
+          "index": 9,
+          "text": " total"
+        },
+        {
+          "index": 10,
+          "text": " sense"
+        },
+        {
+          "index": 11,
+          "text": " to"
+        },
+        {
+          "index": 12,
+          "text": " feel"
+        }
+      ],
+      "t": 4318
+    },
+    {
+      "caption": "and it makes total sense to feel sad",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-14",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.233",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.611",
+        "data-speech-energy": "0.611",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "14"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 276777,
+      "outputRms": 0.03414,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        },
+        {
+          "index": 7,
+          "text": " it"
+        },
+        {
+          "index": 8,
+          "text": " makes"
+        },
+        {
+          "index": 9,
+          "text": " total"
+        },
+        {
+          "index": 10,
+          "text": " sense"
+        },
+        {
+          "index": 11,
+          "text": " to"
+        },
+        {
+          "index": 12,
+          "text": " feel"
+        },
+        {
+          "index": 13,
+          "text": " sad"
+        }
+      ],
+      "t": 4396
+    },
+    {
+      "caption": "and it makes total sense to feel sad",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-14",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.111",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.442",
+        "data-speech-energy": "0.442",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "14"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 276854,
+      "outputRms": 0.0055,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        },
+        {
+          "index": 7,
+          "text": " it"
+        },
+        {
+          "index": 8,
+          "text": " makes"
+        },
+        {
+          "index": 9,
+          "text": " total"
+        },
+        {
+          "index": 10,
+          "text": " sense"
+        },
+        {
+          "index": 11,
+          "text": " to"
+        },
+        {
+          "index": 12,
+          "text": " feel"
+        },
+        {
+          "index": 13,
+          "text": " sad"
+        }
+      ],
+      "t": 4473
+    },
+    {
+      "caption": "and it makes total sense to feel sad",
+      "captionWindow": "6",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-14",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.327",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.594",
+        "data-speech-energy": "0.594",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "14"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 276949,
+      "outputRms": 0.03381,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 6,
+          "text": "and"
+        },
+        {
+          "index": 7,
+          "text": " it"
+        },
+        {
+          "index": 8,
+          "text": " makes"
+        },
+        {
+          "index": 9,
+          "text": " total"
+        },
+        {
+          "index": 10,
+          "text": " sense"
+        },
+        {
+          "index": 11,
+          "text": " to"
+        },
+        {
+          "index": 12,
+          "text": " feel"
+        },
+        {
+          "index": 13,
+          "text": " sad"
+        }
+      ],
+      "t": 4568
+    },
+    {
+      "caption": "about",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-2",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.455",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.707",
+        "data-speech-energy": "0.707",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "15"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 277055,
+      "outputRms": 0.03132,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        }
+      ],
+      "t": 4671
+    },
+    {
+      "caption": "about",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-2",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.098",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.519",
+        "data-speech-energy": "0.519",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "15"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 277132,
+      "outputRms": 0.00409,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        }
+      ],
+      "t": 4751
+    },
+    {
+      "caption": "about",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-2",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.033",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.259",
+        "data-speech-energy": "0.259",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "15"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 277227,
+      "outputRms": 0.00537,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        }
+      ],
+      "t": 4845
+    },
+    {
+      "caption": "about",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-2",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.030",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.130",
+        "data-speech-energy": "0.130",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "15"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 277321,
+      "outputRms": 0.00517,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        }
+      ],
+      "t": 4937
+    },
+    {
+      "caption": "about leaving",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-16",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.033",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.079",
+        "data-speech-energy": "0.079",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "16"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 277398,
+      "outputRms": 0.00521,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        }
+      ],
+      "t": 5017
+    },
+    {
+      "caption": "about leaving",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-16",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.711",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.458",
+        "data-speech-energy": "0.458",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "16"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 277493,
+      "outputRms": 0.15273,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        }
+      ],
+      "t": 5108
+    },
+    {
+      "caption": "about leaving",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-16",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.628",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.957",
+        "data-speech-energy": "0.957",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "16"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 277582,
+      "outputRms": 0.0492,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        }
+      ],
+      "t": 5202
+    },
+    {
+      "caption": "about leaving",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-16",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.473",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.801",
+        "data-speech-energy": "0.801",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "16"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 277676,
+      "outputRms": 0.08084,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        }
+      ],
+      "t": 5292
+    },
+    {
+      "caption": "about leaving your",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-17",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.387",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.693",
+        "data-speech-energy": "0.693",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 277759,
+      "outputRms": 0.08772,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        }
+      ],
+      "t": 5375
+    },
+    {
+      "caption": "about leaving your",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-17",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.459",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.762",
+        "data-speech-energy": "0.762",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 277860,
+      "outputRms": 0.0904,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        }
+      ],
+      "t": 5476
+    },
+    {
+      "caption": "about leaving your",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-17",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "and it makes total sense",
+        "data-cue-id": "1:4:fast:34",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.232",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.728",
+        "data-speech-energy": "0.728",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "and it makes total sense",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:4:fast:34",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 277943,
+      "outputRms": 0.00301,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        }
+      ],
+      "t": 5559
+    },
+    {
+      "caption": "about leaving your people",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "phrase-2",
+        "data-body-pose": "0.025,-0.014,1.000,1.000,1.000",
+        "data-cue-anchor": "feel sad about leaving",
+        "data-cue-id": "speech-plan-1-12-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "0.04,0.00,0.05",
+        "data-intent": "comfort",
+        "data-output-level": "0.284",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.395",
+        "data-speech-energy": "0.446",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "18"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "feel sad about leaving",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-12-0",
+        "intensity": 0.85,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 278038,
+      "outputRms": 0.05756,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        },
+        {
+          "index": 17,
+          "text": " people"
+        }
+      ],
+      "t": 5654
+    },
+    {
+      "caption": "about leaving your people",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "phrase-2",
+        "data-body-pose": "1.136,-0.612,1.012,1.006,0.994",
+        "data-cue-anchor": "feel sad about leaving",
+        "data-cue-id": "speech-plan-1-12-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "1.55,0.00,2.14",
+        "data-intent": "comfort",
+        "data-output-level": "0.177",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.317",
+        "data-speech-energy": "0.435",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "18"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "feel sad about leaving",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-12-0",
+        "intensity": 0.85,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 278126,
+      "outputRms": 0.06201,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        },
+        {
+          "index": 17,
+          "text": " people"
+        }
+      ],
+      "t": 5745
+    },
+    {
+      "caption": "about leaving your people",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "phrase-2",
+        "data-body-pose": "3.678,-2.035,1.039,1.017,0.983",
+        "data-cue-anchor": "feel sad about leaving",
+        "data-cue-id": "speech-plan-1-12-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "4.39,0.00,6.03",
+        "data-intent": "comfort",
+        "data-output-level": "0.218",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.355",
+        "data-speech-energy": "0.566",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "18"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "feel sad about leaving",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-12-0",
+        "intensity": 0.85,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 278221,
+      "outputRms": 0.02111,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        },
+        {
+          "index": 17,
+          "text": " people"
+        }
+      ],
+      "t": 5879
+    },
+    {
+      "caption": "about leaving your people behind.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-19",
+        "data-body-pose": "9.764,-5.940,1.088,1.040,0.965",
+        "data-cue-anchor": "feel sad about leaving",
+        "data-cue-id": "speech-plan-1-12-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "9.56,0.00,12.87",
+        "data-intent": "comfort",
+        "data-output-level": "0.183",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.276",
+        "data-speech-energy": "0.498",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "feel sad about leaving",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-12-0",
+        "intensity": 0.85,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 278343,
+      "outputRms": 0.01394,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        },
+        {
+          "index": 17,
+          "text": " people"
+        },
+        {
+          "index": 18,
+          "text": " behind."
+        }
+      ],
+      "t": 5959
+    },
+    {
+      "caption": "about leaving your people behind.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-19",
+        "data-body-pose": "14.770,-9.267,1.125,1.056,0.952",
+        "data-cue-anchor": "feel sad about leaving",
+        "data-cue-id": "speech-plan-1-12-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "13.27,0.00,17.73",
+        "data-intent": "comfort",
+        "data-output-level": "0.201",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.219",
+        "data-speech-energy": "0.415",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "feel sad about leaving",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-12-0",
+        "intensity": 0.85,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 278421,
+      "outputRms": 0.02488,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        },
+        {
+          "index": 17,
+          "text": " people"
+        },
+        {
+          "index": 18,
+          "text": " behind."
+        }
+      ],
+      "t": 6040
+    },
+    {
+      "caption": "about leaving your people behind.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-19",
+        "data-body-pose": "19.017,-12.106,1.156,1.066,0.943",
+        "data-cue-anchor": "feel sad about leaving",
+        "data-cue-id": "speech-plan-1-12-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "15.92,0.00,21.18",
+        "data-intent": "comfort",
+        "data-output-level": "0.102",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.139",
+        "data-speech-energy": "0.274",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "feel sad about leaving",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-12-0",
+        "intensity": 0.85,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 278515,
+      "outputRms": 0.01071,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        },
+        {
+          "index": 17,
+          "text": " people"
+        },
+        {
+          "index": 18,
+          "text": " behind."
+        }
+      ],
+      "t": 6132
+    },
+    {
+      "caption": "about leaving your people behind.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-19",
+        "data-body-pose": "20.921,-13.382,1.170,1.069,0.941",
+        "data-cue-anchor": "feel sad about leaving",
+        "data-cue-id": "speech-plan-1-12-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "16.84,0.00,22.39",
+        "data-intent": "comfort",
+        "data-output-level": "0.053",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.083",
+        "data-speech-energy": "0.166",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "feel sad about leaving",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-12-0",
+        "intensity": 0.85,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 278604,
+      "outputRms": 0.0098,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        },
+        {
+          "index": 17,
+          "text": " people"
+        },
+        {
+          "index": 18,
+          "text": " behind."
+        }
+      ],
+      "t": 6222
+    },
+    {
+      "caption": "about leaving your people behind.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-19",
+        "data-body-pose": "21.672,-13.885,1.176,1.070,0.940",
+        "data-cue-anchor": "feel sad about leaving",
+        "data-cue-id": "speech-plan-1-12-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "17.12,0.00,22.76",
+        "data-intent": "comfort",
+        "data-output-level": "0.034",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.051",
+        "data-speech-energy": "0.103",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "feel sad about leaving",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-12-0",
+        "intensity": 0.85,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 278682,
+      "outputRms": 0.00254,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        },
+        {
+          "index": 17,
+          "text": " people"
+        },
+        {
+          "index": 18,
+          "text": " behind."
+        }
+      ],
+      "t": 6301
+    },
+    {
+      "caption": "about leaving your people behind.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-19",
+        "data-body-pose": "22.025,-14.122,1.178,1.070,0.940",
+        "data-cue-anchor": "feel sad about leaving",
+        "data-cue-id": "speech-plan-1-12-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "17.23,0.00,22.90",
+        "data-intent": "comfort",
+        "data-output-level": "0.031",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.029",
+        "data-speech-energy": "0.059",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "feel sad about leaving",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-12-0",
+        "intensity": 0.85,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 278765,
+      "outputRms": 0.00069,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        },
+        {
+          "index": 17,
+          "text": " people"
+        },
+        {
+          "index": 18,
+          "text": " behind."
+        }
+      ],
+      "t": 6381
+    },
+    {
+      "caption": "about leaving your people behind.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-19",
+        "data-body-pose": "22.162,-14.214,1.179,1.070,0.940",
+        "data-cue-anchor": "feel sad about leaving",
+        "data-cue-id": "speech-plan-1-12-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "17.26,0.00,22.94",
+        "data-intent": "comfort",
+        "data-output-level": "0.032",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.019",
+        "data-speech-energy": "0.040",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "feel sad about leaving",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-12-0",
+        "intensity": 0.85,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 278843,
+      "outputRms": 0.00258,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        },
+        {
+          "index": 17,
+          "text": " people"
+        },
+        {
+          "index": 18,
+          "text": " behind."
+        }
+      ],
+      "t": 6459
+    },
+    {
+      "caption": "about leaving your people behind.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-19",
+        "data-body-pose": "22.224,-14.256,1.180,1.070,0.940",
+        "data-cue-anchor": "feel sad about leaving",
+        "data-cue-id": "speech-plan-1-12-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "17.28,0.00,22.95",
+        "data-intent": "comfort",
+        "data-output-level": "0.033",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.015",
+        "data-speech-energy": "0.032",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "feel sad about leaving",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-12-0",
+        "intensity": 0.85,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 278932,
+      "outputRms": 0.00646,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        },
+        {
+          "index": 17,
+          "text": " people"
+        },
+        {
+          "index": 18,
+          "text": " behind."
+        }
+      ],
+      "t": 6551
+    },
+    {
+      "caption": "about leaving your people behind.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-19",
+        "data-body-pose": "21.934,-14.100,1.179,1.068,0.942",
+        "data-cue-anchor": "feel sad about leaving",
+        "data-cue-id": "speech-plan-1-12-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "16.95,0.00,22.44",
+        "data-intent": "comfort",
+        "data-output-level": "0.025",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.012",
+        "data-speech-energy": "0.024",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "feel sad about leaving",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-12-0",
+        "intensity": 0.85,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 279015,
+      "outputRms": 0,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        },
+        {
+          "index": 17,
+          "text": " people"
+        },
+        {
+          "index": 18,
+          "text": " behind."
+        }
+      ],
+      "t": 6631
+    },
+    {
+      "caption": "about leaving your people behind.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-19",
+        "data-body-pose": "20.426,-13.278,1.172,1.059,0.951",
+        "data-cue-anchor": "feel sad about leaving",
+        "data-cue-id": "speech-plan-1-12-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "15.55,0.00,20.21",
+        "data-intent": "comfort",
+        "data-output-level": "0.023",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.009",
+        "data-speech-energy": "0.019",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "feel sad about leaving",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-12-0",
+        "intensity": 0.85,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 279104,
+      "outputRms": 0,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        },
+        {
+          "index": 17,
+          "text": " people"
+        },
+        {
+          "index": 18,
+          "text": " behind."
+        }
+      ],
+      "t": 6723
+    },
+    {
+      "caption": "about leaving your people behind.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "soften",
+        "data-beat": "word-19",
+        "data-body-pose": "17.461,-11.485,1.154,1.046,0.962",
+        "data-cue-anchor": "feel sad about leaving",
+        "data-cue-id": "speech-plan-1-12-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "lean-in",
+        "data-head-pose": "12.96,0.00,16.56",
+        "data-intent": "comfort",
+        "data-output-level": "0.001",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.004",
+        "data-speech-energy": "0.009",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "feel sad about leaving",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-12-0",
+        "intensity": 0.85,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 279198,
+      "outputRms": 0,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        },
+        {
+          "index": 17,
+          "text": " people"
+        },
+        {
+          "index": 18,
+          "text": " behind."
+        }
+      ],
+      "t": 6817
+    },
+    {
+      "caption": "about leaving your people behind.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "11.785,-7.791,1.108,1.025,0.978",
+        "data-cue-anchor": "feel sad about leaving",
+        "data-cue-id": "speech-plan-1-12-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "still",
+        "data-head-pose": "7.93,0.00,10.07",
+        "data-intent": "comfort",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.001",
+        "data-speech-energy": "0.004",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "feel sad about leaving",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-12-0",
+        "intensity": 0.85,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 279287,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        },
+        {
+          "index": 17,
+          "text": " people"
+        },
+        {
+          "index": 18,
+          "text": " behind."
+        }
+      ],
+      "t": 6906
+    },
+    {
+      "caption": "about leaving your people behind.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "5.230,-3.464,1.049,1.007,0.994",
+        "data-cue-anchor": "feel sad about leaving",
+        "data-cue-id": "speech-plan-1-12-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "still",
+        "data-head-pose": "2.76,0.00,3.50",
+        "data-intent": "comfort",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.002",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "feel sad about leaving",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-12-0",
+        "intensity": 0.85,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 279387,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        },
+        {
+          "index": 17,
+          "text": " people"
+        },
+        {
+          "index": 18,
+          "text": " behind."
+        }
+      ],
+      "t": 7004
+    },
+    {
+      "caption": "about leaving your people behind.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "2.328,-1.543,1.022,1.002,0.998",
+        "data-cue-anchor": "feel sad about leaving",
+        "data-cue-id": "speech-plan-1-12-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "still",
+        "data-head-pose": "0.98,0.00,1.24",
+        "data-intent": "comfort",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.001",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "feel sad about leaving",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-12-0",
+        "intensity": 0.85,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 279471,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        },
+        {
+          "index": 17,
+          "text": " people"
+        },
+        {
+          "index": 18,
+          "text": " behind."
+        }
+      ],
+      "t": 7089
+    },
+    {
+      "caption": "about leaving your people behind.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "0.871,-0.578,1.008,1.001,1.000",
+        "data-cue-anchor": "feel sad about leaving",
+        "data-cue-id": "speech-plan-1-12-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "still",
+        "data-head-pose": "0.28,0.00,0.35",
+        "data-intent": "comfort",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "feel sad about leaving",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-12-0",
+        "intensity": 0.85,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 279565,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        },
+        {
+          "index": 17,
+          "text": " people"
+        },
+        {
+          "index": 18,
+          "text": " behind."
+        }
+      ],
+      "t": 7181
+    },
+    {
+      "caption": "about leaving your people behind.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "0.375,-0.249,1.004,1.000,1.000",
+        "data-cue-anchor": "feel sad about leaving",
+        "data-cue-id": "speech-plan-1-12-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "still",
+        "data-head-pose": "0.10,0.00,0.12",
+        "data-intent": "comfort",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "feel sad about leaving",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-12-0",
+        "intensity": 0.85,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 279643,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        },
+        {
+          "index": 17,
+          "text": " people"
+        },
+        {
+          "index": 18,
+          "text": " behind."
+        }
+      ],
+      "t": 7262
+    },
+    {
+      "caption": "about leaving your people behind.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "0.130,-0.086,1.001,1.000,1.000",
+        "data-cue-anchor": "feel sad about leaving",
+        "data-cue-id": "speech-plan-1-12-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "still",
+        "data-head-pose": "0.03,0.00,0.03",
+        "data-intent": "comfort",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "feel sad about leaving",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-12-0",
+        "intensity": 0.85,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 279738,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        },
+        {
+          "index": 17,
+          "text": " people"
+        },
+        {
+          "index": 18,
+          "text": " behind."
+        }
+      ],
+      "t": 7354
+    },
+    {
+      "caption": "about leaving your people behind.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "0.046,-0.031,1.000,1.000,1.000",
+        "data-cue-anchor": "feel sad about leaving",
+        "data-cue-id": "speech-plan-1-12-0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "concerned",
+        "data-gesture": "still",
+        "data-head-pose": "0.01,0.00,0.01",
+        "data-intent": "comfort",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "concerned-right-focus",
+        "data-word-tick": "19"
+      },
+      "cue": {
+        "accent": "soften",
+        "anchor": "feel sad about leaving",
+        "confidence": 0.9,
+        "effect": "none",
+        "expression": "concerned",
+        "gesture": "lean-in",
+        "id": "speech-plan-1-12-0",
+        "intensity": 0.85,
+        "intent": "comfort",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:4"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 279827,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+      "words": [
+        {
+          "index": 14,
+          "text": "about"
+        },
+        {
+          "index": 15,
+          "text": " leaving"
+        },
+        {
+          "index": 16,
+          "text": " your"
+        },
+        {
+          "index": 17,
+          "text": " people"
+        },
+        {
+          "index": 18,
+          "text": " behind."
+        }
+      ],
+      "t": 7446
+    }
+  ],
+  "completed": true,
+  "firstAudibleAt": 1042,
+  "events": [
+    {
+      "atMs": 272448,
+      "direction": "send",
+      "generating": true,
+      "playing": false,
+      "type": "response.create",
+      "userSpeaking": false
+    },
+    {
+      "atMs": 272620,
+      "direction": "receive",
+      "generating": true,
+      "playing": false,
+      "responseId": "resp_EHffrx7ikt4Xrny1cRsxy",
+      "type": "response.created",
+      "userSpeaking": false
+    },
+    {
+      "atMs": 273314,
+      "direction": "receive",
+      "generating": true,
+      "playing": false,
+      "responseId": "resp_EHffrx7ikt4Xrny1cRsxy",
+      "type": "output_audio_buffer.started",
+      "userSpeaking": false
+    },
+    {
+      "atMs": 274351,
+      "direction": "receive",
+      "generating": true,
+      "playing": true,
+      "responseId": "resp_EHffrx7ikt4Xrny1cRsxy",
+      "type": "response.done",
+      "userSpeaking": false
+    },
+    {
+      "atMs": 279008,
+      "direction": "receive",
+      "generating": false,
+      "playing": true,
+      "responseId": "resp_EHffrx7ikt4Xrny1cRsxy",
+      "type": "output_audio_buffer.stopped",
+      "userSpeaking": false
+    }
+  ],
+  "diagnostics": [
+    {
+      "state": "requested",
+      "turnId": "1:1"
+    },
+    {
+      "elapsedMs": 0,
+      "reason": "explicit_user_event",
+      "state": "prepared",
+      "turnId": "1:1"
+    },
+    {
+      "elapsedMs": 7,
+      "state": "received",
+      "turnId": "1:1"
+    },
+    {
+      "elapsedMs": 1530,
+      "state": "received",
+      "turnId": "1:1"
+    },
+    {
+      "elapsedMs": 1672,
+      "state": "received",
+      "turnId": "1:1"
+    },
+    {
+      "state": "requested",
+      "turnId": "1:2"
+    },
+    {
+      "elapsedMs": 898,
+      "state": "prepared",
+      "turnId": "1:2"
+    },
+    {
+      "elapsedMs": 898,
+      "reason": "reaction_after_speech_plan",
+      "state": "rejected",
+      "turnId": "1:2"
+    },
+    {
+      "elapsedMs": 2089,
+      "state": "received",
+      "turnId": "1:2"
+    },
+    {
+      "elapsedMs": 1057,
+      "state": "received",
+      "turnId": "1:2"
+    },
+    {
+      "state": "requested",
+      "turnId": "1:3"
+    },
+    {
+      "elapsedMs": 755,
+      "state": "prepared",
+      "turnId": "1:3"
+    },
+    {
+      "elapsedMs": 755,
+      "state": "received",
+      "turnId": "1:3"
+    },
+    {
+      "elapsedMs": 1578,
+      "state": "received",
+      "turnId": "1:3"
+    },
+    {
+      "elapsedMs": 3421,
+      "reason": "phrase_already_presented",
+      "state": "rejected",
+      "turnId": "1:3"
+    },
+    {
+      "elapsedMs": 3510,
+      "reason": "speech_plan_timeout",
+      "state": "timeout",
+      "turnId": "1:3"
+    },
+    {
+      "state": "requested",
+      "turnId": "1:4"
+    },
+    {
+      "elapsedMs": 0,
+      "reason": "explicit_user_event",
+      "state": "prepared",
+      "turnId": "1:4"
+    },
+    {
+      "elapsedMs": 2,
+      "state": "received",
+      "turnId": "1:4"
+    },
+    {
+      "elapsedMs": 2893,
+      "reason": "phrase_already_presented",
+      "state": "rejected",
+      "turnId": "1:4"
+    },
+    {
+      "elapsedMs": 1440,
+      "state": "received",
+      "turnId": "1:4"
+    },
+    {
+      "elapsedMs": 1800,
+      "reason": "phrase_already_presented",
+      "state": "rejected",
+      "turnId": "1:4"
+    }
+  ],
+  "cues": [
+    {
+      "accent": "none",
+      "anchor": "I got the apartment",
+      "confidence": 0.97,
+      "effect": "none",
+      "expression": "neutral",
+      "gesture": "lift",
+      "id": "reaction-1-10-immediate",
+      "intensity": 0.55,
+      "intent": "react",
+      "source": "user",
+      "turnId": "1:4",
+      "atMs": 961
+    },
+    {
+      "accent": "none",
+      "anchor": "That’s a bittersweet kind of",
+      "confidence": 0.68,
+      "effect": "none",
+      "expression": "neutral",
+      "gesture": "still",
+      "id": "1:4:fast:0",
+      "intensity": 0.45,
+      "intent": "explain",
+      "kind": "speech",
+      "phraseIndex": 0,
+      "source": "assistant",
+      "turnId": "1:4",
+      "atMs": 1042
+    },
+    {
+      "accent": "none",
+      "anchor": "and it makes total sense",
+      "confidence": 0.68,
+      "effect": "none",
+      "expression": "neutral",
+      "gesture": "still",
+      "id": "1:4:fast:34",
+      "intensity": 0.45,
+      "intent": "explain",
+      "kind": "speech",
+      "phraseIndex": 1,
+      "source": "assistant",
+      "turnId": "1:4",
+      "atMs": 2421
+    },
+    {
+      "accent": "soften",
+      "anchor": "feel sad about leaving",
+      "confidence": 0.9,
+      "effect": "none",
+      "expression": "concerned",
+      "gesture": "lean-in",
+      "id": "speech-plan-1-12-0",
+      "intensity": 0.85,
+      "intent": "comfort",
+      "kind": "speech",
+      "phraseIndex": 0,
+      "source": "assistant",
+      "turnId": "1:4",
+      "atMs": 5654
+    }
+  ],
+  "reconstructedCaption": "That’s a bittersweet kind of win, and it makes total sense to feel sad about leaving your people behind.",
+  "sampledWordCount": 19,
+  "firstSpeechCueAt": 1042,
+  "cueLagMs": 0,
+  "lastAudibleAt": 6551,
+  "effects": [],
+  "finalUserTranscript": "I got the apartment, but I am really sad about leaving my friends.",
+  "summary": {
+    "name": "mixed-feelings",
+    "completed": true,
+    "reply": "That’s a bittersweet kind of win, and it makes total sense to feel sad about leaving your people behind.",
+    "sampledWordCount": 19,
+    "firstAudibleAt": 1042,
+    "cueLagMs": 0,
+    "effects": [],
+    "cues": [
+      {
+        "expression": "neutral",
+        "intent": "react",
+        "source": "user",
+        "anchor": "I got the apartment"
+      },
+      {
+        "expression": "neutral",
+        "intent": "explain",
+        "source": "assistant",
+        "anchor": "That’s a bittersweet kind of"
+      },
+      {
+        "expression": "neutral",
+        "intent": "explain",
+        "source": "assistant",
+        "anchor": "and it makes total sense"
+      },
+      {
+        "expression": "concerned",
+        "intent": "comfort",
+        "source": "assistant",
+        "anchor": "feel sad about leaving"
+      }
+    ],
+    "error": null
+  }
+}

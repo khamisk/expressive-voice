@@ -1,0 +1,1506 @@
+{
+  "sessionDate": "2026-08-27",
+  "savedAt": "2026-08-28T03:59:26.206Z",
+  "model": "gpt-realtime-2.1",
+  "voice": "cedar",
+  "input": "Typed prompts and existing recorded speech injected into the real WebRTC connection. No physical microphone capture.",
+  "limits": [
+    "RMS and buffer events prove playback activity, not speaker sound quality.",
+    "Phrase anchors use an estimated playback timeline, not provider word timestamps.",
+    "UI automation can delay sampling or miss caption words. Only final DOM transcripts are marked complete.",
+    "Tool-only native face plans require a follow-up audio response and add a generation round trip.",
+    "Ordinary facts may use local fallback acting because the character tool is optional.",
+    "The final sustained-overlap ASR-grace reduction is locally regression-tested; recorded correction below predates that reduction."
+  ],
+  "localVerification": {
+    "testFiles": 40,
+    "tests": 441,
+    "typecheck": "passed",
+    "build": "passed; non-blocking main chunk warning at 503.07 kB"
+  },
+  "cases": [
+    {
+      "id": "silent-skeptical",
+      "prompt": "Without saying anything, give me a skeptical look and tilt your head.",
+      "completed": true,
+      "error": null,
+      "reply": "",
+      "replySource": "silent reply: no transcript and zero sampled RMS",
+      "nativeCueCount": 1,
+      "cues": [
+        {
+          "native": true,
+          "expression": "skeptical",
+          "intensity": 0.9,
+          "intent": "react",
+          "gesture": "tilt-right",
+          "accent": "squint",
+          "effect": "none",
+          "anchor": "",
+          "source": "user",
+          "turnId": "1:1"
+        }
+      ],
+      "observedEffects": [],
+      "maximumSampledRms": 0,
+      "maximumSampledHeadTiltDegrees": 33.53,
+      "events": [
+        {
+          "ms": 0,
+          "type": "response.create",
+          "direction": "send",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 115,
+          "type": "response.created",
+          "direction": "receive",
+          "responseId": "resp_EHhdvoLYfyDhUQtHpjnNU",
+          "status": "in_progress",
+          "outputKinds": [],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 802,
+          "type": "response.function_call_arguments.done",
+          "direction": "receive",
+          "responseId": "resp_EHhdvoLYfyDhUQtHpjnNU",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 803,
+          "type": "response.output_item.done",
+          "direction": "receive",
+          "responseId": "resp_EHhdvoLYfyDhUQtHpjnNU",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 803,
+          "type": "response.done",
+          "direction": "receive",
+          "responseId": "resp_EHhdvoLYfyDhUQtHpjnNU",
+          "status": "completed",
+          "outputKinds": [
+            "function_call"
+          ],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        }
+      ],
+      "accepted": true,
+      "stage": "revised native contract"
+    },
+    {
+      "id": "surprise-with-speech",
+      "prompt": "Show me your surprised face. Just one short sentence.",
+      "completed": true,
+      "error": null,
+      "reply": "Oh! That definitely caught me off guard.",
+      "replySource": "sampled caption words (may miss words during UI actions)",
+      "nativeCueCount": 1,
+      "cues": [
+        {
+          "native": true,
+          "expression": "surprised",
+          "intensity": 0.95,
+          "intent": "react",
+          "gesture": "lift",
+          "accent": "double-take",
+          "effect": "none",
+          "anchor": "",
+          "source": "user",
+          "turnId": "1:2"
+        }
+      ],
+      "observedEffects": [],
+      "maximumSampledRms": 0.14011,
+      "maximumSampledHeadTiltDegrees": 33.54,
+      "events": [
+        {
+          "ms": 0,
+          "type": "response.create",
+          "direction": "send",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 102,
+          "type": "response.created",
+          "direction": "receive",
+          "responseId": "resp_EHheK5iyTdmq5nZImnq3B",
+          "status": "in_progress",
+          "outputKinds": [],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 1002,
+          "type": "response.function_call_arguments.done",
+          "direction": "receive",
+          "responseId": "resp_EHheK5iyTdmq5nZImnq3B",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 1006,
+          "type": "response.output_item.done",
+          "direction": "receive",
+          "responseId": "resp_EHheK5iyTdmq5nZImnq3B",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 1009,
+          "type": "response.done",
+          "direction": "receive",
+          "responseId": "resp_EHheK5iyTdmq5nZImnq3B",
+          "status": "completed",
+          "outputKinds": [
+            "function_call"
+          ],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 1009,
+          "type": "response.create",
+          "direction": "send",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 1101,
+          "type": "response.created",
+          "direction": "receive",
+          "responseId": "resp_EHheLCeyM95FAcCFDFGQ6",
+          "status": "in_progress",
+          "outputKinds": [],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 1647,
+          "type": "output_audio_buffer.started",
+          "direction": "receive",
+          "responseId": "resp_EHheLCeyM95FAcCFDFGQ6",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 2078,
+          "type": "response.output_item.done",
+          "direction": "receive",
+          "responseId": "resp_EHheLCeyM95FAcCFDFGQ6",
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 2081,
+          "type": "response.done",
+          "direction": "receive",
+          "responseId": "resp_EHheLCeyM95FAcCFDFGQ6",
+          "status": "completed",
+          "outputKinds": [
+            "message"
+          ],
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 4230,
+          "type": "output_audio_buffer.stopped",
+          "direction": "receive",
+          "responseId": "resp_EHheLCeyM95FAcCFDFGQ6",
+          "generating": false,
+          "playing": true,
+          "userSpeaking": false
+        }
+      ],
+      "accepted": true,
+      "stage": "revised native contract"
+    },
+    {
+      "id": "ordinary-good-news",
+      "prompt": "I finally got the job I really wanted!",
+      "completed": true,
+      "error": null,
+      "reply": "Oh, yes. That's huge, and you really went for the one you wanted.",
+      "replySource": "sampled caption words (may miss words during UI actions)",
+      "nativeCueCount": 0,
+      "cues": [
+        {
+          "native": false,
+          "expression": "delighted",
+          "intensity": 0.92,
+          "intent": "celebrate",
+          "gesture": "lift",
+          "accent": "widen",
+          "effect": "confetti",
+          "anchor": "I finally got the job",
+          "source": "user",
+          "turnId": "1:3"
+        },
+        {
+          "native": false,
+          "expression": "delighted",
+          "intensity": 0.82,
+          "intent": "explain",
+          "gesture": "still",
+          "accent": "widen",
+          "effect": "none",
+          "anchor": "Oh, yes.",
+          "source": "assistant",
+          "turnId": "1:3"
+        },
+        {
+          "native": false,
+          "expression": "neutral",
+          "intensity": 0.45,
+          "intent": "explain",
+          "gesture": "tilt-left",
+          "accent": "glance-up",
+          "effect": "none",
+          "anchor": "That's huge, and you really",
+          "source": "assistant",
+          "turnId": "1:3"
+        }
+      ],
+      "observedEffects": [
+        "confetti"
+      ],
+      "maximumSampledRms": 0.19168,
+      "maximumSampledHeadTiltDegrees": 33.55,
+      "events": [
+        {
+          "ms": 0,
+          "type": "response.create",
+          "direction": "send",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 110,
+          "type": "response.created",
+          "direction": "receive",
+          "responseId": "resp_EHheqbhofWJvTQgPXNcyZ",
+          "status": "in_progress",
+          "outputKinds": [],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 722,
+          "type": "output_audio_buffer.started",
+          "direction": "receive",
+          "responseId": "resp_EHheqbhofWJvTQgPXNcyZ",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 1402,
+          "type": "response.output_item.done",
+          "direction": "receive",
+          "responseId": "resp_EHheqbhofWJvTQgPXNcyZ",
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 1407,
+          "type": "response.done",
+          "direction": "receive",
+          "responseId": "resp_EHheqbhofWJvTQgPXNcyZ",
+          "status": "completed",
+          "outputKinds": [
+            "message"
+          ],
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 4876,
+          "type": "output_audio_buffer.stopped",
+          "direction": "receive",
+          "responseId": "resp_EHheqbhofWJvTQgPXNcyZ",
+          "generating": false,
+          "playing": true,
+          "userSpeaking": false
+        }
+      ],
+      "accepted": false,
+      "stage": "before final meaningful-intent prompt and short-emotion continuity fixes",
+      "failure": "Native tool not selected; weak follow-up clause reset delighted to neutral. Reply itself was short."
+    },
+    {
+      "id": "ordinary-reversal",
+      "prompt": "Actually, I misread the email. I did not get the job. It was a rejection.",
+      "completed": true,
+      "error": null,
+      "reply": "Oof, that's a tough turn, especially after thinking it was good news.",
+      "replySource": "sampled caption words (may miss words during UI actions)",
+      "nativeCueCount": 0,
+      "cues": [
+        {
+          "native": false,
+          "expression": "concerned",
+          "intensity": 0.82,
+          "intent": "comfort",
+          "gesture": "lean-in",
+          "accent": "soften",
+          "effect": "none",
+          "anchor": "I did not get the",
+          "source": "user",
+          "turnId": "1:4"
+        },
+        {
+          "native": false,
+          "expression": "concerned",
+          "intensity": 0.82,
+          "intent": "comfort",
+          "gesture": "tilt-left",
+          "accent": "soften",
+          "effect": "none",
+          "anchor": "Oof, that's a tough turn,",
+          "source": "assistant",
+          "turnId": "1:4"
+        },
+        {
+          "native": false,
+          "expression": "neutral",
+          "intensity": 0.48,
+          "intent": "correct",
+          "gesture": "nod",
+          "accent": "soften",
+          "effect": "none",
+          "anchor": "especially after thinking it was",
+          "source": "assistant",
+          "turnId": "1:4"
+        }
+      ],
+      "observedEffects": [],
+      "maximumSampledRms": 0.18113,
+      "maximumSampledHeadTiltDegrees": 33.49,
+      "events": [
+        {
+          "ms": 0,
+          "type": "response.create",
+          "direction": "send",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 323,
+          "type": "response.created",
+          "direction": "receive",
+          "responseId": "resp_EHhfMGDwlFkmjzPjQmlYQ",
+          "status": "in_progress",
+          "outputKinds": [],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 877,
+          "type": "output_audio_buffer.started",
+          "direction": "receive",
+          "responseId": "resp_EHhfMGDwlFkmjzPjQmlYQ",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 1857,
+          "type": "response.output_item.done",
+          "direction": "receive",
+          "responseId": "resp_EHhfMGDwlFkmjzPjQmlYQ",
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 1857,
+          "type": "response.done",
+          "direction": "receive",
+          "responseId": "resp_EHhfMGDwlFkmjzPjQmlYQ",
+          "status": "completed",
+          "outputKinds": [
+            "message"
+          ],
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 6421,
+          "type": "output_audio_buffer.stopped",
+          "direction": "receive",
+          "responseId": "resp_EHhfMGDwlFkmjzPjQmlYQ",
+          "generating": false,
+          "playing": true,
+          "userSpeaking": false
+        }
+      ],
+      "accepted": false,
+      "stage": "before final meaningful-intent prompt and short-emotion continuity fixes",
+      "failure": "Weak follow-up clause reset concerned to neutral. Reply itself was short; no effects."
+    },
+    {
+      "id": "recorded-brief-yeah",
+      "prompt": "Tell me a tiny two-sentence story about a fox finding a strange door.",
+      "fixture": "Brief yeah",
+      "completed": true,
+      "error": null,
+      "reply": "A fox trotted through the ferns and found a door standing alone, humming softly like it knew a secret. It nudged it open, and a warm light spilled out, smelling faintly of apples and rain.",
+      "replySource": "final presented-transcript DOM attribute separately inspected after capture",
+      "nativeCueCount": 0,
+      "cues": [
+        {
+          "native": false,
+          "expression": "neutral",
+          "intensity": 0.45,
+          "intent": "explain",
+          "gesture": "nod",
+          "accent": "none",
+          "effect": "none",
+          "anchor": "A fox trotted through the",
+          "source": "assistant",
+          "turnId": "1:1"
+        },
+        {
+          "native": false,
+          "expression": "neutral",
+          "intensity": 0.45,
+          "intent": "explain",
+          "gesture": "tilt-left",
+          "accent": "glance-up",
+          "effect": "none",
+          "anchor": "humming softly like it knew",
+          "source": "assistant",
+          "turnId": "1:1"
+        },
+        {
+          "native": false,
+          "expression": "neutral",
+          "intensity": 0.45,
+          "intent": "explain",
+          "gesture": "still",
+          "accent": "none",
+          "effect": "none",
+          "anchor": "It nudged it open,",
+          "source": "assistant",
+          "turnId": "1:1"
+        },
+        {
+          "native": false,
+          "expression": "neutral",
+          "intensity": 0.45,
+          "intent": "explain",
+          "gesture": "nod",
+          "accent": "none",
+          "effect": "none",
+          "anchor": "and a warm light spilled",
+          "source": "assistant",
+          "turnId": "1:1"
+        },
+        {
+          "native": false,
+          "expression": "neutral",
+          "intensity": 0.45,
+          "intent": "explain",
+          "gesture": "tilt-left",
+          "accent": "glance-up",
+          "effect": "none",
+          "anchor": "smelling faintly of apples and",
+          "source": "assistant",
+          "turnId": "1:1"
+        }
+      ],
+      "observedEffects": [],
+      "maximumSampledRms": 0.22218,
+      "maximumSampledHeadTiltDegrees": 33.56,
+      "events": [
+        {
+          "ms": 0,
+          "type": "response.create",
+          "direction": "send",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 101,
+          "type": "response.created",
+          "direction": "receive",
+          "responseId": "resp_EHhoGPDPIHVlAPZ29w475",
+          "status": "in_progress",
+          "outputKinds": [],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 790,
+          "type": "output_audio_buffer.started",
+          "direction": "receive",
+          "responseId": "resp_EHhoGPDPIHVlAPZ29w475",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 2810,
+          "type": "response.output_item.done",
+          "direction": "receive",
+          "responseId": "resp_EHhoGPDPIHVlAPZ29w475",
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 2814,
+          "type": "response.done",
+          "direction": "receive",
+          "responseId": "resp_EHhoGPDPIHVlAPZ29w475",
+          "status": "completed",
+          "outputKinds": [
+            "message"
+          ],
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 4249,
+          "type": "local.speech_started",
+          "direction": "local",
+          "generating": false,
+          "playing": true,
+          "userSpeaking": true
+        },
+        {
+          "ms": 5220,
+          "type": "local.speech_stopped",
+          "direction": "local",
+          "generating": false,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 5220,
+          "type": "input_audio_buffer.commit",
+          "direction": "send",
+          "generating": false,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 5281,
+          "type": "input_audio_buffer.committed",
+          "direction": "receive",
+          "generating": false,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 11689,
+          "type": "output_audio_buffer.stopped",
+          "direction": "receive",
+          "responseId": "resp_EHhoGPDPIHVlAPZ29w475",
+          "generating": false,
+          "playing": true,
+          "userSpeaking": false
+        }
+      ],
+      "accepted": true,
+      "stage": "final native persona and response correlation",
+      "observation": "Brief yeah did not cancel, clear, or produce a second voice reply."
+    },
+    {
+      "id": "recorded-correction",
+      "prompt": "I finally got the job I really wanted. Give me a little celebration in three short sentences.",
+      "fixture": "Correction",
+      "completed": true,
+      "error": null,
+      "reply": "I'm sorry. That kind of reversal really stings, especially after hoping for good news.",
+      "replySource": "sampled final reply, confirmed complete at playback end",
+      "nativeCueCount": 5,
+      "cues": [
+        {
+          "native": false,
+          "expression": "delighted",
+          "intensity": 0.92,
+          "intent": "celebrate",
+          "gesture": "lift",
+          "accent": "widen",
+          "effect": "confetti",
+          "anchor": "I finally got the job",
+          "source": "user",
+          "turnId": "1:3"
+        },
+        {
+          "native": true,
+          "expression": "delighted",
+          "intensity": 0.95,
+          "intent": "celebrate",
+          "gesture": "lift",
+          "accent": "spark",
+          "effect": "confetti",
+          "anchor": "",
+          "source": "user",
+          "turnId": "1:3"
+        },
+        {
+          "native": true,
+          "expression": "joyful",
+          "intensity": 0.9,
+          "intent": "celebrate",
+          "gesture": "nod",
+          "accent": "spark",
+          "effect": "none",
+          "anchor": "Huge congrats!",
+          "source": "assistant",
+          "turnId": "1:3"
+        },
+        {
+          "native": true,
+          "expression": "proud",
+          "intensity": 0.9,
+          "intent": "celebrate",
+          "gesture": "settle",
+          "accent": "spark",
+          "effect": "sparkle",
+          "anchor": "You earned it.",
+          "source": "assistant",
+          "turnId": "1:3"
+        },
+        {
+          "native": true,
+          "expression": "concerned",
+          "intensity": 0.85,
+          "intent": "comfort",
+          "gesture": "tilt-right",
+          "accent": "soften",
+          "effect": "none",
+          "anchor": "",
+          "source": "user",
+          "turnId": "1:4"
+        },
+        {
+          "native": true,
+          "expression": "sad",
+          "intensity": 0.8,
+          "intent": "comfort",
+          "gesture": "settle",
+          "accent": "none",
+          "effect": "none",
+          "anchor": "I'm sorry.",
+          "source": "assistant",
+          "turnId": "1:4"
+        }
+      ],
+      "observedEffects": [
+        "confetti"
+      ],
+      "maximumSampledRms": 0.20697,
+      "maximumSampledHeadTiltDegrees": 33.51,
+      "events": [
+        {
+          "ms": 0,
+          "type": "response.create",
+          "direction": "send",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 99,
+          "type": "response.created",
+          "direction": "receive",
+          "responseId": "resp_EHhpE54EjbrfJxk8HEIYt",
+          "status": "in_progress",
+          "outputKinds": [],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 1402,
+          "type": "response.function_call_arguments.done",
+          "direction": "receive",
+          "responseId": "resp_EHhpE54EjbrfJxk8HEIYt",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 1406,
+          "type": "response.output_item.done",
+          "direction": "receive",
+          "responseId": "resp_EHhpE54EjbrfJxk8HEIYt",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 1412,
+          "type": "response.done",
+          "direction": "receive",
+          "responseId": "resp_EHhpE54EjbrfJxk8HEIYt",
+          "status": "completed",
+          "outputKinds": [
+            "function_call"
+          ],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 1412,
+          "type": "response.create",
+          "direction": "send",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 1526,
+          "type": "response.created",
+          "direction": "receive",
+          "responseId": "resp_EHhpFWbPyCpVqXk1tF9Sb",
+          "status": "in_progress",
+          "outputKinds": [],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 2036,
+          "type": "output_audio_buffer.started",
+          "direction": "receive",
+          "responseId": "resp_EHhpFWbPyCpVqXk1tF9Sb",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 3055,
+          "type": "response.output_item.done",
+          "direction": "receive",
+          "responseId": "resp_EHhpFWbPyCpVqXk1tF9Sb",
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 3055,
+          "type": "response.done",
+          "direction": "receive",
+          "responseId": "resp_EHhpFWbPyCpVqXk1tF9Sb",
+          "status": "completed",
+          "outputKinds": [
+            "message"
+          ],
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 4373,
+          "type": "local.speech_started",
+          "direction": "local",
+          "generating": false,
+          "playing": true,
+          "userSpeaking": true
+        },
+        {
+          "ms": 7877,
+          "type": "output_audio_buffer.stopped",
+          "direction": "receive",
+          "responseId": "resp_EHhpFWbPyCpVqXk1tF9Sb",
+          "generating": false,
+          "playing": true,
+          "userSpeaking": true
+        },
+        {
+          "ms": 8895,
+          "type": "local.speech_stopped",
+          "direction": "local",
+          "generating": false,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 8895,
+          "type": "input_audio_buffer.commit",
+          "direction": "send",
+          "generating": false,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 8958,
+          "type": "input_audio_buffer.committed",
+          "direction": "receive",
+          "generating": false,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 9809,
+          "type": "response.create",
+          "direction": "send",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 9901,
+          "type": "response.created",
+          "direction": "receive",
+          "responseId": "resp_EHhpOPNIVkklV2ozM1hkL",
+          "status": "in_progress",
+          "outputKinds": [],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 11009,
+          "type": "response.function_call_arguments.done",
+          "direction": "receive",
+          "responseId": "resp_EHhpOPNIVkklV2ozM1hkL",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 11015,
+          "type": "response.output_item.done",
+          "direction": "receive",
+          "responseId": "resp_EHhpOPNIVkklV2ozM1hkL",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 11018,
+          "type": "response.done",
+          "direction": "receive",
+          "responseId": "resp_EHhpOPNIVkklV2ozM1hkL",
+          "status": "completed",
+          "outputKinds": [
+            "function_call"
+          ],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 11018,
+          "type": "response.create",
+          "direction": "send",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 11159,
+          "type": "response.created",
+          "direction": "receive",
+          "responseId": "resp_EHhpPCobmaOtlZsz5jcqI",
+          "status": "in_progress",
+          "outputKinds": [],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 11757,
+          "type": "output_audio_buffer.started",
+          "direction": "receive",
+          "responseId": "resp_EHhpPCobmaOtlZsz5jcqI",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 12825,
+          "type": "response.output_item.done",
+          "direction": "receive",
+          "responseId": "resp_EHhpPCobmaOtlZsz5jcqI",
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 12826,
+          "type": "response.done",
+          "direction": "receive",
+          "responseId": "resp_EHhpPCobmaOtlZsz5jcqI",
+          "status": "completed",
+          "outputKinds": [
+            "message"
+          ],
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 17937,
+          "type": "output_audio_buffer.stopped",
+          "direction": "receive",
+          "responseId": "resp_EHhpPCobmaOtlZsz5jcqI",
+          "generating": false,
+          "playing": true,
+          "userSpeaking": false
+        }
+      ],
+      "accepted": true,
+      "stage": "final native persona; before sustained-input ASR-grace optimization",
+      "observation": "Native delighted/joyful/proud plan yielded to native concerned/sad plan. Old voice finished naturally during recorded correction; no forced clear in this case."
+    },
+    {
+      "id": "topic-switch-first-failure",
+      "prompt": "Explain how volcanoes erupt in three short sentences.",
+      "redirect": "Different topic: what's a quick dinner with eggs and rice?",
+      "completed": false,
+      "error": null,
+      "reply": "Deep underground, heat melts ",
+      "replySource": "final presented-transcript DOM attribute",
+      "nativeCueCount": 0,
+      "cues": [
+        {
+          "native": false,
+          "expression": "neutral",
+          "intensity": 0.45,
+          "intent": "explain",
+          "gesture": "still",
+          "accent": "none",
+          "effect": "none",
+          "anchor": "Deep underground, heat melts rock",
+          "source": "assistant",
+          "turnId": "1:1"
+        }
+      ],
+      "observedEffects": [],
+      "maximumSampledRms": 0.06418,
+      "maximumSampledHeadTiltDegrees": 33.53,
+      "events": [
+        {
+          "ms": 0,
+          "type": "response.create",
+          "direction": "send",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 104,
+          "type": "response.created",
+          "direction": "receive",
+          "responseId": "resp_EHhwpTVvHnmJx5wFBBdlj",
+          "status": "in_progress",
+          "outputKinds": [],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 730,
+          "type": "output_audio_buffer.started",
+          "direction": "receive",
+          "responseId": "resp_EHhwpTVvHnmJx5wFBBdlj",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 1704,
+          "type": "response.cancel",
+          "direction": "send",
+          "responseId": "resp_EHhwpTVvHnmJx5wFBBdlj",
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 1704,
+          "type": "output_audio_buffer.clear",
+          "direction": "send",
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 1760,
+          "type": "output_audio_buffer.cleared",
+          "direction": "receive",
+          "responseId": "resp_EHhwpTVvHnmJx5wFBBdlj",
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 1941,
+          "type": "response.output_item.done",
+          "direction": "receive",
+          "responseId": "resp_EHhwpTVvHnmJx5wFBBdlj",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 1946,
+          "type": "response.done",
+          "direction": "receive",
+          "responseId": "resp_EHhwpTVvHnmJx5wFBBdlj",
+          "status": "cancelled",
+          "reason": "client_cancelled",
+          "outputKinds": [
+            "message"
+          ],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        }
+      ],
+      "accepted": false,
+      "stage": "before clear/done ordering fix",
+      "failure": "Clear ACK preceded cancelled done; response id was retired too early and new turn never started. Safety closed after 24 seconds."
+    },
+    {
+      "id": "topic-switch-second-failure",
+      "prompt": "Explain how volcanoes erupt in three short sentences.",
+      "redirect": "Different topic: what's a quick dinner with eggs and rice?",
+      "completed": true,
+      "error": null,
+      "reply": "A fast option is egg fried rice: ",
+      "replySource": "final presented-transcript DOM attribute",
+      "nativeCueCount": 0,
+      "cues": [
+        {
+          "native": false,
+          "expression": "neutral",
+          "intensity": 0.45,
+          "intent": "explain",
+          "gesture": "still",
+          "accent": "none",
+          "effect": "none",
+          "anchor": "Magma builds up under",
+          "source": "assistant",
+          "turnId": "1:1"
+        },
+        {
+          "native": false,
+          "expression": "neutral",
+          "intensity": 0.45,
+          "intent": "explain",
+          "gesture": "tilt-left",
+          "accent": "glance-up",
+          "effect": "none",
+          "anchor": "Pressure rises and forces the",
+          "source": "assistant",
+          "turnId": "1:1"
+        },
+        {
+          "native": false,
+          "expression": "neutral",
+          "intensity": 0.45,
+          "intent": "explain",
+          "gesture": "still",
+          "accent": "none",
+          "effect": "none",
+          "anchor": "A fast option is",
+          "source": "assistant",
+          "turnId": "1:2"
+        }
+      ],
+      "observedEffects": [],
+      "maximumSampledRms": 0.26232,
+      "maximumSampledHeadTiltDegrees": 20.7,
+      "events": [
+        {
+          "ms": 0,
+          "type": "response.create",
+          "direction": "send",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 86,
+          "type": "response.created",
+          "direction": "receive",
+          "responseId": "resp_EHhyWezYaQqQOZ3yf08vs",
+          "status": "in_progress",
+          "outputKinds": [],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 698,
+          "type": "output_audio_buffer.started",
+          "direction": "receive",
+          "responseId": "resp_EHhyWezYaQqQOZ3yf08vs",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 2616,
+          "type": "response.output_item.done",
+          "direction": "receive",
+          "responseId": "resp_EHhyWezYaQqQOZ3yf08vs",
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 2616,
+          "type": "response.done",
+          "direction": "receive",
+          "responseId": "resp_EHhyWezYaQqQOZ3yf08vs",
+          "status": "completed",
+          "outputKinds": [
+            "message"
+          ],
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 3971,
+          "type": "output_audio_buffer.clear",
+          "direction": "send",
+          "generating": false,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 4028,
+          "type": "output_audio_buffer.cleared",
+          "direction": "receive",
+          "responseId": "resp_EHhyWezYaQqQOZ3yf08vs",
+          "generating": false,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 4028,
+          "type": "response.create",
+          "direction": "send",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 4099,
+          "type": "response.created",
+          "direction": "receive",
+          "responseId": "resp_EHhya5vdrBq4LH3INebwn",
+          "status": "in_progress",
+          "outputKinds": [],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 4570,
+          "type": "output_audio_buffer.started",
+          "direction": "receive",
+          "responseId": "resp_EHhya5vdrBq4LH3INebwn",
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 6033,
+          "type": "response.output_item.done",
+          "direction": "receive",
+          "responseId": "resp_EHhya5vdrBq4LH3INebwn",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 6033,
+          "type": "response.done",
+          "direction": "receive",
+          "responseId": "resp_EHhya5vdrBq4LH3INebwn",
+          "status": "completed",
+          "outputKinds": [
+            "message"
+          ],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 13057,
+          "type": "output_audio_buffer.stopped",
+          "direction": "receive",
+          "responseId": "resp_EHhya5vdrBq4LH3INebwn",
+          "generating": false,
+          "playing": false,
+          "userSpeaking": false
+        }
+      ],
+      "accepted": false,
+      "stage": "after clear/done fix; before stale silence-timer fix",
+      "failure": "New voice answered the topic but stale RMS silence timeout set listening during playback and froze captions."
+    },
+    {
+      "id": "topic-switch-final",
+      "prompt": "Explain how volcanoes erupt in three short sentences.",
+      "redirect": "Different topic: what's a quick dinner with eggs and rice?",
+      "completed": true,
+      "error": null,
+      "reply": "Fry the rice with a little oil, garlic, and soy sauce, then scramble eggs into it with scallions or any quick veggies for a fast, cozy fried rice.",
+      "replySource": "final presented-transcript DOM attribute",
+      "nativeCueCount": 0,
+      "cues": [
+        {
+          "native": false,
+          "expression": "neutral",
+          "intensity": 0.45,
+          "intent": "explain",
+          "gesture": "still",
+          "accent": "none",
+          "effect": "none",
+          "anchor": "Magma builds up under",
+          "source": "assistant",
+          "turnId": "1:1"
+        },
+        {
+          "native": false,
+          "expression": "neutral",
+          "intensity": 0.45,
+          "intent": "explain",
+          "gesture": "tilt-left",
+          "accent": "glance-up",
+          "effect": "none",
+          "anchor": "When the pressure gets too",
+          "source": "assistant",
+          "turnId": "1:1"
+        },
+        {
+          "native": false,
+          "expression": "neutral",
+          "intensity": 0.45,
+          "intent": "explain",
+          "gesture": "nod",
+          "accent": "none",
+          "effect": "none",
+          "anchor": "Fry the rice with a",
+          "source": "assistant",
+          "turnId": "1:2"
+        },
+        {
+          "native": false,
+          "expression": "neutral",
+          "intensity": 0.45,
+          "intent": "explain",
+          "gesture": "still",
+          "accent": "none",
+          "effect": "none",
+          "anchor": "garlic, and soy sauce,",
+          "source": "assistant",
+          "turnId": "1:2"
+        },
+        {
+          "native": false,
+          "expression": "neutral",
+          "intensity": 0.45,
+          "intent": "explain",
+          "gesture": "tilt-right",
+          "accent": "glance-down",
+          "effect": "none",
+          "anchor": "then scramble eggs into it",
+          "source": "assistant",
+          "turnId": "1:2"
+        },
+        {
+          "native": false,
+          "expression": "neutral",
+          "intensity": 0.45,
+          "intent": "explain",
+          "gesture": "still",
+          "accent": "none",
+          "effect": "none",
+          "anchor": "cozy fried rice.",
+          "source": "assistant",
+          "turnId": "1:2"
+        }
+      ],
+      "observedEffects": [],
+      "maximumSampledRms": 0.24019,
+      "maximumSampledHeadTiltDegrees": 33.54,
+      "events": [
+        {
+          "ms": 0,
+          "type": "response.create",
+          "direction": "send",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 107,
+          "type": "response.created",
+          "direction": "receive",
+          "responseId": "resp_EHi081ecu1GH6briOuI5e",
+          "status": "in_progress",
+          "outputKinds": [],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 780,
+          "type": "output_audio_buffer.started",
+          "direction": "receive",
+          "responseId": "resp_EHi081ecu1GH6briOuI5e",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 3494,
+          "type": "response.cancel",
+          "direction": "send",
+          "responseId": "resp_EHi081ecu1GH6briOuI5e",
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 3494,
+          "type": "output_audio_buffer.clear",
+          "direction": "send",
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 3542,
+          "type": "output_audio_buffer.cleared",
+          "direction": "receive",
+          "responseId": "resp_EHi081ecu1GH6briOuI5e",
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 3574,
+          "type": "response.output_item.done",
+          "direction": "receive",
+          "responseId": "resp_EHi081ecu1GH6briOuI5e",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 3574,
+          "type": "response.done",
+          "direction": "receive",
+          "responseId": "resp_EHi081ecu1GH6briOuI5e",
+          "status": "cancelled",
+          "reason": "client_cancelled",
+          "outputKinds": [
+            "message"
+          ],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 3574,
+          "type": "response.create",
+          "direction": "send",
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 3677,
+          "type": "response.created",
+          "direction": "receive",
+          "responseId": "resp_EHi0BAjDpLVXrhc8uKXav",
+          "status": "in_progress",
+          "outputKinds": [],
+          "generating": true,
+          "playing": false,
+          "userSpeaking": false
+        },
+        {
+          "ms": 4230,
+          "type": "output_audio_buffer.started",
+          "direction": "receive",
+          "responseId": "resp_EHi0BAjDpLVXrhc8uKXav",
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 5956,
+          "type": "response.output_item.done",
+          "direction": "receive",
+          "responseId": "resp_EHi0BAjDpLVXrhc8uKXav",
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 5956,
+          "type": "response.done",
+          "direction": "receive",
+          "responseId": "resp_EHi0BAjDpLVXrhc8uKXav",
+          "status": "completed",
+          "outputKinds": [
+            "message"
+          ],
+          "generating": true,
+          "playing": true,
+          "userSpeaking": false
+        },
+        {
+          "ms": 13121,
+          "type": "output_audio_buffer.stopped",
+          "direction": "receive",
+          "responseId": "resp_EHi0BAjDpLVXrhc8uKXav",
+          "generating": false,
+          "playing": true,
+          "userSpeaking": false
+        }
+      ],
+      "accepted": true,
+      "stage": "both live-found lifecycle fixes applied",
+      "observation": "Clear ACK preceded cancelled done. Exactly one queued reply began after cancelled done; entire new-topic caption advanced and phase stayed speaking through playback."
+    }
+  ]
+}

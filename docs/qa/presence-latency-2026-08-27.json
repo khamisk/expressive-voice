@@ -1,0 +1,1564 @@
+{
+  "kind": "recorded-browser-choreography-comparison",
+  "scope": "Existing recordings only. No provider generation, microphone capture, or proof of word-exact synchronization. DOM samples are not a 60 fps motion measurement.",
+  "capturedLocalDate": "2026-08-27",
+  "baseline": {
+    "label": "recorded baseline before change",
+    "sampleCount": 92,
+    "cues": [
+      {
+        "cue": "recorded-surprise-empathy-interest-5:phrase:0",
+        "expression": "surprised",
+        "firstAudioTime": 0.26444,
+        "lastAudioTime": 3.519876,
+        "variants": [
+          "surprised-return",
+          "surprised-right-focus",
+          "surprised-punctuate",
+          "surprised-look-up"
+        ]
+      },
+      {
+        "cue": "recorded-surprise-empathy-interest-5:phrase:1",
+        "expression": "concerned",
+        "firstAudioTime": 3.610667,
+        "lastAudioTime": 5.589333,
+        "variants": [
+          "concerned-left-focus",
+          "concerned-return"
+        ]
+      },
+      {
+        "cue": "recorded-surprise-empathy-interest-5:phrase:2",
+        "expression": "concerned",
+        "firstAudioTime": 5.68639,
+        "lastAudioTime": 7.386667,
+        "variants": [
+          "concerned-right-focus",
+          "concerned-present"
+        ]
+      },
+      {
+        "cue": "recorded-surprise-empathy-interest-5:phrase:3",
+        "expression": "curious",
+        "firstAudioTime": 7.488,
+        "lastAudioTime": 8.913045,
+        "variants": [
+          "curious-right-focus",
+          "curious-left-focus"
+        ]
+      },
+      {
+        "cue": null,
+        "expression": "attentive",
+        "firstAudioTime": 9,
+        "lastAudioTime": 9,
+        "variants": [
+          "neutral-look-up"
+        ]
+      }
+    ],
+    "transitions": [
+      {
+        "body": "4.621,-2.611,1.047,1.021,0.980",
+        "caption": "Wait,",
+        "cue": "recorded-surprise-empathy-interest-5:phrase:0",
+        "expression": "surprised",
+        "head": "5.27,0.00,7.21",
+        "left": {
+          "height": 90.29,
+          "width": 61.76,
+          "x": -74.52,
+          "y": -62.68
+        },
+        "paused": false,
+        "right": {
+          "height": 81.01,
+          "width": 55.56,
+          "x": 16.62,
+          "y": -58.34
+        },
+        "time": 0.26444,
+        "variant": "surprised-return",
+        "word": "1"
+      },
+      {
+        "body": "22.083,-14.181,1.179,1.069,0.941",
+        "caption": "Wait, you did",
+        "cue": "recorded-surprise-empathy-interest-5:phrase:0",
+        "expression": "surprised",
+        "head": "17.11,0.00,22.69",
+        "left": {
+          "height": 78.47,
+          "width": 70.72,
+          "x": -79.15,
+          "y": -84.64
+        },
+        "paused": false,
+        "right": {
+          "height": 68.42,
+          "width": 60.83,
+          "x": 17.98,
+          "y": -80.09
+        },
+        "time": 1.008,
+        "variant": "surprised-right-focus",
+        "word": "3"
+      },
+      {
+        "body": "1.315,-0.876,1.014,1.002,0.998",
+        "caption": "Wait, you did all that",
+        "cue": "recorded-surprise-empathy-interest-5:phrase:0",
+        "expression": "surprised",
+        "head": "1.88,0.00,2.10",
+        "left": {
+          "height": 78.37,
+          "width": 62.45,
+          "x": -76.39,
+          "y": -53.83
+        },
+        "paused": false,
+        "right": {
+          "height": 92.08,
+          "width": 73.51,
+          "x": 13.49,
+          "y": -64.57
+        },
+        "time": 1.746837,
+        "variant": "surprised-punctuate",
+        "word": "5"
+      },
+      {
+        "body": "0.000,-0.000,1.000,1.000,1.000",
+        "caption": "Wait, you did all that in one night?",
+        "cue": "recorded-surprise-empathy-interest-5:phrase:0",
+        "expression": "surprised",
+        "head": "1.35,0.00,1.40",
+        "left": {
+          "height": 103.79,
+          "width": 75.72,
+          "x": -87.68,
+          "y": -69.78
+        },
+        "paused": false,
+        "right": {
+          "height": 95.98,
+          "width": 71.08,
+          "x": 15.25,
+          "y": -66.22
+        },
+        "time": 2.581333,
+        "variant": "surprised-look-up",
+        "word": "8"
+      },
+      {
+        "body": "-0.010,0.006,1.000,1.000,1.000",
+        "caption": "Wait, you did all that in one night?",
+        "cue": "recorded-surprise-empathy-interest-5:phrase:1",
+        "expression": "concerned",
+        "head": "1.25,0.00,1.28",
+        "left": {
+          "height": 87.78,
+          "width": 66.91,
+          "x": -77.57,
+          "y": -70.28
+        },
+        "paused": false,
+        "right": {
+          "height": 84.86,
+          "width": 67.81,
+          "x": 10.17,
+          "y": -67.95
+        },
+        "time": 3.610667,
+        "variant": "concerned-left-focus",
+        "word": "8"
+      },
+      {
+        "body": "-23.347,10.420,1.000,1.049,0.951",
+        "caption": "That's a lot to have on",
+        "cue": "recorded-surprise-empathy-interest-5:phrase:1",
+        "expression": "concerned",
+        "head": "-8.58,0.00,-33.39",
+        "left": {
+          "height": 68.38000000000001,
+          "width": 49.92999999999999,
+          "x": -71.91,
+          "y": -2.68
+        },
+        "paused": false,
+        "right": {
+          "height": 51.129999999999995,
+          "width": 38.25,
+          "x": 17.84,
+          "y": 11.55
+        },
+        "time": 4.407641,
+        "variant": "concerned-return",
+        "word": "14"
+      },
+      {
+        "body": "-1.875,-1.038,1.000,0.996,1.005",
+        "caption": "That's a lot to have on your plate.",
+        "cue": "recorded-surprise-empathy-interest-5:phrase:2",
+        "expression": "concerned",
+        "head": "-1.33,0.00,-4.74",
+        "left": {
+          "height": 61.78,
+          "width": 48.459999999999994,
+          "x": -64.6,
+          "y": -11.44
+        },
+        "paused": false,
+        "right": {
+          "height": 55.16,
+          "width": 41.87,
+          "x": 20.36,
+          "y": -8.23
+        },
+        "time": 5.68639,
+        "variant": "concerned-right-focus",
+        "word": "16"
+      },
+      {
+        "body": "-0.001,11.615,1.000,1.054,0.956",
+        "caption": "No wonder that stuck",
+        "cue": "recorded-surprise-empathy-interest-5:phrase:2",
+        "expression": "concerned",
+        "head": "11.73,0.00,-0.00",
+        "left": {
+          "height": 53.62,
+          "width": 37.07,
+          "x": -55.97,
+          "y": -39.01
+        },
+        "paused": false,
+        "right": {
+          "height": 72.03,
+          "width": 50.5,
+          "x": 22.75,
+          "y": -51.78
+        },
+        "time": 6.433125,
+        "variant": "concerned-present",
+        "word": "20"
+      },
+      {
+        "body": "0.012,0.018,1.000,1.000,1.000",
+        "caption": "No wonder that stuck with you.",
+        "cue": "recorded-surprise-empathy-interest-5:phrase:3",
+        "expression": "curious",
+        "head": "0.01,0.01,0.04",
+        "left": {
+          "height": 64.15,
+          "width": 45.2,
+          "x": -60.4,
+          "y": -22.55
+        },
+        "paused": false,
+        "right": {
+          "height": 62.36,
+          "width": 44.1,
+          "x": 15.89,
+          "y": -21.36
+        },
+        "time": 7.488,
+        "variant": "curious-right-focus",
+        "word": "22"
+      },
+      {
+        "body": "23.303,-9.584,1.000,1.049,0.951",
+        "caption": "How did it actually turn",
+        "cue": "recorded-surprise-empathy-interest-5:phrase:3",
+        "expression": "curious",
+        "head": "0.00,8.81,33.34",
+        "left": {
+          "height": 97.94,
+          "width": 58.73,
+          "x": -41.37,
+          "y": -50.43
+        },
+        "paused": false,
+        "right": {
+          "height": 70.33,
+          "width": 48.13,
+          "x": 39.85,
+          "y": -33.5
+        },
+        "time": 8.250667,
+        "variant": "curious-left-focus",
+        "word": "27"
+      },
+      {
+        "body": "2.513,-0.407,1.000,1.001,0.999",
+        "caption": "",
+        "cue": null,
+        "expression": "attentive",
+        "head": "0.00,0.22,4.66",
+        "left": {
+          "height": 95.46,
+          "width": 56.87,
+          "x": -69.38,
+          "y": -56.18
+        },
+        "paused": true,
+        "right": {
+          "height": 54.58,
+          "width": 37.35,
+          "x": 17.65,
+          "y": -27.15
+        },
+        "time": 9,
+        "variant": "neutral-look-up",
+        "word": "-1"
+      }
+    ]
+  },
+  "current": [
+    {
+      "buttonName": "Play surprise, then care",
+      "startedAt": "2026-08-28T02:20:10.650Z",
+      "summary": {
+        "sampleCount": 133,
+        "durationSeconds": 9,
+        "completed": true,
+        "cues": [
+          {
+            "cue": "recorded-surprise-empathy-interest-6:phrase:0",
+            "expression": "surprised",
+            "start": 0.248709,
+            "end": 3.517011,
+            "variants": [
+              "surprised-punctuate"
+            ]
+          },
+          {
+            "cue": "recorded-surprise-empathy-interest-6:phrase:1",
+            "expression": "concerned",
+            "start": 3.573333,
+            "end": 5.578667,
+            "variants": [
+              "concerned-left-focus"
+            ]
+          },
+          {
+            "cue": "recorded-surprise-empathy-interest-6:phrase:2",
+            "expression": "concerned",
+            "start": 5.641865,
+            "end": 7.446151,
+            "variants": [
+              "concerned-soft-down"
+            ]
+          },
+          {
+            "cue": "recorded-surprise-empathy-interest-6:phrase:3",
+            "expression": "curious",
+            "start": 7.508174,
+            "end": 9,
+            "variants": [
+              "curious-present"
+            ]
+          },
+          {
+            "cue": null,
+            "expression": "attentive",
+            "start": 9,
+            "end": 9,
+            "variants": [
+              "neutral-present"
+            ]
+          }
+        ],
+        "effects": [],
+        "maxVisibleParticles": 0,
+        "maxHeadDegrees": 33.54,
+        "minVisibleEyeHeight": 15.419999999999998,
+        "error": null
+      },
+      "effectEpisodes": [],
+      "transitions": [
+        {
+          "accent": "double-take",
+          "body": "3.855,-2.141,1.041,1.018,0.983",
+          "caption": "Wait,",
+          "cue": "recorded-surprise-empathy-interest-6:phrase:0",
+          "effect": "none",
+          "error": null,
+          "expression": "surprised",
+          "gesture": "lean-in",
+          "head": "4.56,0.00,6.26",
+          "left": {
+            "height": 98.77,
+            "width": 72.36,
+            "x": -83.83,
+            "y": -71.99
+          },
+          "paused": false,
+          "phrase": "0",
+          "right": {
+            "height": 91.99,
+            "width": 67.5,
+            "x": 16.87,
+            "y": -68.83
+          },
+          "time": 0.248709,
+          "variant": "surprised-punctuate",
+          "visibleParticles": 0,
+          "word": "1",
+          "sampledAfterMs": 47
+        },
+        {
+          "accent": "look-away",
+          "body": "-0.000,0.000,1.000,1.000,1.000",
+          "caption": "Wait, you did all that in one night?",
+          "cue": "recorded-surprise-empathy-interest-6:phrase:1",
+          "effect": "none",
+          "error": null,
+          "expression": "concerned",
+          "gesture": "tilt-left",
+          "head": "-0.00,0.00,-0.00",
+          "left": {
+            "height": 99.02,
+            "width": 73.91999999999999,
+            "x": -87.13,
+            "y": -64.23
+          },
+          "paused": false,
+          "phrase": "1",
+          "right": {
+            "height": 92.09,
+            "width": 69.56,
+            "x": 15.71,
+            "y": -60.93
+          },
+          "time": 3.573333,
+          "variant": "concerned-left-focus",
+          "visibleParticles": 0,
+          "word": "8",
+          "sampledAfterMs": 3370
+        },
+        {
+          "accent": "soften",
+          "body": "-0.036,-0.115,1.000,1.000,1.001",
+          "caption": "That's a lot to have on your plate.",
+          "cue": "recorded-surprise-empathy-interest-6:phrase:2",
+          "effect": "none",
+          "error": null,
+          "expression": "concerned",
+          "gesture": "nod",
+          "head": "-0.16,0.00,-0.02",
+          "left": {
+            "height": 66.87,
+            "width": 48.74000000000001,
+            "x": -70.18,
+            "y": -21.21
+          },
+          "paused": false,
+          "phrase": "2",
+          "right": {
+            "height": 52.66,
+            "width": 38.6,
+            "x": 17.68,
+            "y": -9.88
+          },
+          "time": 5.641865,
+          "variant": "concerned-soft-down",
+          "visibleParticles": 0,
+          "word": "16",
+          "sampledAfterMs": 5435
+        },
+        {
+          "accent": "none",
+          "body": "0.100,-0.033,1.000,1.001,0.999",
+          "caption": "No wonder that stuck with you.",
+          "cue": "recorded-surprise-empathy-interest-6:phrase:3",
+          "effect": "none",
+          "error": null,
+          "expression": "curious",
+          "gesture": "tilt-right",
+          "head": "0.01,0.11,0.28",
+          "left": {
+            "height": 62.43000000000001,
+            "width": 42.74,
+            "x": -56.85,
+            "y": -16.16
+          },
+          "paused": false,
+          "phrase": "3",
+          "right": {
+            "height": 54.559999999999995,
+            "width": 39.35000000000001,
+            "x": 16.49,
+            "y": -10.15
+          },
+          "time": 7.508174,
+          "variant": "curious-present",
+          "visibleParticles": 0,
+          "word": "22",
+          "sampledAfterMs": 7307
+        },
+        {
+          "accent": "none",
+          "body": "2.144,-0.418,1.000,1.001,0.999",
+          "caption": "",
+          "cue": null,
+          "effect": "none",
+          "error": null,
+          "expression": "attentive",
+          "gesture": "still",
+          "head": "0.00,0.23,3.46",
+          "left": {
+            "height": 99.56,
+            "width": 49.73,
+            "x": -58.74,
+            "y": -58.37
+          },
+          "paused": true,
+          "phrase": "-1",
+          "right": {
+            "height": 67.7,
+            "width": 41.38,
+            "x": 15.51,
+            "y": -37.11
+          },
+          "time": 9,
+          "variant": "neutral-present",
+          "visibleParticles": 0,
+          "word": "-1",
+          "sampledAfterMs": 8861
+        }
+      ],
+      "representativeFrames": [
+        {
+          "accent": "double-take",
+          "body": "3.855,-2.141,1.041,1.018,0.983",
+          "caption": "Wait,",
+          "cue": "recorded-surprise-empathy-interest-6:phrase:0",
+          "effect": "none",
+          "error": null,
+          "expression": "surprised",
+          "gesture": "lean-in",
+          "head": "4.56,0.00,6.26",
+          "left": {
+            "height": 98.77,
+            "width": 72.36,
+            "x": -83.83,
+            "y": -71.99
+          },
+          "paused": false,
+          "phrase": "0",
+          "right": {
+            "height": 91.99,
+            "width": 67.5,
+            "x": 16.87,
+            "y": -68.83
+          },
+          "time": 0.248709,
+          "variant": "surprised-punctuate",
+          "visibleParticles": 0,
+          "word": "1",
+          "sampledAfterMs": 47
+        },
+        {
+          "accent": "look-away",
+          "body": "-14.717,6.099,1.000,1.025,0.975",
+          "caption": "That's a lot to have on your plate.",
+          "cue": "recorded-surprise-empathy-interest-6:phrase:1",
+          "effect": "none",
+          "error": null,
+          "expression": "concerned",
+          "gesture": "tilt-left",
+          "head": "-4.68,0.00,-20.55",
+          "left": {
+            "height": 69.82,
+            "width": 50.83,
+            "x": -73,
+            "y": -15.14
+          },
+          "paused": false,
+          "phrase": "1",
+          "right": {
+            "height": 53,
+            "width": 38.36,
+            "x": 17.89,
+            "y": -1.21
+          },
+          "time": 4.698667,
+          "variant": "concerned-left-focus",
+          "visibleParticles": 0,
+          "word": "16",
+          "sampledAfterMs": 4496
+        },
+        {
+          "accent": "none",
+          "body": "2.144,-0.418,1.000,1.001,0.999",
+          "caption": "",
+          "cue": null,
+          "effect": "none",
+          "error": null,
+          "expression": "attentive",
+          "gesture": "still",
+          "head": "0.00,0.23,3.46",
+          "left": {
+            "height": 99.56,
+            "width": 49.73,
+            "x": -58.74,
+            "y": -58.37
+          },
+          "paused": true,
+          "phrase": "-1",
+          "right": {
+            "height": 67.7,
+            "width": 41.38,
+            "x": 15.51,
+            "y": -37.11
+          },
+          "time": 9,
+          "variant": "neutral-present",
+          "visibleParticles": 0,
+          "word": "-1",
+          "sampledAfterMs": 8861
+        }
+      ]
+    },
+    {
+      "buttonName": "Play a little celebration",
+      "startedAt": "2026-08-28T02:17:28.464Z",
+      "summary": {
+        "sampleCount": 78,
+        "durationSeconds": 5.35,
+        "completed": true,
+        "cues": [
+          {
+            "cue": "recorded-celebration-2",
+            "expression": "excited",
+            "start": 0.234667,
+            "end": 5.296,
+            "variants": [
+              "excited-punctuate",
+              "excited-present",
+              "excited-open"
+            ]
+          },
+          {
+            "cue": null,
+            "expression": "attentive",
+            "start": 5.35,
+            "end": 5.35,
+            "variants": [
+              "neutral-return"
+            ]
+          }
+        ],
+        "effects": [
+          "confetti"
+        ],
+        "maxVisibleParticles": 4,
+        "maxHeadDegrees": 13.69,
+        "minVisibleEyeHeight": 19.93,
+        "error": null
+      },
+      "effectEpisodes": [
+        {
+          "effect": "confetti",
+          "firstVisibleAudioTime": 0.31178,
+          "lastVisibleAudioTime": 2.026628
+        }
+      ],
+      "transitions": [
+        {
+          "accent": "double-take",
+          "body": "0.000,-3.392,1.000,0.995,1.013",
+          "caption": "You",
+          "cue": "recorded-celebration-2",
+          "effect": "none",
+          "error": null,
+          "expression": "excited",
+          "gesture": "nod",
+          "head": "-3.61,0.00,0.00",
+          "left": {
+            "height": 123.56,
+            "width": 70.19,
+            "x": -82.85,
+            "y": -61.12
+          },
+          "paused": false,
+          "phrase": "0",
+          "right": {
+            "height": 115.32,
+            "width": 63.669999999999995,
+            "x": 18.04,
+            "y": -56.97
+          },
+          "time": 0.234667,
+          "variant": "excited-punctuate",
+          "visibleParticles": 0,
+          "word": "1",
+          "sampledAfterMs": 50
+        },
+        {
+          "accent": "none",
+          "body": "0.000,0.000,1.000,1.000,1.000",
+          "caption": "Oh, that is such good news.",
+          "cue": "recorded-celebration-2",
+          "effect": "none",
+          "error": null,
+          "expression": "excited",
+          "gesture": "still",
+          "head": "0.00,0.00,0.00",
+          "left": {
+            "height": 121.18,
+            "width": 70.97,
+            "x": -83.6,
+            "y": -76.08
+          },
+          "paused": false,
+          "phrase": "1",
+          "right": {
+            "height": 107.51,
+            "width": 61.190000000000005,
+            "x": 18.71,
+            "y": -68.75
+          },
+          "time": 3.514667,
+          "variant": "excited-present",
+          "visibleParticles": 0,
+          "word": "9",
+          "sampledAfterMs": 3327
+        },
+        {
+          "accent": "spark",
+          "body": "0.000,0.000,1.000,1.000,1.000",
+          "caption": "You earned this.",
+          "cue": "recorded-celebration-2",
+          "effect": "none",
+          "error": null,
+          "expression": "excited",
+          "gesture": "lift",
+          "head": "0.00,0.00,0.00",
+          "left": {
+            "height": 111.99,
+            "width": 60.96,
+            "x": -71.72,
+            "y": -69.52
+          },
+          "paused": false,
+          "phrase": "2",
+          "right": {
+            "height": 100.35,
+            "width": 53.78,
+            "x": 15.06,
+            "y": -63.03
+          },
+          "time": 4.837333,
+          "variant": "excited-open",
+          "visibleParticles": 0,
+          "word": "12",
+          "sampledAfterMs": 4648
+        },
+        {
+          "accent": "none",
+          "body": "0.000,0.000,1.000,1.000,1.000",
+          "caption": "",
+          "cue": null,
+          "effect": "none",
+          "error": null,
+          "expression": "attentive",
+          "gesture": "still",
+          "head": "0.00,0.00,0.00",
+          "left": {
+            "height": 117.04,
+            "width": 65.75,
+            "x": -77.2,
+            "y": -76.29
+          },
+          "paused": true,
+          "phrase": "-1",
+          "right": {
+            "height": 105.73,
+            "width": 58.19,
+            "x": 16.01,
+            "y": -70.11
+          },
+          "time": 5.35,
+          "variant": "neutral-return",
+          "visibleParticles": 0,
+          "word": "-1",
+          "sampledAfterMs": 5198
+        }
+      ],
+      "representativeFrames": [
+        {
+          "accent": "double-take",
+          "body": "0.000,-3.392,1.000,0.995,1.013",
+          "caption": "You",
+          "cue": "recorded-celebration-2",
+          "effect": "none",
+          "error": null,
+          "expression": "excited",
+          "gesture": "nod",
+          "head": "-3.61,0.00,0.00",
+          "left": {
+            "height": 123.56,
+            "width": 70.19,
+            "x": -82.85,
+            "y": -61.12
+          },
+          "paused": false,
+          "phrase": "0",
+          "right": {
+            "height": 115.32,
+            "width": 63.669999999999995,
+            "x": 18.04,
+            "y": -56.97
+          },
+          "time": 0.234667,
+          "variant": "excited-punctuate",
+          "visibleParticles": 0,
+          "word": "1",
+          "sampledAfterMs": 50
+        },
+        {
+          "accent": "double-take",
+          "body": "0.000,0.000,1.000,1.000,1.000",
+          "caption": "Oh, that is such",
+          "cue": "recorded-celebration-2",
+          "effect": "none",
+          "error": null,
+          "expression": "excited",
+          "gesture": "nod",
+          "head": "0.00,0.00,0.00",
+          "left": {
+            "height": 125.23,
+            "width": 72.21,
+            "x": -83.94,
+            "y": -78.13
+          },
+          "paused": false,
+          "phrase": "0",
+          "right": {
+            "height": 110.39,
+            "width": 61.98,
+            "x": 18.17,
+            "y": -70.06
+          },
+          "time": 2.94962,
+          "variant": "excited-punctuate",
+          "visibleParticles": 0,
+          "word": "7",
+          "sampledAfterMs": 2761
+        },
+        {
+          "accent": "none",
+          "body": "0.000,0.000,1.000,1.000,1.000",
+          "caption": "",
+          "cue": null,
+          "effect": "none",
+          "error": null,
+          "expression": "attentive",
+          "gesture": "still",
+          "head": "0.00,0.00,0.00",
+          "left": {
+            "height": 117.04,
+            "width": 65.75,
+            "x": -77.2,
+            "y": -76.29
+          },
+          "paused": true,
+          "phrase": "-1",
+          "right": {
+            "height": 105.73,
+            "width": 58.19,
+            "x": 16.01,
+            "y": -70.11
+          },
+          "time": 5.35,
+          "variant": "neutral-return",
+          "visibleParticles": 0,
+          "word": "-1",
+          "sampledAfterMs": 5198
+        }
+      ]
+    },
+    {
+      "buttonName": "Play a bit of teasing",
+      "startedAt": "2026-08-28T02:17:44.651Z",
+      "summary": {
+        "sampleCount": 81,
+        "durationSeconds": 5.25,
+        "completed": true,
+        "cues": [
+          {
+            "cue": "recorded-playful-3",
+            "expression": "playful",
+            "start": 0.24,
+            "end": 5.241326,
+            "variants": [
+              "playful-return",
+              "playful-right-focus"
+            ]
+          },
+          {
+            "cue": null,
+            "expression": "attentive",
+            "start": 5.25,
+            "end": 5.25,
+            "variants": [
+              "neutral-left-focus"
+            ]
+          }
+        ],
+        "effects": [
+          "sparkle"
+        ],
+        "maxVisibleParticles": 4,
+        "maxHeadDegrees": 20.15,
+        "minVisibleEyeHeight": 8.9,
+        "error": null
+      },
+      "effectEpisodes": [
+        {
+          "effect": "sparkle",
+          "firstVisibleAudioTime": 0.310447,
+          "lastVisibleAudioTime": 2
+        }
+      ],
+      "transitions": [
+        {
+          "accent": "wink-left",
+          "body": "0.000,6.002,0.978,1.018,0.982",
+          "caption": "Very",
+          "cue": "recorded-playful-3",
+          "effect": "sparkle",
+          "error": null,
+          "expression": "playful",
+          "gesture": "settle",
+          "head": "4.62,0.00,-4.93",
+          "left": {
+            "height": 41.14,
+            "width": 53.42999999999999,
+            "x": -72.96,
+            "y": -34.43
+          },
+          "paused": false,
+          "phrase": "0",
+          "right": {
+            "height": 32.72,
+            "width": 46.32,
+            "x": 24.43,
+            "y": -25.16
+          },
+          "time": 0.24,
+          "variant": "playful-return",
+          "visibleParticles": 0,
+          "word": "1",
+          "sampledAfterMs": 33
+        },
+        {
+          "accent": "flick-right",
+          "body": "0.041,0.000,1.000,1.000,1.000",
+          "caption": "you did not make that up.",
+          "cue": "recorded-playful-3",
+          "effect": "none",
+          "error": null,
+          "expression": "playful",
+          "gesture": "tilt-right",
+          "head": "0.00,0.00,0.16",
+          "left": {
+            "height": 56.22,
+            "width": 65.13,
+            "x": -79.11,
+            "y": -37.37
+          },
+          "paused": false,
+          "phrase": "1",
+          "right": {
+            "height": 40.57,
+            "width": 49.16,
+            "x": 24.4,
+            "y": -28.82
+          },
+          "time": 4.760277,
+          "variant": "playful-right-focus",
+          "visibleParticles": 0,
+          "word": "12",
+          "sampledAfterMs": 4547
+        },
+        {
+          "accent": "none",
+          "body": "1.800,0.000,1.000,1.000,1.000",
+          "caption": "",
+          "cue": null,
+          "effect": "none",
+          "error": null,
+          "expression": "attentive",
+          "gesture": "still",
+          "head": "0.00,0.00,4.53",
+          "left": {
+            "height": 50.39,
+            "width": 53.03,
+            "x": -69.44,
+            "y": -34.14
+          },
+          "paused": true,
+          "phrase": "-1",
+          "right": {
+            "height": 57.91,
+            "width": 55.879999999999995,
+            "x": 24.31,
+            "y": -41.88
+          },
+          "time": 5.25,
+          "variant": "neutral-left-focus",
+          "visibleParticles": 0,
+          "word": "-1",
+          "sampledAfterMs": 5097
+        }
+      ],
+      "representativeFrames": [
+        {
+          "accent": "wink-left",
+          "body": "0.000,6.002,0.978,1.018,0.982",
+          "caption": "Very",
+          "cue": "recorded-playful-3",
+          "effect": "sparkle",
+          "error": null,
+          "expression": "playful",
+          "gesture": "settle",
+          "head": "4.62,0.00,-4.93",
+          "left": {
+            "height": 41.14,
+            "width": 53.42999999999999,
+            "x": -72.96,
+            "y": -34.43
+          },
+          "paused": false,
+          "phrase": "0",
+          "right": {
+            "height": 32.72,
+            "width": 46.32,
+            "x": 24.43,
+            "y": -25.16
+          },
+          "time": 0.24,
+          "variant": "playful-return",
+          "visibleParticles": 0,
+          "word": "1",
+          "sampledAfterMs": 33
+        },
+        {
+          "accent": "wink-left",
+          "body": "0.000,0.000,1.000,1.000,1.000",
+          "caption": "you did",
+          "cue": "recorded-playful-3",
+          "effect": "none",
+          "error": null,
+          "expression": "playful",
+          "gesture": "settle",
+          "head": "0.00,0.00,-0.00",
+          "left": {
+            "height": 63.870000000000005,
+            "width": 67.03999999999999,
+            "x": -80.02,
+            "y": -41.02
+          },
+          "paused": false,
+          "phrase": "0",
+          "right": {
+            "height": 45.51,
+            "width": 49.900000000000006,
+            "x": 23.77,
+            "y": -31.32
+          },
+          "time": 3.011407,
+          "variant": "playful-return",
+          "visibleParticles": 0,
+          "word": "8",
+          "sampledAfterMs": 2798
+        },
+        {
+          "accent": "none",
+          "body": "1.800,0.000,1.000,1.000,1.000",
+          "caption": "",
+          "cue": null,
+          "effect": "none",
+          "error": null,
+          "expression": "attentive",
+          "gesture": "still",
+          "head": "0.00,0.00,4.53",
+          "left": {
+            "height": 50.39,
+            "width": 53.03,
+            "x": -69.44,
+            "y": -34.14
+          },
+          "paused": true,
+          "phrase": "-1",
+          "right": {
+            "height": 57.91,
+            "width": 55.879999999999995,
+            "x": 24.31,
+            "y": -41.88
+          },
+          "time": 5.25,
+          "variant": "neutral-left-focus",
+          "visibleParticles": 0,
+          "word": "-1",
+          "sampledAfterMs": 5097
+        }
+      ]
+    },
+    {
+      "buttonName": "Play a softer moment",
+      "startedAt": "2026-08-28T02:18:04.253Z",
+      "summary": {
+        "sampleCount": 57,
+        "durationSeconds": 3.85,
+        "completed": true,
+        "cues": [
+          {
+            "cue": "recorded-gentle-4",
+            "expression": "concerned",
+            "start": 0.245619,
+            "end": 3.779364,
+            "variants": [
+              "concerned-soft-down",
+              "concerned-return"
+            ]
+          },
+          {
+            "cue": null,
+            "expression": "attentive",
+            "start": 3.85,
+            "end": 3.85,
+            "variants": [
+              "neutral-left-focus"
+            ]
+          }
+        ],
+        "effects": [],
+        "maxVisibleParticles": 0,
+        "maxHeadDegrees": 20.15,
+        "minVisibleEyeHeight": 22.68,
+        "error": null
+      },
+      "effectEpisodes": [],
+      "transitions": [
+        {
+          "accent": "soften",
+          "body": "-0.000,6.588,0.976,1.022,0.980",
+          "caption": "That",
+          "cue": "recorded-gentle-4",
+          "effect": "none",
+          "error": null,
+          "expression": "concerned",
+          "gesture": "settle",
+          "head": "5.23,0.00,-5.21",
+          "left": {
+            "height": 49.89,
+            "width": 41.03,
+            "x": -56.99,
+            "y": -14.58
+          },
+          "paused": false,
+          "phrase": "0",
+          "right": {
+            "height": 50.25,
+            "width": 41.559999999999995,
+            "x": 15.67,
+            "y": -14.35
+          },
+          "time": 0.245619,
+          "variant": "concerned-soft-down",
+          "visibleParticles": 0,
+          "word": "1",
+          "sampledAfterMs": 35
+        },
+        {
+          "accent": "double-blink",
+          "body": "-0.000,0.000,1.000,1.000,1.000",
+          "caption": "Want to talk about what happened?",
+          "cue": "recorded-gentle-4",
+          "effect": "none",
+          "error": null,
+          "expression": "concerned",
+          "gesture": "settle",
+          "head": "0.00,0.00,-0.00",
+          "left": {
+            "height": 53.77,
+            "width": 42.68,
+            "x": -58.29,
+            "y": -4.57
+          },
+          "paused": false,
+          "phrase": "1",
+          "right": {
+            "height": 53.72,
+            "width": 42.6,
+            "x": 15.65,
+            "y": -4.54
+          },
+          "time": 3.402667,
+          "variant": "concerned-return",
+          "visibleParticles": 0,
+          "word": "9",
+          "sampledAfterMs": 3192
+        },
+        {
+          "accent": "none",
+          "body": "-0.000,0.000,1.000,1.000,1.000",
+          "caption": "",
+          "cue": null,
+          "effect": "none",
+          "error": null,
+          "expression": "attentive",
+          "gesture": "still",
+          "head": "0.00,0.00,-0.00",
+          "left": {
+            "height": 68.4,
+            "width": 49.47,
+            "x": -65.02,
+            "y": -20.83
+          },
+          "paused": true,
+          "phrase": "-1",
+          "right": {
+            "height": 60.52,
+            "width": 42.48,
+            "x": 19.39,
+            "y": -16.73
+          },
+          "time": 3.85,
+          "variant": "neutral-left-focus",
+          "visibleParticles": 0,
+          "word": "-1",
+          "sampledAfterMs": 3700
+        }
+      ],
+      "representativeFrames": [
+        {
+          "accent": "soften",
+          "body": "-0.000,6.588,0.976,1.022,0.980",
+          "caption": "That",
+          "cue": "recorded-gentle-4",
+          "effect": "none",
+          "error": null,
+          "expression": "concerned",
+          "gesture": "settle",
+          "head": "5.23,0.00,-5.21",
+          "left": {
+            "height": 49.89,
+            "width": 41.03,
+            "x": -56.99,
+            "y": -14.58
+          },
+          "paused": false,
+          "phrase": "0",
+          "right": {
+            "height": 50.25,
+            "width": 41.559999999999995,
+            "x": 15.67,
+            "y": -14.35
+          },
+          "time": 0.245619,
+          "variant": "concerned-soft-down",
+          "visibleParticles": 0,
+          "word": "1",
+          "sampledAfterMs": 35
+        },
+        {
+          "accent": "soften",
+          "body": "-0.000,0.052,1.000,1.000,1.000",
+          "caption": "Want to talk",
+          "cue": "recorded-gentle-4",
+          "effect": "none",
+          "error": null,
+          "expression": "concerned",
+          "gesture": "settle",
+          "head": "0.01,0.00,-0.01",
+          "left": {
+            "height": 46.99,
+            "width": 38.78,
+            "x": -55.45,
+            "y": 0.65
+          },
+          "paused": false,
+          "phrase": "0",
+          "right": {
+            "height": 50.13,
+            "width": 41.36,
+            "x": 15.27,
+            "y": -1
+          },
+          "time": 2.079796,
+          "variant": "concerned-soft-down",
+          "visibleParticles": 0,
+          "word": "6",
+          "sampledAfterMs": 1870
+        },
+        {
+          "accent": "none",
+          "body": "-0.000,0.000,1.000,1.000,1.000",
+          "caption": "",
+          "cue": null,
+          "effect": "none",
+          "error": null,
+          "expression": "attentive",
+          "gesture": "still",
+          "head": "0.00,0.00,-0.00",
+          "left": {
+            "height": 68.4,
+            "width": 49.47,
+            "x": -65.02,
+            "y": -20.83
+          },
+          "paused": true,
+          "phrase": "-1",
+          "right": {
+            "height": 60.52,
+            "width": 42.48,
+            "x": 19.39,
+            "y": -16.73
+          },
+          "time": 3.85,
+          "variant": "neutral-left-focus",
+          "visibleParticles": 0,
+          "word": "-1",
+          "sampledAfterMs": 3700
+        }
+      ]
+    },
+    {
+      "buttonName": "Play curiosity",
+      "startedAt": "2026-08-28T02:18:42.925Z",
+      "summary": {
+        "sampleCount": 55,
+        "durationSeconds": 3.65,
+        "completed": true,
+        "cues": [
+          {
+            "cue": "recorded-curious-5",
+            "expression": "curious",
+            "start": 0.25875,
+            "end": 3.630925,
+            "variants": [
+              "curious-look-up",
+              "curious-present"
+            ]
+          },
+          {
+            "cue": null,
+            "expression": "attentive",
+            "start": 3.65,
+            "end": 3.65,
+            "variants": [
+              "neutral-soft-down"
+            ]
+          }
+        ],
+        "effects": [],
+        "maxVisibleParticles": 0,
+        "maxHeadDegrees": 22.95,
+        "minVisibleEyeHeight": 18.140000000000004,
+        "error": null
+      },
+      "effectEpisodes": [],
+      "transitions": [
+        {
+          "accent": "glance-up",
+          "body": "4.236,-2.373,1.044,1.019,0.981",
+          "caption": "Wait, you",
+          "cue": "recorded-curious-5",
+          "effect": "none",
+          "error": null,
+          "expression": "curious",
+          "gesture": "lean-in",
+          "head": "4.91,0.00,6.74",
+          "left": {
+            "height": 100.57,
+            "width": 55.07,
+            "x": -60.35,
+            "y": -87.4
+          },
+          "paused": false,
+          "phrase": "0",
+          "right": {
+            "height": 66.9,
+            "width": 46.53,
+            "x": 12.29,
+            "y": -65.09
+          },
+          "time": 0.25875,
+          "variant": "curious-look-up",
+          "visibleParticles": 0,
+          "word": "2",
+          "sampledAfterMs": 37
+        },
+        {
+          "accent": "none",
+          "body": "0.000,-0.000,1.000,1.000,1.000",
+          "caption": "How did you get it to work?",
+          "cue": "recorded-curious-5",
+          "effect": "none",
+          "error": null,
+          "expression": "curious",
+          "gesture": "still",
+          "head": "1.01,0.00,1.05",
+          "left": {
+            "height": 106.32,
+            "width": 57.78,
+            "x": -61.88,
+            "y": -74.76
+          },
+          "paused": false,
+          "phrase": "1",
+          "right": {
+            "height": 66.47999999999999,
+            "width": 46.55,
+            "x": 12.17,
+            "y": -48.05
+          },
+          "time": 3.333492,
+          "variant": "curious-present",
+          "visibleParticles": 0,
+          "word": "12",
+          "sampledAfterMs": 3114
+        },
+        {
+          "accent": "none",
+          "body": "0.000,-0.000,1.000,1.000,1.000",
+          "caption": "",
+          "cue": null,
+          "effect": "none",
+          "error": null,
+          "expression": "attentive",
+          "gesture": "still",
+          "head": "0.01,0.00,0.01",
+          "left": {
+            "height": 101.14,
+            "width": 52.2,
+            "x": -59.74,
+            "y": -60.77
+          },
+          "paused": true,
+          "phrase": "-1",
+          "right": {
+            "height": 64.39,
+            "width": 41.7,
+            "x": 14.33,
+            "y": -36.2
+          },
+          "time": 3.65,
+          "variant": "neutral-soft-down",
+          "visibleParticles": 0,
+          "word": "-1",
+          "sampledAfterMs": 3475
+        }
+      ],
+      "representativeFrames": [
+        {
+          "accent": "glance-up",
+          "body": "4.236,-2.373,1.044,1.019,0.981",
+          "caption": "Wait, you",
+          "cue": "recorded-curious-5",
+          "effect": "none",
+          "error": null,
+          "expression": "curious",
+          "gesture": "lean-in",
+          "head": "4.91,0.00,6.74",
+          "left": {
+            "height": 100.57,
+            "width": 55.07,
+            "x": -60.35,
+            "y": -87.4
+          },
+          "paused": false,
+          "phrase": "0",
+          "right": {
+            "height": 66.9,
+            "width": 46.53,
+            "x": 12.29,
+            "y": -65.09
+          },
+          "time": 0.25875,
+          "variant": "curious-look-up",
+          "visibleParticles": 0,
+          "word": "2",
+          "sampledAfterMs": 37
+        },
+        {
+          "accent": "glance-up",
+          "body": "0.090,-0.060,1.001,1.000,1.000",
+          "caption": "How did",
+          "cue": "recorded-curious-5",
+          "effect": "none",
+          "error": null,
+          "expression": "curious",
+          "gesture": "lean-in",
+          "head": "1.37,0.00,1.42",
+          "left": {
+            "height": 46.61,
+            "width": 48.04,
+            "x": -59.78,
+            "y": -51.93
+          },
+          "paused": false,
+          "phrase": "0",
+          "right": {
+            "height": 33.75,
+            "width": 38.739999999999995,
+            "x": 17.16,
+            "y": -35.92
+          },
+          "time": 2.007139,
+          "variant": "curious-look-up",
+          "visibleParticles": 0,
+          "word": "7",
+          "sampledAfterMs": 1786
+        },
+        {
+          "accent": "none",
+          "body": "0.000,-0.000,1.000,1.000,1.000",
+          "caption": "",
+          "cue": null,
+          "effect": "none",
+          "error": null,
+          "expression": "attentive",
+          "gesture": "still",
+          "head": "0.01,0.00,0.01",
+          "left": {
+            "height": 101.14,
+            "width": 52.2,
+            "x": -59.74,
+            "y": -60.77
+          },
+          "paused": true,
+          "phrase": "-1",
+          "right": {
+            "height": 64.39,
+            "width": 41.7,
+            "x": 14.33,
+            "y": -36.2
+          },
+          "time": 3.65,
+          "variant": "neutral-soft-down",
+          "visibleParticles": 0,
+          "word": "-1",
+          "sampledAfterMs": 3475
+        }
+      ]
+    }
+  ],
+  "localVerification": {
+    "testFiles": 37,
+    "tests": 388,
+    "typecheck": "pass",
+    "build": "pass",
+    "browserErrors": []
+  },
+  "caveats": [
+    "Cue and variant data attributes are set by different React/animation frames; one transitional sample can contain the previous variant beside a new cue ID.",
+    "Eye bounds are local SVG path bounds before head/body transform; minimum heights include blinks and transition frames.",
+    "Shortening the local detector release from 580 to 420 ms saves 160 ms of configured silence waiting, not a measured 160 ms reduction in live roundtrip."
+  ]
+}

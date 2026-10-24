@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Development viewport check</title>
+    <style>
+      body { margin: 0; padding: 20px; background: #191b1e; color: #c5c8c4; font: 13px/1.4 system-ui; }
+      p { margin: 0 0 16px; text-align: center; }
+      iframe { display: block; margin: auto; border: 1px solid #34383b; border-radius: 10px; }
+    </style>
+  </head>
+  <body>
+    <p id="description">Development-only layout check. No live voice session.</p>
+    <p id="measure" role="status">Loading the app viewport.</p>
+    <iframe id="viewport" title="App viewport"></iframe>
+    <script>
+      const params = new URLSearchParams(location.search);
+      const width = Math.max(320, Math.min(1440, Number(params.get("width")) || 390));
+      const height = Math.max(500, Math.min(1100, Number(params.get("height")) || 844));
+      const frame = document.getElementById("viewport");
+      frame.width = width;
+      frame.height = height;
+      frame.addEventListener("load", () => {
+        let attempts = 0;
+        const measure = () => {
+          const doc = frame.contentDocument;
+          const button = doc?.querySelector(".talk-button, .scene-button");
+          if (!doc || !button) {
+            if (++attempts < 60) setTimeout(measure, 50);
+            return;
+          }
+          document.getElementById("measure").textContent = JSON.stringify({
+            width: doc.documentElement.clientWidth,
+            scrollWidth: doc.documentElement.scrollWidth,
+            height: doc.documentElement.clientHeight,
+            scrollHeight: doc.documentElement.scrollHeight,
+            primaryBottom: Math.round(button.getBoundingClientRect().bottom),
+          });
+        };
+        measure();
+      });
+      frame.src = params.get("studio") === "1" ? "/?studio=performance&motion=full" : "/?phase=speaking&expression=curious&motion=full";
+      document.getElementById("description").textContent += ` ${width} × ${height}.`;
+    </script>
+  </body>
+</html>

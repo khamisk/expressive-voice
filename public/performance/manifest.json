@@ -1,0 +1,263 @@
+{
+  "kind": "developer-performance-fixtures",
+  "purpose": "Short real voice recordings for auditioning the eye-only character performance.",
+  "generatedAt": "2026-08-27T03:49:01.110Z",
+  "model": "gpt-realtime-2.1",
+  "voice": "cedar",
+  "sampleRate": 24000,
+  "totalDurationSeconds": 27.1,
+  "recordings": [
+    {
+      "id": "curious",
+      "filename": "curious.wav",
+      "text": "Wait, you built that yourself? How did you get it to work?",
+      "model": "gpt-realtime-2.1",
+      "voice": "cedar",
+      "sampleRate": 24000,
+      "channels": 1,
+      "encoding": "pcm_s16le",
+      "durationSeconds": 3.65,
+      "pcmBytes": 175200,
+      "generatedBy": "OpenAI Realtime API over WebSocket",
+      "transcript": "Wait, you built that yourself? How did you get it to work?"
+    },
+    {
+      "id": "celebration",
+      "filename": "celebration.wav",
+      "text": "You got it! Oh, that is such good news. You earned this.",
+      "model": "gpt-realtime-2.1",
+      "voice": "cedar",
+      "sampleRate": 24000,
+      "channels": 1,
+      "encoding": "pcm_s16le",
+      "durationSeconds": 5.35,
+      "pcmBytes": 256800,
+      "generatedBy": "OpenAI Realtime API over WebSocket",
+      "transcript": "You got it! Oh, that is such good news. You earned this."
+    },
+    {
+      "id": "playful",
+      "filename": "playful.wav",
+      "text": "Very convincing. I am almost certain you did not make that up.",
+      "model": "gpt-realtime-2.1",
+      "voice": "cedar",
+      "sampleRate": 24000,
+      "channels": 1,
+      "encoding": "pcm_s16le",
+      "durationSeconds": 5.25,
+      "pcmBytes": 252000,
+      "generatedBy": "OpenAI Realtime API over WebSocket",
+      "transcript": "Very convincing. I am almost certain you did not make that up."
+    },
+    {
+      "id": "gentle",
+      "filename": "gentle.wav",
+      "text": "That sounds exhausting. Want to talk about what happened?",
+      "model": "gpt-realtime-2.1",
+      "voice": "cedar",
+      "sampleRate": 24000,
+      "channels": 1,
+      "encoding": "pcm_s16le",
+      "durationSeconds": 3.85,
+      "pcmBytes": 184800,
+      "generatedBy": "OpenAI Realtime API over WebSocket",
+      "transcript": "That sounds exhausting. Want to talk about what happened?"
+    },
+    {
+      "id": "surprise-empathy-interest",
+      "title": "Surprise, then care",
+      "prompt": "I finished a difficult project in one night.",
+      "filename": "surprise-empathy-interest.wav",
+      "text": "Wait, you did all that in one night? That's a lot to have on your plate. No wonder that stuck with you. How did it actually turn out?",
+      "model": "gpt-realtime-2.1",
+      "voice": "cedar",
+      "sampleRate": 24000,
+      "channels": 1,
+      "encoding": "pcm_s16le",
+      "durationSeconds": 9,
+      "pcmBytes": 432000,
+      "generatedBy": "OpenAI Realtime API over WebSocket",
+      "transcript": "Wait, you did all that in one night? That's a lot to have on your plate. No wonder that stuck with you. How did it actually turn out?",
+      "whisperModel": "whisper-1",
+      "whisperText": "Wait, you did all that in one night? That's a lot to have on your plate. No wonder that stuck with you. How did it actually turn out?",
+      "wordTimestamps": [
+        {
+          "word": "Wait",
+          "startMs": 0,
+          "endMs": 340
+        },
+        {
+          "word": "you",
+          "startMs": 360,
+          "endMs": 1060
+        },
+        {
+          "word": "did",
+          "startMs": 1060,
+          "endMs": 1220
+        },
+        {
+          "word": "all",
+          "startMs": 1220,
+          "endMs": 1780
+        },
+        {
+          "word": "that",
+          "startMs": 1780,
+          "endMs": 2080
+        },
+        {
+          "word": "in",
+          "startMs": 2080,
+          "endMs": 2360
+        },
+        {
+          "word": "one",
+          "startMs": 2360,
+          "endMs": 2620
+        },
+        {
+          "word": "night",
+          "startMs": 2620,
+          "endMs": 2900
+        },
+        {
+          "word": "That's",
+          "startMs": 3740,
+          "endMs": 3900
+        },
+        {
+          "word": "a",
+          "startMs": 3900,
+          "endMs": 4040
+        },
+        {
+          "word": "lot",
+          "startMs": 4040,
+          "endMs": 4120
+        },
+        {
+          "word": "to",
+          "startMs": 4120,
+          "endMs": 4280
+        },
+        {
+          "word": "have",
+          "startMs": 4280,
+          "endMs": 4400
+        },
+        {
+          "word": "on",
+          "startMs": 4400,
+          "endMs": 4500
+        },
+        {
+          "word": "your",
+          "startMs": 4500,
+          "endMs": 4680
+        },
+        {
+          "word": "plate",
+          "startMs": 4680,
+          "endMs": 5600
+        },
+        {
+          "word": "No",
+          "startMs": 5760,
+          "endMs": 5960
+        },
+        {
+          "word": "wonder",
+          "startMs": 5960,
+          "endMs": 6160
+        },
+        {
+          "word": "that",
+          "startMs": 6160,
+          "endMs": 6500
+        },
+        {
+          "word": "stuck",
+          "startMs": 6500,
+          "endMs": 6640
+        },
+        {
+          "word": "with",
+          "startMs": 6640,
+          "endMs": 6820
+        },
+        {
+          "word": "you",
+          "startMs": 6820,
+          "endMs": 7100
+        },
+        {
+          "word": "How",
+          "startMs": 7620,
+          "endMs": 7720
+        },
+        {
+          "word": "did",
+          "startMs": 7720,
+          "endMs": 7860
+        },
+        {
+          "word": "it",
+          "startMs": 7860,
+          "endMs": 7980
+        },
+        {
+          "word": "actually",
+          "startMs": 7980,
+          "endMs": 8260
+        },
+        {
+          "word": "turn",
+          "startMs": 8260,
+          "endMs": 8420
+        },
+        {
+          "word": "out",
+          "startMs": 8420,
+          "endMs": 8620
+        }
+      ],
+      "cues": [
+        {
+          "atMs": 0,
+          "endMs": 2900,
+          "expression": "surprised",
+          "gesture": "lean-in",
+          "intensity": 0.9,
+          "text": "Wait, you did all that in one night?"
+        },
+        {
+          "atMs": 3740,
+          "endMs": 5600,
+          "expression": "concerned",
+          "gesture": "tilt-left",
+          "intensity": 0.62,
+          "text": "That's a lot to have on your plate."
+        },
+        {
+          "atMs": 5760,
+          "endMs": 7100,
+          "expression": "concerned",
+          "gesture": "nod",
+          "intensity": 0.65,
+          "text": "No wonder that stuck with you."
+        },
+        {
+          "atMs": 7620,
+          "endMs": 8620,
+          "expression": "curious",
+          "gesture": "tilt-right",
+          "intensity": 0.74,
+          "text": "How did it actually turn out?"
+        }
+      ],
+      "initialEffectScene": "none",
+      "cueSource": "explicitly-authored-visual-study-not-live-model-confidence"
+    }
+  ]
+}

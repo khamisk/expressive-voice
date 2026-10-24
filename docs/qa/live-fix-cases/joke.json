@@ -1,0 +1,5186 @@
+{
+  "name": "joke",
+  "prompt": "I told my code to take a break and it threw an exception.",
+  "startedAt": "2026-08-28T01:28:18.572Z",
+  "startMeter": 292066,
+  "frames": [
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-present",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 292417,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [],
+      "t": 354
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-present",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 292499,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [],
+      "t": 434
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-present",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 292577,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [],
+      "t": 515
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-present",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 292671,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [],
+      "t": 606
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-present",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 292765,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [],
+      "t": 701
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "rest",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "thinking",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "thinking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-present",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 292866,
+      "outputRms": 0,
+      "status": "Conversation state: thinking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [],
+      "t": 803
+    },
+    {
+      "caption": "",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "speaking",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-kind": "reaction",
+        "data-cue-source": "none",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "acknowledge",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "-1",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-present",
+        "data-word-tick": "0"
+      },
+      "cue": null,
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 292961,
+      "outputRms": 0,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [],
+      "t": 900
+    },
+    {
+      "caption": "Sounds",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-0",
+        "data-body-pose": "0.093,-0.050,1.001,1.001,0.999",
+        "data-cue-anchor": "Sounds like your code took",
+        "data-cue-id": "1:5:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.13,0.00,0.17",
+        "data-intent": "explain",
+        "data-output-level": "0.111",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.056",
+        "data-speech-energy": "0.089",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "1"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Sounds like your code took",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 293066,
+      "outputRms": 0.01412,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 0,
+          "text": "Sounds"
+        }
+      ],
+      "t": 1003
+    },
+    {
+      "caption": "Sounds",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-0",
+        "data-body-pose": "0.099,-0.054,1.001,1.000,1.000",
+        "data-cue-anchor": "Sounds like your code took",
+        "data-cue-id": "1:5:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.12,0.00,0.17",
+        "data-intent": "explain",
+        "data-output-level": "0.152",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.155",
+        "data-speech-energy": "0.193",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "1"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Sounds like your code took",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 293150,
+      "outputRms": 0.02747,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 0,
+          "text": "Sounds"
+        }
+      ],
+      "t": 1087
+    },
+    {
+      "caption": "Sounds like",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-0",
+        "data-body-pose": "0.071,-0.038,1.001,1.000,1.000",
+        "data-cue-anchor": "Sounds like your code took",
+        "data-cue-id": "1:5:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.08,0.00,0.11",
+        "data-intent": "explain",
+        "data-output-level": "0.288",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.251",
+        "data-speech-energy": "0.278",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "2"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Sounds like your code took",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 293244,
+      "outputRms": 0.07906,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 0,
+          "text": "Sounds"
+        },
+        {
+          "index": 1,
+          "text": " like"
+        }
+      ],
+      "t": 1181
+    },
+    {
+      "caption": "Sounds like",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-0",
+        "data-body-pose": "0.044,-0.024,1.000,1.000,1.000",
+        "data-cue-anchor": "Sounds like your code took",
+        "data-cue-id": "1:5:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.05,0.00,0.07",
+        "data-intent": "explain",
+        "data-output-level": "0.293",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.500",
+        "data-speech-energy": "0.524",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "2"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Sounds like your code took",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 293338,
+      "outputRms": 0.08504,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 0,
+          "text": "Sounds"
+        },
+        {
+          "index": 1,
+          "text": " like"
+        }
+      ],
+      "t": 1275
+    },
+    {
+      "caption": "Sounds like your",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-3",
+        "data-body-pose": "0.022,-0.012,1.000,1.000,1.000",
+        "data-cue-anchor": "Sounds like your code took",
+        "data-cue-id": "1:5:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.02,0.00,0.03",
+        "data-intent": "explain",
+        "data-output-level": "0.346",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.691",
+        "data-speech-energy": "0.706",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "3"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Sounds like your code took",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 293436,
+      "outputRms": 0.03986,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 0,
+          "text": "Sounds"
+        },
+        {
+          "index": 1,
+          "text": " like"
+        },
+        {
+          "index": 2,
+          "text": " your"
+        }
+      ],
+      "t": 1375
+    },
+    {
+      "caption": "Sounds like your",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-3",
+        "data-body-pose": "0.007,-0.004,1.000,1.000,1.000",
+        "data-cue-anchor": "Sounds like your code took",
+        "data-cue-id": "1:5:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.01,0.00,0.01",
+        "data-intent": "explain",
+        "data-output-level": "0.681",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.909",
+        "data-speech-energy": "0.917",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "3"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Sounds like your code took",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 293560,
+      "outputRms": 0.04351,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 0,
+          "text": "Sounds"
+        },
+        {
+          "index": 1,
+          "text": " like"
+        },
+        {
+          "index": 2,
+          "text": " your"
+        }
+      ],
+      "t": 1497
+    },
+    {
+      "caption": "Sounds like your code",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-3",
+        "data-body-pose": "0.003,-0.002,1.000,1.000,1.000",
+        "data-cue-anchor": "Sounds like your code took",
+        "data-cue-id": "1:5:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.152",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.642",
+        "data-speech-energy": "0.644",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "4"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Sounds like your code took",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 293643,
+      "outputRms": 0.04182,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 0,
+          "text": "Sounds"
+        },
+        {
+          "index": 1,
+          "text": " like"
+        },
+        {
+          "index": 2,
+          "text": " your"
+        },
+        {
+          "index": 3,
+          "text": " code"
+        }
+      ],
+      "t": 1580
+    },
+    {
+      "caption": "Sounds like your code",
+      "captionWindow": "0",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-3",
+        "data-body-pose": "0.001,-0.001,1.000,1.000,1.000",
+        "data-cue-anchor": "Sounds like your code took",
+        "data-cue-id": "1:5:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.092",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "0",
+        "data-speech-articulation": "0.428",
+        "data-speech-energy": "0.429",
+        "data-variant-id": "neutral-open",
+        "data-word-tick": "4"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Sounds like your code took",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 293738,
+      "outputRms": 0.00521,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 0,
+          "text": "Sounds"
+        },
+        {
+          "index": 1,
+          "text": " like"
+        },
+        {
+          "index": 2,
+          "text": " your"
+        },
+        {
+          "index": 3,
+          "text": " code"
+        }
+      ],
+      "t": 1673
+    },
+    {
+      "caption": "took",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-1",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "Sounds like your code took",
+        "data-cue-id": "1:5:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.063",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.231",
+        "data-speech-energy": "0.232",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "5"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Sounds like your code took",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 293833,
+      "outputRms": 0.01152,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 4,
+          "text": "took"
+        }
+      ],
+      "t": 1768
+    },
+    {
+      "caption": "took",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-1",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "Sounds like your code took",
+        "data-cue-id": "1:5:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.466",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.618",
+        "data-speech-energy": "0.619",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "5"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Sounds like your code took",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 293927,
+      "outputRms": 0.07516,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 4,
+          "text": "took"
+        }
+      ],
+      "t": 1862
+    },
+    {
+      "caption": "took that",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-1",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "Sounds like your code took",
+        "data-cue-id": "1:5:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.355",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.676",
+        "data-speech-energy": "0.676",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "6"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Sounds like your code took",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 294021,
+      "outputRms": 0.04747,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 4,
+          "text": "took"
+        },
+        {
+          "index": 5,
+          "text": " that"
+        }
+      ],
+      "t": 1956
+    },
+    {
+      "caption": "took that",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-1",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "Sounds like your code took",
+        "data-cue-id": "1:5:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.062",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.437",
+        "data-speech-energy": "0.437",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "6"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Sounds like your code took",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 294110,
+      "outputRms": 0.0241,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 4,
+          "text": "took"
+        },
+        {
+          "index": 5,
+          "text": " that"
+        }
+      ],
+      "t": 2049
+    },
+    {
+      "caption": "took that a",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-7",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "Sounds like your code took",
+        "data-cue-id": "1:5:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.249",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.531",
+        "data-speech-energy": "0.531",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "7"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Sounds like your code took",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 294204,
+      "outputRms": 0.01991,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 4,
+          "text": "took"
+        },
+        {
+          "index": 5,
+          "text": " that"
+        },
+        {
+          "index": 6,
+          "text": " a"
+        }
+      ],
+      "t": 2140
+    },
+    {
+      "caption": "took that a",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-7",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "Sounds like your code took",
+        "data-cue-id": "1:5:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.046",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.338",
+        "data-speech-energy": "0.338",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "7"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Sounds like your code took",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 294288,
+      "outputRms": 0.00639,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 4,
+          "text": "took"
+        },
+        {
+          "index": 5,
+          "text": " that"
+        },
+        {
+          "index": 6,
+          "text": " a"
+        }
+      ],
+      "t": 2223
+    },
+    {
+      "caption": "took that a",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-7",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "Sounds like your code took",
+        "data-cue-id": "1:5:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.611",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.740",
+        "data-speech-energy": "0.740",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "7"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Sounds like your code took",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 294394,
+      "outputRms": 0.09515,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 4,
+          "text": "took"
+        },
+        {
+          "index": 5,
+          "text": " that"
+        },
+        {
+          "index": 6,
+          "text": " a"
+        }
+      ],
+      "t": 2330
+    },
+    {
+      "caption": "took that a bit",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-7",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "Sounds like your code took",
+        "data-cue-id": "1:5:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.297",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.781",
+        "data-speech-energy": "0.781",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "8"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Sounds like your code took",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 294488,
+      "outputRms": 0.00635,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 4,
+          "text": "took"
+        },
+        {
+          "index": 5,
+          "text": " that"
+        },
+        {
+          "index": 6,
+          "text": " a"
+        },
+        {
+          "index": 7,
+          "text": " bit"
+        }
+      ],
+      "t": 2425
+    },
+    {
+      "caption": "took that a bit",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-7",
+        "data-body-pose": "0.000,-0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "Sounds like your code took",
+        "data-cue-id": "1:5:fast:0",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.033",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "0",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.283",
+        "data-speech-energy": "0.283",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "8"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Sounds like your code took",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:0",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 0,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 294631,
+      "outputRms": 0.00426,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 4,
+          "text": "took"
+        },
+        {
+          "index": 5,
+          "text": " that"
+        },
+        {
+          "index": 6,
+          "text": " a"
+        },
+        {
+          "index": 7,
+          "text": " bit"
+        }
+      ],
+      "t": 2571
+    },
+    {
+      "caption": "took that a bit personally.",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "double-blink",
+        "data-beat": "phrase-1",
+        "data-body-pose": "0.000,-0.213,1.000,0.999,1.001",
+        "data-cue-anchor": "took that a bit personally",
+        "data-cue-id": "speech-plan-1-14-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "-0.28,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.031",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.139",
+        "data-speech-energy": "0.139",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "9"
+      },
+      "cue": {
+        "accent": "double-blink",
+        "anchor": "took that a bit personally",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-14-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 294727,
+      "outputRms": 0.00635,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 4,
+          "text": "took"
+        },
+        {
+          "index": 5,
+          "text": " that"
+        },
+        {
+          "index": 6,
+          "text": " a"
+        },
+        {
+          "index": 7,
+          "text": " bit"
+        },
+        {
+          "index": 8,
+          "text": " personally."
+        }
+      ],
+      "t": 2664
+    },
+    {
+      "caption": "took that a bit personally.",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "double-blink",
+        "data-beat": "phrase-1",
+        "data-body-pose": "0.000,-3.398,1.000,0.990,1.015",
+        "data-cue-anchor": "took that a bit personally",
+        "data-cue-id": "speech-plan-1-14-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "-3.98,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.194",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.254",
+        "data-speech-energy": "0.254",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "9"
+      },
+      "cue": {
+        "accent": "double-blink",
+        "anchor": "took that a bit personally",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-14-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 294826,
+      "outputRms": 0.0273,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 4,
+          "text": "took"
+        },
+        {
+          "index": 5,
+          "text": " that"
+        },
+        {
+          "index": 6,
+          "text": " a"
+        },
+        {
+          "index": 7,
+          "text": " bit"
+        },
+        {
+          "index": 8,
+          "text": " personally."
+        }
+      ],
+      "t": 2762
+    },
+    {
+      "caption": "took that a bit personally.",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "double-blink",
+        "data-beat": "phrase-1",
+        "data-body-pose": "0.000,-1.321,1.000,1.007,1.002",
+        "data-cue-anchor": "took that a bit personally",
+        "data-cue-id": "speech-plan-1-14-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "-1.09,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.446",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.521",
+        "data-speech-energy": "0.521",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "9"
+      },
+      "cue": {
+        "accent": "double-blink",
+        "anchor": "took that a bit personally",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-14-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 294917,
+      "outputRms": 0.06689,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 4,
+          "text": "took"
+        },
+        {
+          "index": 5,
+          "text": " that"
+        },
+        {
+          "index": 6,
+          "text": " a"
+        },
+        {
+          "index": 7,
+          "text": " bit"
+        },
+        {
+          "index": 8,
+          "text": " personally."
+        }
+      ],
+      "t": 2854
+    },
+    {
+      "caption": "took that a bit personally.",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "double-blink",
+        "data-beat": "phrase-1",
+        "data-body-pose": "0.000,8.876,1.000,1.048,0.962",
+        "data-cue-anchor": "took that a bit personally",
+        "data-cue-id": "speech-plan-1-14-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "9.41,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.047",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.399",
+        "data-speech-energy": "0.399",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "9"
+      },
+      "cue": {
+        "accent": "double-blink",
+        "anchor": "took that a bit personally",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-14-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 295010,
+      "outputRms": 0.00409,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 4,
+          "text": "took"
+        },
+        {
+          "index": 5,
+          "text": " that"
+        },
+        {
+          "index": 6,
+          "text": " a"
+        },
+        {
+          "index": 7,
+          "text": " bit"
+        },
+        {
+          "index": 8,
+          "text": " personally."
+        }
+      ],
+      "t": 2945
+    },
+    {
+      "caption": "took that a bit personally.",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "double-blink",
+        "data-beat": "phrase-1",
+        "data-body-pose": "0.000,8.484,1.000,1.030,0.980",
+        "data-cue-anchor": "took that a bit personally",
+        "data-cue-id": "speech-plan-1-14-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "6.57,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.991",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.921",
+        "data-speech-energy": "0.921",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "9"
+      },
+      "cue": {
+        "accent": "double-blink",
+        "anchor": "took that a bit personally",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-14-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 295165,
+      "outputRms": 0.09221,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 4,
+          "text": "took"
+        },
+        {
+          "index": 5,
+          "text": " that"
+        },
+        {
+          "index": 6,
+          "text": " a"
+        },
+        {
+          "index": 7,
+          "text": " bit"
+        },
+        {
+          "index": 8,
+          "text": " personally."
+        }
+      ],
+      "t": 3106
+    },
+    {
+      "caption": "took that a bit personally.",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "double-blink",
+        "data-beat": "phrase-1",
+        "data-body-pose": "0.000,-3.031,1.000,0.992,1.018",
+        "data-cue-anchor": "took that a bit personally",
+        "data-cue-id": "speech-plan-1-14-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "-3.73,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.189",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.734",
+        "data-speech-energy": "0.734",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "9"
+      },
+      "cue": {
+        "accent": "double-blink",
+        "anchor": "took that a bit personally",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-14-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 295265,
+      "outputRms": 0.03316,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 4,
+          "text": "took"
+        },
+        {
+          "index": 5,
+          "text": " that"
+        },
+        {
+          "index": 6,
+          "text": " a"
+        },
+        {
+          "index": 7,
+          "text": " bit"
+        },
+        {
+          "index": 8,
+          "text": " personally."
+        }
+      ],
+      "t": 3200
+    },
+    {
+      "caption": "took that a bit personally.",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "double-blink",
+        "data-beat": "phrase-1",
+        "data-body-pose": "0.000,-4.052,1.000,1.000,1.010",
+        "data-cue-anchor": "took that a bit personally",
+        "data-cue-id": "speech-plan-1-14-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "-2.75,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.462",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.699",
+        "data-speech-energy": "0.699",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "9"
+      },
+      "cue": {
+        "accent": "double-blink",
+        "anchor": "took that a bit personally",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-14-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 295354,
+      "outputRms": 0.07027,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 4,
+          "text": "took"
+        },
+        {
+          "index": 5,
+          "text": " that"
+        },
+        {
+          "index": 6,
+          "text": " a"
+        },
+        {
+          "index": 7,
+          "text": " bit"
+        },
+        {
+          "index": 8,
+          "text": " personally."
+        }
+      ],
+      "t": 3292
+    },
+    {
+      "caption": "took that a bit personally.",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "double-blink",
+        "data-beat": "phrase-1",
+        "data-body-pose": "0.000,6.078,1.000,1.039,0.971",
+        "data-cue-anchor": "took that a bit personally",
+        "data-cue-id": "speech-plan-1-14-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "7.35,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.197",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.524",
+        "data-speech-energy": "0.524",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "9"
+      },
+      "cue": {
+        "accent": "double-blink",
+        "anchor": "took that a bit personally",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-14-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 295455,
+      "outputRms": 0.02108,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 4,
+          "text": "took"
+        },
+        {
+          "index": 5,
+          "text": " that"
+        },
+        {
+          "index": 6,
+          "text": " a"
+        },
+        {
+          "index": 7,
+          "text": " bit"
+        },
+        {
+          "index": 8,
+          "text": " personally."
+        }
+      ],
+      "t": 3391
+    },
+    {
+      "caption": "took that a bit personally.",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "double-blink",
+        "data-beat": "phrase-1",
+        "data-body-pose": "0.000,14.265,1.000,1.058,0.952",
+        "data-cue-anchor": "took that a bit personally",
+        "data-cue-id": "speech-plan-1-14-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "13.39,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.042",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.287",
+        "data-speech-energy": "0.287",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "9"
+      },
+      "cue": {
+        "accent": "double-blink",
+        "anchor": "took that a bit personally",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-14-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 295554,
+      "outputRms": 0.00781,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 4,
+          "text": "took"
+        },
+        {
+          "index": 5,
+          "text": " that"
+        },
+        {
+          "index": 6,
+          "text": " a"
+        },
+        {
+          "index": 7,
+          "text": " bit"
+        },
+        {
+          "index": 8,
+          "text": " personally."
+        }
+      ],
+      "t": 3490
+    },
+    {
+      "caption": "took that a bit personally.",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "double-blink",
+        "data-beat": "phrase-1",
+        "data-body-pose": "0.000,15.428,1.000,1.052,0.955",
+        "data-cue-anchor": "took that a bit personally",
+        "data-cue-id": "speech-plan-1-14-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "nod",
+        "data-head-pose": "13.12,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.034",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.156",
+        "data-speech-energy": "0.156",
+        "data-variant-id": "neutral-soft-down",
+        "data-word-tick": "9"
+      },
+      "cue": {
+        "accent": "double-blink",
+        "anchor": "took that a bit personally",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "nod",
+        "id": "speech-plan-1-14-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 295637,
+      "outputRms": 0.00659,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 4,
+          "text": "took"
+        },
+        {
+          "index": 5,
+          "text": " that"
+        },
+        {
+          "index": 6,
+          "text": " a"
+        },
+        {
+          "index": 7,
+          "text": " bit"
+        },
+        {
+          "index": 8,
+          "text": " personally."
+        }
+      ],
+      "t": 3572
+    },
+    {
+      "caption": "took that a bit personally.",
+      "captionWindow": "4",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-1",
+        "data-body-pose": "0.000,11.652,1.000,1.031,0.972",
+        "data-cue-anchor": "Maybe it needs clearer instructions",
+        "data-cue-id": "1:5:fast:50",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "8.80,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.027",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "1",
+        "data-speech-articulation": "0.078",
+        "data-speech-energy": "0.078",
+        "data-variant-id": "neutral-present",
+        "data-word-tick": "9"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Maybe it needs clearer instructions",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:50",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 295733,
+      "outputRms": 0.00394,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 4,
+          "text": "took"
+        },
+        {
+          "index": 5,
+          "text": " that"
+        },
+        {
+          "index": 6,
+          "text": " a"
+        },
+        {
+          "index": 7,
+          "text": " bit"
+        },
+        {
+          "index": 8,
+          "text": " personally."
+        }
+      ],
+      "t": 3670
+    },
+    {
+      "caption": "Maybe",
+      "captionWindow": "9",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-2",
+        "data-body-pose": "0.000,10.364,1.000,1.028,0.975",
+        "data-cue-anchor": "Maybe it needs clearer instructions",
+        "data-cue-id": "1:5:fast:50",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "7.93,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.023",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.045",
+        "data-speech-energy": "0.045",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "10"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Maybe it needs clearer instructions",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:50",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 295826,
+      "outputRms": 0.00737,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 9,
+          "text": "Maybe"
+        }
+      ],
+      "t": 3761
+    },
+    {
+      "caption": "Maybe",
+      "captionWindow": "9",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-2",
+        "data-body-pose": "0.000,9.817,1.000,1.026,0.976",
+        "data-cue-anchor": "Maybe it needs clearer instructions",
+        "data-cue-id": "1:5:fast:50",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "7.44,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.031",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.027",
+        "data-speech-energy": "0.027",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "10"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Maybe it needs clearer instructions",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:50",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 295921,
+      "outputRms": 0,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 9,
+          "text": "Maybe"
+        }
+      ],
+      "t": 3856
+    },
+    {
+      "caption": "Maybe",
+      "captionWindow": "9",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "phrase-2",
+        "data-body-pose": "0.000,7.581,1.000,1.018,0.984",
+        "data-cue-anchor": "Maybe it needs clearer instructions",
+        "data-cue-id": "1:5:fast:50",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "5.36,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.032",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.023",
+        "data-speech-energy": "0.023",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "10"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Maybe it needs clearer instructions",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:50",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 296016,
+      "outputRms": 0.042,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 9,
+          "text": "Maybe"
+        }
+      ],
+      "t": 3951
+    },
+    {
+      "caption": "Maybe it",
+      "captionWindow": "9",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-11",
+        "data-body-pose": "0.000,4.666,1.000,1.009,0.992",
+        "data-cue-anchor": "Maybe it needs clearer instructions",
+        "data-cue-id": "1:5:fast:50",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "2.91,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.609",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.778",
+        "data-speech-energy": "0.778",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "11"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Maybe it needs clearer instructions",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:50",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 296104,
+      "outputRms": 0.12707,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 9,
+          "text": "Maybe"
+        },
+        {
+          "index": 10,
+          "text": " it"
+        }
+      ],
+      "t": 4043
+    },
+    {
+      "caption": "Maybe it",
+      "captionWindow": "9",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-11",
+        "data-body-pose": "0.000,2.040,1.000,1.003,0.998",
+        "data-cue-anchor": "Maybe it needs clearer instructions",
+        "data-cue-id": "1:5:fast:50",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "1.01,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.521",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.978",
+        "data-speech-energy": "0.978",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "11"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Maybe it needs clearer instructions",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:50",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 296204,
+      "outputRms": 0.06776,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 9,
+          "text": "Maybe"
+        },
+        {
+          "index": 10,
+          "text": " it"
+        }
+      ],
+      "t": 4140
+    },
+    {
+      "caption": "Maybe it",
+      "captionWindow": "9",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-11",
+        "data-body-pose": "0.000,0.856,1.000,1.001,0.999",
+        "data-cue-anchor": "Maybe it needs clearer instructions",
+        "data-cue-id": "1:5:fast:50",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.33,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.442",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.850",
+        "data-speech-energy": "0.850",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "11"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Maybe it needs clearer instructions",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:50",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 296294,
+      "outputRms": 0.09191,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 9,
+          "text": "Maybe"
+        },
+        {
+          "index": 10,
+          "text": " it"
+        }
+      ],
+      "t": 4229
+    },
+    {
+      "caption": "Maybe it needs",
+      "captionWindow": "9",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-11",
+        "data-body-pose": "0.000,0.339,1.000,1.000,1.000",
+        "data-cue-anchor": "Maybe it needs clearer instructions",
+        "data-cue-id": "1:5:fast:50",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.10,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.733",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.948",
+        "data-speech-energy": "0.948",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "12"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Maybe it needs clearer instructions",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:50",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 296382,
+      "outputRms": 0.13184,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 9,
+          "text": "Maybe"
+        },
+        {
+          "index": 10,
+          "text": " it"
+        },
+        {
+          "index": 11,
+          "text": " needs"
+        }
+      ],
+      "t": 4322
+    },
+    {
+      "caption": "Maybe it needs",
+      "captionWindow": "9",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-11",
+        "data-body-pose": "0.000,0.112,1.000,1.000,1.000",
+        "data-cue-anchor": "Maybe it needs clearer instructions",
+        "data-cue-id": "1:5:fast:50",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.03,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.773",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.997",
+        "data-speech-energy": "0.997",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "12"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Maybe it needs clearer instructions",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:50",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 296483,
+      "outputRms": 0.13704,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 9,
+          "text": "Maybe"
+        },
+        {
+          "index": 10,
+          "text": " it"
+        },
+        {
+          "index": 11,
+          "text": " needs"
+        }
+      ],
+      "t": 4420
+    },
+    {
+      "caption": "Maybe it needs",
+      "captionWindow": "9",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-11",
+        "data-body-pose": "0.000,0.041,1.000,1.000,1.000",
+        "data-cue-anchor": "Maybe it needs clearer instructions",
+        "data-cue-id": "1:5:fast:50",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.01,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.240",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.820",
+        "data-speech-energy": "0.820",
+        "data-variant-id": "neutral-look-up",
+        "data-word-tick": "12"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Maybe it needs clearer instructions",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:50",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 296571,
+      "outputRms": 0.01306,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 9,
+          "text": "Maybe"
+        },
+        {
+          "index": 10,
+          "text": " it"
+        },
+        {
+          "index": 11,
+          "text": " needs"
+        }
+      ],
+      "t": 4509
+    },
+    {
+      "caption": "Maybe it needs clearer",
+      "captionWindow": "9",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-13",
+        "data-body-pose": "0.000,0.013,1.000,1.000,1.000",
+        "data-cue-anchor": "Maybe it needs clearer instructions",
+        "data-cue-id": "1:5:fast:50",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.066",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.418",
+        "data-speech-energy": "0.418",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "13"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Maybe it needs clearer instructions",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:50",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 296671,
+      "outputRms": 0.01164,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 9,
+          "text": "Maybe"
+        },
+        {
+          "index": 10,
+          "text": " it"
+        },
+        {
+          "index": 11,
+          "text": " needs"
+        },
+        {
+          "index": 12,
+          "text": " clearer"
+        }
+      ],
+      "t": 4608
+    },
+    {
+      "caption": "Maybe it needs clearer",
+      "captionWindow": "9",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-13",
+        "data-body-pose": "0.000,0.005,1.000,1.000,1.000",
+        "data-cue-anchor": "Maybe it needs clearer instructions",
+        "data-cue-id": "1:5:fast:50",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.629",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.822",
+        "data-speech-energy": "0.822",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "13"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Maybe it needs clearer instructions",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:50",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 296754,
+      "outputRms": 0.11276,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 9,
+          "text": "Maybe"
+        },
+        {
+          "index": 10,
+          "text": " it"
+        },
+        {
+          "index": 11,
+          "text": " needs"
+        },
+        {
+          "index": 12,
+          "text": " clearer"
+        }
+      ],
+      "t": 4692
+    },
+    {
+      "caption": "Maybe it needs clearer",
+      "captionWindow": "9",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-13",
+        "data-body-pose": "0.000,0.002,1.000,1.000,1.000",
+        "data-cue-anchor": "Maybe it needs clearer instructions",
+        "data-cue-id": "1:5:fast:50",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.634",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.984",
+        "data-speech-energy": "0.984",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "13"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Maybe it needs clearer instructions",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:50",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 296843,
+      "outputRms": 0.07599,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 9,
+          "text": "Maybe"
+        },
+        {
+          "index": 10,
+          "text": " it"
+        },
+        {
+          "index": 11,
+          "text": " needs"
+        },
+        {
+          "index": 12,
+          "text": " clearer"
+        }
+      ],
+      "t": 4781
+    },
+    {
+      "caption": "Maybe it needs clearer",
+      "captionWindow": "9",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-13",
+        "data-body-pose": "0.000,0.001,1.000,1.000,1.000",
+        "data-cue-anchor": "Maybe it needs clearer instructions",
+        "data-cue-id": "1:5:fast:50",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.295",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.861",
+        "data-speech-energy": "0.861",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "13"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Maybe it needs clearer instructions",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:50",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 296943,
+      "outputRms": 0.0295,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 9,
+          "text": "Maybe"
+        },
+        {
+          "index": 10,
+          "text": " it"
+        },
+        {
+          "index": 11,
+          "text": " needs"
+        },
+        {
+          "index": 12,
+          "text": " clearer"
+        }
+      ],
+      "t": 4878
+    },
+    {
+      "caption": "Maybe it needs clearer instructions",
+      "captionWindow": "9",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-14",
+        "data-body-pose": "0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "Maybe it needs clearer instructions",
+        "data-cue-id": "1:5:fast:50",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.131",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.519",
+        "data-speech-energy": "0.519",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "14"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Maybe it needs clearer instructions",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:50",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 297027,
+      "outputRms": 0.1106,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 9,
+          "text": "Maybe"
+        },
+        {
+          "index": 10,
+          "text": " it"
+        },
+        {
+          "index": 11,
+          "text": " needs"
+        },
+        {
+          "index": 12,
+          "text": " clearer"
+        },
+        {
+          "index": 13,
+          "text": " instructions"
+        }
+      ],
+      "t": 4963
+    },
+    {
+      "caption": "Maybe it needs clearer instructions",
+      "captionWindow": "9",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-14",
+        "data-body-pose": "0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "Maybe it needs clearer instructions",
+        "data-cue-id": "1:5:fast:50",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.426",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.914",
+        "data-speech-energy": "0.914",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "14"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Maybe it needs clearer instructions",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:50",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 297121,
+      "outputRms": 0.0186,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 9,
+          "text": "Maybe"
+        },
+        {
+          "index": 10,
+          "text": " it"
+        },
+        {
+          "index": 11,
+          "text": " needs"
+        },
+        {
+          "index": 12,
+          "text": " clearer"
+        },
+        {
+          "index": 13,
+          "text": " instructions"
+        }
+      ],
+      "t": 5056
+    },
+    {
+      "caption": "Maybe it needs clearer instructions",
+      "captionWindow": "9",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-14",
+        "data-body-pose": "0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "Maybe it needs clearer instructions",
+        "data-cue-id": "1:5:fast:50",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.102",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.555",
+        "data-speech-energy": "0.555",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "14"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Maybe it needs clearer instructions",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:50",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 297216,
+      "outputRms": 0.01377,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 9,
+          "text": "Maybe"
+        },
+        {
+          "index": 10,
+          "text": " it"
+        },
+        {
+          "index": 11,
+          "text": " needs"
+        },
+        {
+          "index": 12,
+          "text": " clearer"
+        },
+        {
+          "index": 13,
+          "text": " instructions"
+        }
+      ],
+      "t": 5152
+    },
+    {
+      "caption": "Maybe it needs clearer instructions",
+      "captionWindow": "9",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-14",
+        "data-body-pose": "0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "Maybe it needs clearer instructions",
+        "data-cue-id": "1:5:fast:50",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.391",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.578",
+        "data-speech-energy": "0.578",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "14"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Maybe it needs clearer instructions",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:50",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 297304,
+      "outputRms": 0.0738,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 9,
+          "text": "Maybe"
+        },
+        {
+          "index": 10,
+          "text": " it"
+        },
+        {
+          "index": 11,
+          "text": " needs"
+        },
+        {
+          "index": 12,
+          "text": " clearer"
+        },
+        {
+          "index": 13,
+          "text": " instructions"
+        }
+      ],
+      "t": 5239
+    },
+    {
+      "caption": "Maybe it needs clearer instructions",
+      "captionWindow": "9",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "word-14",
+        "data-body-pose": "0.000,0.000,1.000,1.000,1.000",
+        "data-cue-anchor": "Maybe it needs clearer instructions",
+        "data-cue-id": "1:5:fast:50",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "still",
+        "data-head-pose": "0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.271",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.558",
+        "data-speech-energy": "0.558",
+        "data-variant-id": "neutral-right-focus",
+        "data-word-tick": "14"
+      },
+      "cue": {
+        "accent": "none",
+        "anchor": "Maybe it needs clearer instructions",
+        "confidence": 0.68,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "still",
+        "id": "1:5:fast:50",
+        "intensity": 0.45,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 297398,
+      "outputRms": 0.01733,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 9,
+          "text": "Maybe"
+        },
+        {
+          "index": 10,
+          "text": " it"
+        },
+        {
+          "index": 11,
+          "text": " needs"
+        },
+        {
+          "index": 12,
+          "text": " clearer"
+        },
+        {
+          "index": 13,
+          "text": " instructions"
+        }
+      ],
+      "t": 5334
+    },
+    {
+      "caption": "Maybe it needs clearer instructions",
+      "captionWindow": "9",
+      "character": {
+        "data-accent": "wink-right",
+        "data-beat": "phrase-2",
+        "data-body-pose": "0.000,-0.595,1.003,0.998,1.003",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "lift",
+        "data-head-pose": "-0.65,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.043",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "2",
+        "data-speech-articulation": "0.313",
+        "data-speech-energy": "0.313",
+        "data-variant-id": "neutral-left-focus",
+        "data-word-tick": "14"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 297499,
+      "outputRms": 0.00661,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 9,
+          "text": "Maybe"
+        },
+        {
+          "index": 10,
+          "text": " it"
+        },
+        {
+          "index": 11,
+          "text": " needs"
+        },
+        {
+          "index": 12,
+          "text": " clearer"
+        },
+        {
+          "index": 13,
+          "text": " instructions"
+        }
+      ],
+      "t": 5434
+    },
+    {
+      "caption": "and",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "wink-right",
+        "data-beat": "phrase-3",
+        "data-body-pose": "0.000,-4.624,1.026,0.988,1.018",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "lift",
+        "data-head-pose": "-4.62,0.00,0.12",
+        "data-intent": "explain",
+        "data-output-level": "0.019",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.160",
+        "data-speech-energy": "0.160",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "15"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 297588,
+      "outputRms": 0.00049,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 14,
+          "text": "and"
+        }
+      ],
+      "t": 5525
+    },
+    {
+      "caption": "and",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "wink-right",
+        "data-beat": "phrase-3",
+        "data-body-pose": "0.000,-12.213,1.081,0.965,1.056",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "lift",
+        "data-head-pose": "-12.42,0.00,3.33",
+        "data-intent": "explain",
+        "data-output-level": "0.028",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.076",
+        "data-speech-energy": "0.076",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "15"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 297696,
+      "outputRms": 0.00666,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 14,
+          "text": "and"
+        }
+      ],
+      "t": 5634
+    },
+    {
+      "caption": "and a",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "wink-right",
+        "data-beat": "phrase-3",
+        "data-body-pose": "0.000,-18.361,1.132,0.949,1.085",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "lift",
+        "data-head-pose": "-18.27,0.00,6.63",
+        "data-intent": "explain",
+        "data-output-level": "0.634",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.446",
+        "data-speech-energy": "0.446",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "16"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 297789,
+      "outputRms": 0.14365,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 14,
+          "text": "and"
+        },
+        {
+          "index": 15,
+          "text": " a"
+        }
+      ],
+      "t": 5725
+    },
+    {
+      "caption": "and a",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "wink-right",
+        "data-beat": "phrase-3",
+        "data-body-pose": "0.000,-21.161,1.158,0.945,1.091",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "lift",
+        "data-head-pose": "-19.94,0.00,7.47",
+        "data-intent": "explain",
+        "data-output-level": "0.650",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.938",
+        "data-speech-energy": "0.938",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "16"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 297871,
+      "outputRms": 0.11012,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 14,
+          "text": "and"
+        },
+        {
+          "index": 15,
+          "text": " a"
+        }
+      ],
+      "t": 5808
+    },
+    {
+      "caption": "and a snack.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "wink-right",
+        "data-beat": "word-17",
+        "data-body-pose": "0.000,-22.203,1.173,0.946,1.084",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "lift",
+        "data-head-pose": "-19.16,0.00,6.62",
+        "data-intent": "explain",
+        "data-output-level": "0.156",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.644",
+        "data-speech-energy": "0.644",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 297983,
+      "outputRms": 0.04708,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 14,
+          "text": "and"
+        },
+        {
+          "index": 15,
+          "text": " a"
+        },
+        {
+          "index": 16,
+          "text": " snack."
+        }
+      ],
+      "t": 5919
+    },
+    {
+      "caption": "and a snack.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "wink-right",
+        "data-beat": "word-17",
+        "data-body-pose": "0.000,-22.070,1.177,0.949,1.078",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "lift",
+        "data-head-pose": "-18.05,0.00,5.70",
+        "data-intent": "explain",
+        "data-output-level": "0.213",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.558",
+        "data-speech-energy": "0.558",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 298071,
+      "outputRms": 0.03336,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 14,
+          "text": "and"
+        },
+        {
+          "index": 15,
+          "text": " a"
+        },
+        {
+          "index": 16,
+          "text": " snack."
+        }
+      ],
+      "t": 6008
+    },
+    {
+      "caption": "and a snack.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "wink-right",
+        "data-beat": "word-17",
+        "data-body-pose": "0.000,-20.121,1.159,0.959,1.063",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "lift",
+        "data-head-pose": "-15.73,0.00,4.30",
+        "data-intent": "explain",
+        "data-output-level": "0.039",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.289",
+        "data-speech-energy": "0.289",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 298182,
+      "outputRms": 0.00833,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 14,
+          "text": "and"
+        },
+        {
+          "index": 15,
+          "text": " a"
+        },
+        {
+          "index": 16,
+          "text": " snack."
+        }
+      ],
+      "t": 6120
+    },
+    {
+      "caption": "and a snack.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "wink-right",
+        "data-beat": "word-17",
+        "data-body-pose": "0.000,-17.331,1.130,0.970,1.047",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "lift",
+        "data-head-pose": "-13.28,0.00,3.01",
+        "data-intent": "explain",
+        "data-output-level": "0.027",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.152",
+        "data-speech-energy": "0.152",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 298270,
+      "outputRms": 0,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 14,
+          "text": "and"
+        },
+        {
+          "index": 15,
+          "text": " a"
+        },
+        {
+          "index": 16,
+          "text": " snack."
+        }
+      ],
+      "t": 6209
+    },
+    {
+      "caption": "and a snack.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "wink-right",
+        "data-beat": "word-17",
+        "data-body-pose": "0.000,-13.075,1.097,0.982,1.031",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "lift",
+        "data-head-pose": "-9.86,0.00,1.41",
+        "data-intent": "explain",
+        "data-output-level": "0.023",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.074",
+        "data-speech-energy": "0.074",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 298365,
+      "outputRms": 0.00596,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 14,
+          "text": "and"
+        },
+        {
+          "index": 15,
+          "text": " a"
+        },
+        {
+          "index": 16,
+          "text": " snack."
+        }
+      ],
+      "t": 6299
+    },
+    {
+      "caption": "and a snack.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "wink-right",
+        "data-beat": "word-17",
+        "data-body-pose": "0.000,-9.713,1.074,0.988,1.022",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "lift",
+        "data-head-pose": "-7.45,0.00,0.51",
+        "data-intent": "explain",
+        "data-output-level": "0.028",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.044",
+        "data-speech-energy": "0.044",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 298454,
+      "outputRms": 0.00517,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 14,
+          "text": "and"
+        },
+        {
+          "index": 15,
+          "text": " a"
+        },
+        {
+          "index": 16,
+          "text": " snack."
+        }
+      ],
+      "t": 6392
+    },
+    {
+      "caption": "and a snack.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "wink-right",
+        "data-beat": "word-17",
+        "data-body-pose": "0.000,-7.376,1.057,0.992,1.016",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "lift",
+        "data-head-pose": "-5.67,0.00,0.19",
+        "data-intent": "explain",
+        "data-output-level": "0.025",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.029",
+        "data-speech-energy": "0.029",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 298531,
+      "outputRms": 0.00239,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 14,
+          "text": "and"
+        },
+        {
+          "index": 15,
+          "text": " a"
+        },
+        {
+          "index": 16,
+          "text": " snack."
+        }
+      ],
+      "t": 6469
+    },
+    {
+      "caption": "and a snack.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "wink-right",
+        "data-beat": "word-17",
+        "data-body-pose": "0.000,-5.140,1.040,0.995,1.010",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "lift",
+        "data-head-pose": "-3.80,0.00,0.07",
+        "data-intent": "explain",
+        "data-output-level": "0.030",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.024",
+        "data-speech-energy": "0.024",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 298609,
+      "outputRms": 0.00542,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 14,
+          "text": "and"
+        },
+        {
+          "index": 15,
+          "text": " a"
+        },
+        {
+          "index": 16,
+          "text": " snack."
+        }
+      ],
+      "t": 6548
+    },
+    {
+      "caption": "and a snack.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "wink-right",
+        "data-beat": "word-17",
+        "data-body-pose": "0.000,-2.693,1.021,0.998,1.004",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "lift",
+        "data-head-pose": "-1.73,0.00,0.02",
+        "data-intent": "explain",
+        "data-output-level": "0.031",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.025",
+        "data-speech-energy": "0.025",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 298704,
+      "outputRms": 0.00085,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 14,
+          "text": "and"
+        },
+        {
+          "index": 15,
+          "text": " a"
+        },
+        {
+          "index": 16,
+          "text": " snack."
+        }
+      ],
+      "t": 6641
+    },
+    {
+      "caption": "and a snack.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "wink-right",
+        "data-beat": "word-17",
+        "data-body-pose": "0.000,-1.218,1.010,0.999,1.001",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "lift",
+        "data-head-pose": "-0.64,0.00,0.01",
+        "data-intent": "explain",
+        "data-output-level": "0.028",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.021",
+        "data-speech-energy": "0.021",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 298793,
+      "outputRms": 0,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 14,
+          "text": "and"
+        },
+        {
+          "index": 15,
+          "text": " a"
+        },
+        {
+          "index": 16,
+          "text": " snack."
+        }
+      ],
+      "t": 6731
+    },
+    {
+      "caption": "and a snack.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "wink-right",
+        "data-beat": "word-17",
+        "data-body-pose": "0.000,-0.468,1.004,1.000,1.000",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "neutral",
+        "data-gesture": "lift",
+        "data-head-pose": "-0.19,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.001",
+        "data-performance": "context-directed",
+        "data-phase": "speaking",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.010",
+        "data-speech-energy": "0.010",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 298888,
+      "outputRms": 0,
+      "status": "Conversation state: speaking",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 14,
+          "text": "and"
+        },
+        {
+          "index": 15,
+          "text": " a"
+        },
+        {
+          "index": 16,
+          "text": " snack."
+        }
+      ],
+      "t": 6822
+    },
+    {
+      "caption": "and a snack.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "0.000,-0.205,1.002,1.000,1.000",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "attentive",
+        "data-gesture": "still",
+        "data-head-pose": "-0.07,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.004",
+        "data-speech-energy": "0.005",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 298965,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 14,
+          "text": "and"
+        },
+        {
+          "index": 15,
+          "text": " a"
+        },
+        {
+          "index": 16,
+          "text": " snack."
+        }
+      ],
+      "t": 6903
+    },
+    {
+      "caption": "and a snack.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "0.000,-0.077,1.001,1.000,1.000",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "attentive",
+        "data-gesture": "still",
+        "data-head-pose": "-0.02,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.001",
+        "data-speech-energy": "0.002",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 299054,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 14,
+          "text": "and"
+        },
+        {
+          "index": 15,
+          "text": " a"
+        },
+        {
+          "index": 16,
+          "text": " snack."
+        }
+      ],
+      "t": 6991
+    },
+    {
+      "caption": "and a snack.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "0.000,-0.025,1.000,1.000,1.000",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "attentive",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.001",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 299154,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 14,
+          "text": "and"
+        },
+        {
+          "index": 15,
+          "text": " a"
+        },
+        {
+          "index": 16,
+          "text": " snack."
+        }
+      ],
+      "t": 7089
+    },
+    {
+      "caption": "and a snack.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "0.000,-0.006,1.000,1.000,1.000",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "attentive",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 299282,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 14,
+          "text": "and"
+        },
+        {
+          "index": 15,
+          "text": " a"
+        },
+        {
+          "index": 16,
+          "text": " snack."
+        }
+      ],
+      "t": 7221
+    },
+    {
+      "caption": "and a snack.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "0.000,-0.002,1.000,1.000,1.000",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "attentive",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 299366,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 14,
+          "text": "and"
+        },
+        {
+          "index": 15,
+          "text": " a"
+        },
+        {
+          "index": 16,
+          "text": " snack."
+        }
+      ],
+      "t": 7304
+    },
+    {
+      "caption": "and a snack.",
+      "captionWindow": "14",
+      "character": {
+        "data-accent": "none",
+        "data-beat": "listening",
+        "data-body-pose": "0.000,-0.001,1.000,1.000,1.000",
+        "data-cue-anchor": "and a snack",
+        "data-cue-id": "speech-plan-1-15-1",
+        "data-cue-kind": "speech",
+        "data-cue-source": "assistant",
+        "data-effect": "none",
+        "data-expression": "attentive",
+        "data-gesture": "still",
+        "data-head-pose": "-0.00,0.00,0.00",
+        "data-intent": "explain",
+        "data-output-level": "0.000",
+        "data-performance": "context-directed",
+        "data-phase": "listening",
+        "data-phrase-index": "1",
+        "data-phrase-tick": "3",
+        "data-speech-articulation": "0.000",
+        "data-speech-energy": "0.000",
+        "data-variant-id": "neutral-punctuate",
+        "data-word-tick": "17"
+      },
+      "cue": {
+        "accent": "wink-right",
+        "anchor": "and a snack",
+        "confidence": 0.85,
+        "effect": "none",
+        "expression": "neutral",
+        "gesture": "lift",
+        "id": "speech-plan-1-15-1",
+        "intensity": 0.55,
+        "intent": "explain",
+        "kind": "speech",
+        "phraseIndex": 1,
+        "source": "assistant",
+        "turnId": "1:5"
+      },
+      "error": null,
+      "handoff": "",
+      "inputMode": "client",
+      "inputRms": 0,
+      "inputState": "idle",
+      "localTurn": "quiet",
+      "meterTime": 299460,
+      "outputRms": 0,
+      "status": "Conversation state: listening",
+      "userTranscript": "I told my code to take a break and it threw an exception.",
+      "words": [
+        {
+          "index": 14,
+          "text": "and"
+        },
+        {
+          "index": 15,
+          "text": " a"
+        },
+        {
+          "index": 16,
+          "text": " snack."
+        }
+      ],
+      "t": 7397
+    }
+  ],
+  "completed": true,
+  "firstAudibleAt": 1003,
+  "events": [
+    {
+      "atMs": 292133,
+      "direction": "send",
+      "generating": true,
+      "playing": false,
+      "type": "response.create",
+      "userSpeaking": false
+    },
+    {
+      "atMs": 292324,
+      "direction": "receive",
+      "generating": true,
+      "playing": false,
+      "responseId": "resp_EHfgAJdKw2EUWma84oWHW",
+      "type": "response.created",
+      "userSpeaking": false
+    },
+    {
+      "atMs": 292941,
+      "direction": "receive",
+      "generating": true,
+      "playing": false,
+      "responseId": "resp_EHfgAJdKw2EUWma84oWHW",
+      "type": "output_audio_buffer.started",
+      "userSpeaking": false
+    },
+    {
+      "atMs": 294030,
+      "direction": "receive",
+      "generating": true,
+      "playing": true,
+      "responseId": "resp_EHfgAJdKw2EUWma84oWHW",
+      "type": "response.done",
+      "userSpeaking": false
+    },
+    {
+      "atMs": 298689,
+      "direction": "receive",
+      "generating": false,
+      "playing": true,
+      "responseId": "resp_EHfgAJdKw2EUWma84oWHW",
+      "type": "output_audio_buffer.stopped",
+      "userSpeaking": false
+    }
+  ],
+  "diagnostics": [
+    {
+      "state": "requested",
+      "turnId": "1:1"
+    },
+    {
+      "elapsedMs": 0,
+      "reason": "explicit_user_event",
+      "state": "prepared",
+      "turnId": "1:1"
+    },
+    {
+      "elapsedMs": 7,
+      "state": "received",
+      "turnId": "1:1"
+    },
+    {
+      "elapsedMs": 1530,
+      "state": "received",
+      "turnId": "1:1"
+    },
+    {
+      "elapsedMs": 1672,
+      "state": "received",
+      "turnId": "1:1"
+    },
+    {
+      "state": "requested",
+      "turnId": "1:2"
+    },
+    {
+      "elapsedMs": 898,
+      "state": "prepared",
+      "turnId": "1:2"
+    },
+    {
+      "elapsedMs": 898,
+      "reason": "reaction_after_speech_plan",
+      "state": "rejected",
+      "turnId": "1:2"
+    },
+    {
+      "elapsedMs": 2089,
+      "state": "received",
+      "turnId": "1:2"
+    },
+    {
+      "elapsedMs": 1057,
+      "state": "received",
+      "turnId": "1:2"
+    },
+    {
+      "state": "requested",
+      "turnId": "1:3"
+    },
+    {
+      "elapsedMs": 755,
+      "state": "prepared",
+      "turnId": "1:3"
+    },
+    {
+      "elapsedMs": 755,
+      "state": "received",
+      "turnId": "1:3"
+    },
+    {
+      "elapsedMs": 1578,
+      "state": "received",
+      "turnId": "1:3"
+    },
+    {
+      "elapsedMs": 3421,
+      "reason": "phrase_already_presented",
+      "state": "rejected",
+      "turnId": "1:3"
+    },
+    {
+      "elapsedMs": 3510,
+      "reason": "speech_plan_timeout",
+      "state": "timeout",
+      "turnId": "1:3"
+    },
+    {
+      "state": "requested",
+      "turnId": "1:4"
+    },
+    {
+      "elapsedMs": 0,
+      "reason": "explicit_user_event",
+      "state": "prepared",
+      "turnId": "1:4"
+    },
+    {
+      "elapsedMs": 2,
+      "state": "received",
+      "turnId": "1:4"
+    },
+    {
+      "elapsedMs": 2893,
+      "reason": "phrase_already_presented",
+      "state": "rejected",
+      "turnId": "1:4"
+    },
+    {
+      "elapsedMs": 1440,
+      "state": "received",
+      "turnId": "1:4"
+    },
+    {
+      "elapsedMs": 1800,
+      "reason": "phrase_already_presented",
+      "state": "rejected",
+      "turnId": "1:4"
+    },
+    {
+      "state": "requested",
+      "turnId": "1:5"
+    },
+    {
+      "elapsedMs": 849,
+      "state": "prepared",
+      "turnId": "1:5"
+    },
+    {
+      "elapsedMs": 849,
+      "state": "received",
+      "turnId": "1:5"
+    },
+    {
+      "elapsedMs": 1529,
+      "state": "received",
+      "turnId": "1:5"
+    },
+    {
+      "elapsedMs": 2721,
+      "state": "received",
+      "turnId": "1:5"
+    }
+  ],
+  "cues": [
+    {
+      "accent": "none",
+      "anchor": "Sounds like your code took",
+      "confidence": 0.68,
+      "effect": "none",
+      "expression": "neutral",
+      "gesture": "still",
+      "id": "1:5:fast:0",
+      "intensity": 0.45,
+      "intent": "explain",
+      "kind": "speech",
+      "phraseIndex": 0,
+      "source": "assistant",
+      "turnId": "1:5",
+      "atMs": 1003
+    },
+    {
+      "accent": "double-blink",
+      "anchor": "took that a bit personally",
+      "confidence": 0.85,
+      "effect": "none",
+      "expression": "neutral",
+      "gesture": "nod",
+      "id": "speech-plan-1-14-1",
+      "intensity": 0.55,
+      "intent": "explain",
+      "kind": "speech",
+      "phraseIndex": 1,
+      "source": "assistant",
+      "turnId": "1:5",
+      "atMs": 2664
+    },
+    {
+      "accent": "none",
+      "anchor": "Maybe it needs clearer instructions",
+      "confidence": 0.68,
+      "effect": "none",
+      "expression": "neutral",
+      "gesture": "still",
+      "id": "1:5:fast:50",
+      "intensity": 0.45,
+      "intent": "explain",
+      "kind": "speech",
+      "phraseIndex": 1,
+      "source": "assistant",
+      "turnId": "1:5",
+      "atMs": 3670
+    },
+    {
+      "accent": "wink-right",
+      "anchor": "and a snack",
+      "confidence": 0.85,
+      "effect": "none",
+      "expression": "neutral",
+      "gesture": "lift",
+      "id": "speech-plan-1-15-1",
+      "intensity": 0.55,
+      "intent": "explain",
+      "kind": "speech",
+      "phraseIndex": 1,
+      "source": "assistant",
+      "turnId": "1:5",
+      "atMs": 5434
+    }
+  ],
+  "reconstructedCaption": "Sounds like your code took that a bit personally. Maybe it needs clearer instructions and a snack.",
+  "sampledWordCount": 17,
+  "firstSpeechCueAt": 1003,
+  "cueLagMs": 0,
+  "lastAudibleAt": 6548,
+  "effects": [],
+  "finalUserTranscript": "I told my code to take a break and it threw an exception.",
+  "summary": {
+    "name": "joke",
+    "completed": true,
+    "reply": "Sounds like your code took that a bit personally. Maybe it needs clearer instructions and a snack.",
+    "sampledWordCount": 17,
+    "firstAudibleAt": 1003,
+    "cueLagMs": 0,
+    "effects": [],
+    "cues": [
+      {
+        "expression": "neutral",
+        "intent": "explain",
+        "source": "assistant",
+        "anchor": "Sounds like your code took"
+      },
+      {
+        "expression": "neutral",
+        "intent": "explain",
+        "source": "assistant",
+        "anchor": "took that a bit personally"
+      },
+      {
+        "expression": "neutral",
+        "intent": "explain",
+        "source": "assistant",
+        "anchor": "Maybe it needs clearer instructions"
+      },
+      {
+        "expression": "neutral",
+        "intent": "explain",
+        "source": "assistant",
+        "anchor": "and a snack"
+      }
+    ],
+    "error": null
+  }
+}
