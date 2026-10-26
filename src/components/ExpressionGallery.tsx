@@ -1,5 +1,5 @@
 import { memo, useId, useMemo, useRef, useState } from "react";
-import { renderAvatarExpression } from "@bible-strong/avatar-core";
+import { renderAvatarExpression } from "../lib/face-renderer";
 import { PerformanceAvatar } from "./PerformanceAvatar";
 import { smileEyePath, type VoiceActivity } from "../lib/speech-performance";
 import { expressionLabels, semanticExpressions } from "../lib/expressions";
@@ -49,7 +49,7 @@ const VariantThumbnail = memo(function VariantThumbnail({ variant }: { variant: 
   const scene = useMemo(() => renderAvatarExpression(performanceAvatarDefinition, { ...sample.expression, headZ: 0 }, undefined, sample.openness), [sample]);
   const transform = `translate(${sample.body.x} ${sample.body.y}) rotate(${sample.expression.headZ}) scale(${sample.body.scale * sample.body.squashX} ${sample.body.scale * sample.body.squashY})`;
   return (
-    <svg className="bs-avatar__svg" viewBox="-150 -150 300 300" aria-hidden="true" data-static-variant={variant.id}>
+    <svg className="face-svg" viewBox="-150 -150 300 300" aria-hidden="true" data-static-variant={variant.id}>
       <defs><clipPath id={clipId}><path d={scene.geometry.headPath} /></clipPath></defs>
       <g transform={transform}>
         <path d={scene.geometry.headPath} fill="#f4f5f1" />

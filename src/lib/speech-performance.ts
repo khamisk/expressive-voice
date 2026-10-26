@@ -1,4 +1,4 @@
-import { expressionFields, expressionFromDefinition, type Expression } from "@bible-strong/avatar-core";
+import { expressionFields, expressionFromDefinition, type Expression } from "./face-renderer";
 import { performanceAvatarDefinition } from "./performance-avatar";
 import { reactionEffectFits, type ReactionCue, type ReactionEffect } from "./reaction-cues";
 import { EFFECT_DURATION, type ActiveEffect } from "./reaction-effects";

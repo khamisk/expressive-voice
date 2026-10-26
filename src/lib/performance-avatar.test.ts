@@ -1,17 +1,17 @@
-import { validateAvatarDefinition } from "@bible-strong/avatar-core";
+import { validateFaceDefinition } from "./face-renderer";
 import { describe, expect, it } from "vitest";
 import { performanceAvatarDefinition, performanceExpressionKeys } from "./performance-avatar";
 
 describe("procedural reference geometry", () => {
-  it("builds a valid portable avatar definition", () => {
-    expect(validateAvatarDefinition(performanceAvatarDefinition)).toEqual({
+  it("builds a valid face definition", () => {
+    expect(validateFaceDefinition(performanceAvatarDefinition)).toEqual({
       ok: true,
       value: performanceAvatarDefinition,
     });
   });
 
-  it("preserves the source expression vocabulary without autonomous gaze timelines", () => {
+  it("preserves the source expression vocabulary", () => {
     expect(performanceExpressionKeys).toHaveLength(28);
-    expect(performanceAvatarDefinition.animations).toEqual({});
+    expect(performanceAvatarDefinition.expressionOrder).toEqual(performanceExpressionKeys);
   });
 });

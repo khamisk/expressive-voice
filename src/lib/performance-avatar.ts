@@ -1,7 +1,4 @@
-import type {
-  AvatarDefinition,
-  AvatarExpressionDefinition,
-} from "@bible-strong/avatar-core";
+import type { FaceDefinition, FaceExpressionDefinition } from "./face-renderer";
 
 type RawEye = readonly [width: number, height: number, x: number, y: number, angle: number];
 type RawExpression = readonly [
@@ -43,7 +40,7 @@ const rawExpressions: readonly RawExpression[] = [
   ["uneasy-left", [-12.3, -17.6, 5.9], [20.6, 47.8, 0, 0, 23.5], [20.6, 47.8, 0, 0, -24], 54.9],
 ];
 
-function expression([, head, left, right, spacing]: RawExpression): AvatarExpressionDefinition {
+function expression([, head, left, right, spacing]: RawExpression): FaceExpressionDefinition {
   return {
     head: { x: head[0], y: head[1], z: head[2] },
     eyes: {
@@ -60,17 +57,10 @@ const expressions = Object.fromEntries(rawExpressions.map((row) => [row[0], expr
 
 export const performanceExpressionKeys = rawExpressions.map(([key]) => key);
 
-export const performanceAvatarDefinition: AvatarDefinition = {
-  schema: "bible-strong/avatar-definition",
-  schemaVersion: 1,
+export const performanceAvatarDefinition: FaceDefinition = {
   name: "Mood Voice",
-  body: {
-    primary: { type: "sphere", width: 240, height: 240, depth: 240, roundness: 1 },
-    nodes: [],
-  },
+  radius: 120,
   colors: { body: "#f4f5f1", eyes: "#111316" },
   expressions,
   expressionOrder: performanceExpressionKeys,
-  animations: {},
-  animationOrder: [],
 };

@@ -29,6 +29,5 @@ This describes how to host the SHERPA voice connector in this repo as a containe
 
 ## Things to know
 
-- **Licensing:** `@bible-strong/avatar-core`, which this project uses, is licensed AGPL-3.0-only. Review its terms before deploying it anywhere.
 - **Secrets stay out of the image.** The key and bridge token are runtime inputs only.
 - Try it on a test environment first, not production.

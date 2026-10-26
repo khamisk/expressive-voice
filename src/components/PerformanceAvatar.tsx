@@ -1,5 +1,5 @@
 import { useEffect, useId, useRef, type RefObject } from "react";
-import { renderAvatarExpression } from "@bible-strong/avatar-core";
+import { renderAvatarExpression } from "../lib/face-renderer";
 import { performanceAvatarDefinition } from "../lib/performance-avatar";
 import { SpeechPerformance, speakingPortraits, smileEyePath, type VoiceActivity, type FacePerformanceInput } from "../lib/speech-performance";
 import type { AvatarExpression, ConversationPhase } from "../types";
@@ -131,7 +131,7 @@ export function PerformanceAvatar({ expression, phase, activityRef, cue, present
 
   return (
     <div ref={rootRef} className="performance-avatar" data-performance="context-directed" data-expression={expression} data-phase={phase} data-cue-id={cue?.id} data-cue-anchor={cue?.anchor}>
-      <svg className="bs-avatar__svg" viewBox="-150 -150 300 300" role="img" aria-label={`${expression} expressive voice avatar`}>
+      <svg className="face-svg" viewBox="-150 -150 300 300" role="img" aria-label={`${expression} expressive voice avatar`}>
         <defs><clipPath id={clipId}><path d={initial.current.geometry.headPath} /></clipPath></defs>
         <g ref={characterRef} data-character-body="">
           <path d={initial.current.geometry.headPath} fill="#f4f5f1" />

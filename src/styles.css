@@ -187,8 +187,8 @@ button:focus-visible,
   filter: drop-shadow(0 18px 38px rgba(0, 0, 0, 0.28));
 }
 
-.performance-avatar .bs-avatar,
-.performance-avatar .bs-avatar__svg {
+.performance-avatar .face-svg {
+  display: block;
   width: 100%;
   height: 100%;
   overflow: visible;
@@ -606,8 +606,8 @@ button:focus-visible,
   transition: transform 160ms var(--ease-out);
 }
 
-.expression-card__avatar .bs-avatar,
-.expression-card__avatar .bs-avatar__svg {
+.expression-card__avatar .face-svg {
+  display: block;
   width: 100%;
   height: 100%;
   overflow: visible;

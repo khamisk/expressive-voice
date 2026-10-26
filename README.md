@@ -53,7 +53,7 @@ The visible transcript is not the conversation store. OpenAI's Realtime session 
 
 ## Avatar renderer
 
-The procedural geometry uses `@bible-strong/avatar-core`, licensed under AGPL-3.0-only. If you host or redistribute the app, preserve the required source and license obligations.
+The face is drawn by this project's own renderer (`src/lib/face-renderer.ts`): two squircle eyes laid out on a face sheet, wrapped onto the front of a sphere, turned with the head and drawn through a gentle perspective camera. Every eye outline has a fixed point count, so expressions, blinks and the smile morph interpolate point-for-point. It has no third-party rendering dependency.
 
 A persistent spring controller carries eye shape, head pose, body position, squash/stretch, and velocity between spoken beats. Nineteen semantic feelings each have eight named local variants (152 entries), composed with seven authored gestures and eighteen finite eye accents. Twelve compact intentions guide selection; recent-use history keeps successive turns from restarting the same sequence. Word ticks add articulation without changing the emotion or erasing a director-selected eye accent. Whole-pose holds let the eyes and head land before the next variant. This is a composable vocabulary, not a claim that 152 combinations were individually judged as distinct emotions. Authored idle glances are separate from speech: neither uses an independent camera orbit.
 

@@ -1,4 +1,4 @@
-import type { Expression } from "@bible-strong/avatar-core";
+import type { Expression } from "./face-renderer";
 import type { AvatarExpression } from "../types";
 
 /**

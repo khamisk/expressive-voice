@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { renderAvatarExpression } from "@bible-strong/avatar-core";
+import { renderAvatarExpression } from "./face-renderer";
 import { smileEyePath } from "./eye-shapes";
 import { performanceAvatarDefinition } from "./performance-avatar";
 import { SpeechPerformance, speakingPortraits, type FacePerformanceInput } from "./speech-performance";

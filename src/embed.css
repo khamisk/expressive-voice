@@ -23,7 +23,7 @@ button:disabled { cursor: wait; opacity: .55; }
   transform: translate(-50%, -50%);
 }
 .performance-avatar { width: 100%; height: 100%; filter: drop-shadow(0 12px 24px rgb(28 34 28 / 7%)); }
-.performance-avatar .bs-avatar__svg { display: block; width: 100%; height: 100%; overflow: visible; }
+.performance-avatar .face-svg { display: block; width: 100%; height: 100%; overflow: visible; }
 /* SHERPA-only face color; keep the original character geometry and eyes. */
 .voice-embed__avatar-frame [data-character-body] > path:first-child { fill: #b6a0d7; }
 .transcript-slot {
