@@ -5,8 +5,8 @@ export { CHARACTER_CAPABILITY_INSTRUCTIONS } from "../src/lib/character-capabili
 
 export const DEFAULT_REALTIME_MODEL = "gpt-realtime-2.1";
 export const DEFAULT_REALTIME_VOICE = "marin";
-/** Slightly brisker than 1.0: marin at default speed can sound drawn out. */
-export const DEFAULT_VOICE_SPEED = 1.08;
+/** Natural speed. 1.08 was tried for briskness but made marin sound off. */
+export const DEFAULT_VOICE_SPEED = 1;
 export const DEFAULT_TRANSCRIPTION_MODEL = "gpt-4o-mini-transcribe";
 
 /**
