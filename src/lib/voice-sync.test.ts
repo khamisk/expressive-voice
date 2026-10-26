@@ -63,12 +63,29 @@ describe("syllable pulses", () => {
     return frames;
   }
 
-  it("lifts the eyes within a few frames of each heard syllable", () => {
+  const at = (frames: Array<{ t: number; height: number }>, t: number) => frames.find((frame) => frame.t >= t)!.height;
+
+  it("lifts the eyes on a stressed syllable and settles afterwards", () => {
     const quiet = drive("speaking", []);
     const pulsed = drive("speaking", [600]);
-    const at = (frames: typeof quiet, t: number) => frames.find((frame) => frame.t >= t)!.height;
-    expect(at(pulsed, 650) - at(quiet, 650)).toBeGreaterThan(8);
+    expect(at(pulsed, 690) - at(quiet, 690)).toBeGreaterThan(5);
     expect(Math.abs(at(pulsed, 1100) - at(quiet, 1100))).toBeLessThan(0.5);
+  });
+
+  it("accents beats, not every syllable, so fast syllables cannot shake the eyes", () => {
+    // Seven syllables in 420 ms (fast speech). Only the first two are far
+    // enough apart to become visible beats.
+    const quiet = drive("speaking", []);
+    const fast = drive("speaking", [300, 360, 420, 480, 540, 600, 660]);
+    let reversals = 0;
+    let direction = 0;
+    for (let i = 1; i < fast.length; i++) {
+      const move = (fast[i].height - quiet[i].height) - (fast[i - 1].height - quiet[i - 1].height);
+      if (Math.abs(move) < 0.05) continue;
+      if (direction !== 0 && Math.sign(move) !== direction) reversals++;
+      direction = Math.sign(move);
+    }
+    expect(reversals).toBeLessThanOrEqual(3);
   });
 
   it("does not pulse for syllables while listening", () => {

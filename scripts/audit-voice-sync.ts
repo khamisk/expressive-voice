@@ -163,6 +163,26 @@ function visiblePulses(signal: Array<{ t: number; eyes: number }>): number[] {
   return peaks;
 }
 
+/** Shake: how often eye height reverses direction (per second) and its mean |acceleration|. */
+function jitter(signal: Array<{ t: number; eyes: number }>) {
+  let reversals = 0;
+  let accel = 0;
+  let direction = 0;
+  let anchor = signal[0]?.eyes ?? 0;
+  for (let i = 1; i < signal.length; i++) {
+    const move = signal[i].eyes - anchor;
+    if (Math.abs(move) > 0.6) {
+      const next = Math.sign(move);
+      if (direction !== 0 && next !== direction) reversals++;
+      direction = next;
+      anchor = signal[i].eyes;
+    }
+    if (i > 1) accel += Math.abs(signal[i].eyes - 2 * signal[i - 1].eyes + signal[i - 2].eyes);
+  }
+  const seconds = (signal.at(-1)!.t - signal[0].t) / 1000;
+  return { reversalsPerSecond: reversals / seconds, meanAccel: accel / signal.length };
+}
+
 function score(reference: number[], pulses: number[]) {
   // A pulse "belongs" to a syllable when its fastest rise lands between 120 ms
   // before the syllable peak (the consonant/onset) and 60 ms after it.
@@ -202,9 +222,9 @@ for (const clip of audit.clips ?? []) {
 }
 
 const results: Record<string, unknown>[] = [];
-const totals: Record<Mode, { hit: number; syl: number; stray: number; delays: number[] }> = {
-  before: { hit: 0, syl: 0, stray: 0, delays: [] },
-  after: { hit: 0, syl: 0, stray: 0, delays: [] },
+const totals: Record<Mode, { hit: number; syl: number; stray: number; delays: number[]; reversals: number[]; accel: number[] }> = {
+  before: { hit: 0, syl: 0, stray: 0, delays: [], reversals: [], accel: [] },
+  after: { hit: 0, syl: 0, stray: 0, delays: [], reversals: [], accel: [] },
 };
 const modes: Mode[] = process.argv.includes("--before-only") ? ["before"] : ["before", "after"];
 for (const clip of clips) {
@@ -212,8 +232,11 @@ for (const clip of clips) {
   const reference = referenceSyllables(samples, rate);
   const row: Record<string, unknown> = { id: clip.id, seconds: +(samples.length / rate).toFixed(2), syllablesInAudio: reference.length, syllablesInText: estimateSyllables(clip.text) };
   for (const mode of modes) {
-    const s = score(reference, visiblePulses(simulate(clip, samples, rate, mode)));
+    const signal = simulate(clip, samples, rate, mode);
+    const s = { ...score(reference, visiblePulses(signal)), ...jitter(signal) };
     row[mode] = s;
+    totals[mode].reversals.push(s.reversalsPerSecond);
+    totals[mode].accel.push(s.meanAccel);
     totals[mode].hit += s.coverage * s.syllables;
     totals[mode].syl += s.syllables;
     totals[mode].stray += s.stray;
@@ -229,7 +252,8 @@ for (const clip of clips) {
 for (const mode of modes) {
   const t = totals[mode];
   const median = [...t.delays].sort((a, b) => a - b)[Math.floor(t.delays.length / 2)];
-  console.log(`TOTAL ${mode}: ${(t.hit / t.syl * 100).toFixed(1)}% of ${t.syl} syllables get a visible pulse on time; median delay ${median.toFixed(0)} ms; ${t.stray} pulses not on a syllable`);
+  const avg = (v: number[]) => v.reduce((a, b) => a + b, 0) / v.length;
+  console.log(`TOTAL ${mode}: ${(t.hit / t.syl * 100).toFixed(1)}% of ${t.syl} syllables get a visible pulse on time; median delay ${median.toFixed(0)} ms; ${t.stray} pulses not on a syllable; shake ${avg(t.reversals).toFixed(1)} direction changes/s, mean |accel| ${avg(t.accel).toFixed(2)}`);
 }
 const jsonAt = process.argv.indexOf("--json");
 if (jsonAt > 0) writeFileSync(process.argv[jsonAt + 1], JSON.stringify({ results, totals }, null, 2));
