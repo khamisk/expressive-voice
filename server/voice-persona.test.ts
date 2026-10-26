@@ -4,6 +4,8 @@ import {
   CHARACTER_CAPABILITY_INSTRUCTIONS,
   DEFAULT_REALTIME_MODEL,
   DEFAULT_REALTIME_VOICE,
+  DEFAULT_VOICE_SPEED,
+  PREVIOUS_VOICE_PERSONA_INSTRUCTIONS,
   DEFAULT_TRANSCRIPTION_MODEL,
   VOICE_PERSONA_INSTRUCTIONS,
   buildRealtimeSessionConfig,
@@ -16,29 +18,33 @@ describe("voice persona", () => {
     expect(BASELINE_VOICE_PERSONA_INSTRUCTIONS).not.toBe(VOICE_PERSONA_INSTRUCTIONS);
   });
 
-  it("encourages specific, contingent conversation instead of canned warmth", () => {
-    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("Most ordinary replies are one spoken thought and one sentence");
-    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("usually 4 to 16 words");
-    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("2 to 8 words");
-    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("Do not stack a reaction, explanation, reassurance, advice, offer, and question");
-    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("The model may pause and yield; silence is better than padding");
-    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("For a direct casual fact, simple recommendation, or why/how question");
-    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("Do not turn a simple recommendation into steps unless the user asks for steps");
-    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("Expand only when the user clearly asks for detail");
-    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("If the user redirects to a new topic");
-    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("Drop the old thread without finishing, recapping, or bridging it");
-    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("a brief \"yeah\", \"mhm\", or backchannel is not a new request");
-    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("Use these as rhythm examples, not scripts");
-    expect(VOICE_PERSONA_INSTRUCTIONS).toContain('Good response: "Ah, next Thursday. Got it."');
-    expect(VOICE_PERSONA_INSTRUCTIONS).toContain('Good response: "Oof. That hurts');
-    expect(VOICE_PERSONA_INSTRUCTIONS).toContain('Good response: "Heat triggers the Maillard reaction');
-    expect(VOICE_PERSONA_INSTRUCTIONS).toContain('Good response: "Oh, hell yeah. You really wanted that one."');
-    expect(VOICE_PERSONA_INSTRUCTIONS).toContain('Good response: "That sounds like a peaceful little pause."');
-    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("Tell me how to make fried rice with eggs, step by step");
+  it("keeps the pre-rewrite persona for side-by-side audits", () => {
+    expect(PREVIOUS_VOICE_PERSONA_INSTRUCTIONS).toContain("Most ordinary replies are one spoken thought and one sentence");
+    expect(PREVIOUS_VOICE_PERSONA_INSTRUCTIONS).not.toBe(VOICE_PERSONA_INSTRUCTIONS);
+  });
+
+  it("makes short replies the default and padding explicitly off-limits", () => {
+    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("# Length: this matters most");
+    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("Default: ONE short sentence, about 3 to 12 words. Then stop.");
+    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("A second sentence is the exception, not the habit");
+    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("Facts, recommendations and quick answers: one sentence, under 15 words");
+    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("No well-wishes");
+    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("At most one question");
+    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("A reaction alone is a complete reply");
+    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("about 50 words at most");
+    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("Do not produce a spoken preamble or commentary message");
+  });
+
+  it("directs a lively spoken delivery and natural turn-taking", () => {
+    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("# Personality and tone");
+    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("# Pacing and delivery");
+    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("Let your pitch move with the feeling");
+    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("Don't sound sing-song");
+    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("A topic change: follow it immediately");
+    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("\"Yeah\" or \"mhm\" isn't a new request");
+    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("never reuse their wording");
     expect(VOICE_PERSONA_INSTRUCTIONS).toContain("You are an AI, not a person with a real physical body");
-    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("Avoid repeated \"Sure\", \"Absolutely\", \"That sounds\", or \"I can help\" patterns");
-    expect(VOICE_PERSONA_INSTRUCTIONS).not.toContain("usually about 5 to 18 words");
-    expect(VOICE_PERSONA_INSTRUCTIONS).not.toContain("about 3 to 12 words each");
+    expect(VOICE_PERSONA_INSTRUCTIONS).toContain("never em dashes or en dashes");
   });
 
   it("gives the voice a truthful, optional face capability", () => {
@@ -95,7 +101,7 @@ describe("voice persona", () => {
       instructions: VOICE_PERSONA_INSTRUCTIONS,
       output_modalities: ["audio"],
       reasoning: { effort: "low" },
-      max_output_tokens: 512,
+      max_output_tokens: 1024,
       tools: [CHARACTER_TOOL],
       tool_choice: "auto",
       parallel_tool_calls: false,
@@ -104,7 +110,7 @@ describe("voice persona", () => {
     expect(audio.input.turn_detection).toBeNull();
     expect(audio.input.noise_reduction).toEqual({ type: "near_field" });
     expect(audio.input.transcription).toEqual({ model: DEFAULT_TRANSCRIPTION_MODEL });
-    expect(audio.output).toEqual({ voice: DEFAULT_REALTIME_VOICE, speed: 1 });
+    expect(audio.output).toEqual({ voice: DEFAULT_REALTIME_VOICE, speed: DEFAULT_VOICE_SPEED });
   });
 
   it("allows the audit to swap only the persona while preserving session behavior", () => {
@@ -122,9 +128,9 @@ describe("voice persona", () => {
     expect(config.model).toBe("test-realtime");
     expect(config.instructions).toBe(BASELINE_VOICE_PERSONA_INSTRUCTIONS);
     expect(audio.input.transcription).toEqual({ model: "test-transcriber" });
-    expect(audio.output).toEqual({ voice: "test-voice", speed: 1 });
+    expect(audio.output).toEqual({ voice: "test-voice", speed: DEFAULT_VOICE_SPEED });
     expect(config.reasoning).toEqual({ effort: "low" });
-    expect(config.max_output_tokens).toBe(512);
+    expect(config.max_output_tokens).toBe(1024);
     expect(config).not.toHaveProperty("parallel_tool_calls");
   });
 });

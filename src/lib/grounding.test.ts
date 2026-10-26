@@ -16,9 +16,9 @@ describe("SHERPA voice grounding instructions", () => {
     expect(prompt).toContain("A narrow fact or simple action");
     expect(prompt).toContain("tell me about the onboarding documents");
     expect(prompt).toContain("what should I know as an employee");
-    expect(prompt).toContain("four or five short sentences");
-    expect(prompt).toContain("at most 45 words including any question");
-    expect(prompt).toContain("at most 90 words");
+    expect(prompt).toContain("three to five short sentences");
+    expect(prompt).toContain("at most 40 words including any question");
+    expect(prompt).toContain("at most 75 words");
     expect(prompt).toContain("Prioritize leave/absence, pay, working arrangements, and where to get help");
     expect(prompt).toContain("Do not recite every policy or lead with ID cards");
     expect(prompt).toContain("If asked for a one-sentence summary");
@@ -57,9 +57,9 @@ describe("SHERPA voice grounding instructions", () => {
     const prompt = buildGroundingInstructions("Policy text.", false, "What should I know as an employee?");
     expect(prompt.split("</company_context>")[1]).toContain("TWO short sentences, at most 35 words");
     expect(answerContract("Hi, tell me about onboarding.")).toContain("NOT detailed policy contents");
-    expect(answerContract("How do I request leave?")).toContain("at most 40 words");
-    expect(answerContract("Tell me about employee leave policy.")).toContain("at most 40 words");
-    expect(answerContract("Walk me through employee offboarding in more detail.")).toContain("at most 90 words");
+    expect(answerContract("How do I request leave?")).toContain("at most 30 words");
+    expect(answerContract("Tell me about employee leave policy.")).toContain("at most 30 words");
+    expect(answerContract("Walk me through employee offboarding in more detail.")).toContain("at most 75 words");
     expect(answerContract("Summarize that in one sentence.")).toContain("ONE sentence, at most 25 words");
   });
 });

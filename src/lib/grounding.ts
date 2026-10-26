@@ -33,14 +33,14 @@ export function answerContract(question: string): string {
     return "This turn is a requested summary. Reply in ONE sentence, at most 25 words. Preserve the main point, then stop.";
   }
   if (/\b(?:in (?:more )?detail|walk\s+me\s+through|step[ -]by[ -]step|checklist|elaborate|go deeper)\b/i.test(question)) {
-    return "This turn explicitly asks for detail. Explain the main ordered steps in four or five short sentences, at most 90 words. Preserve who does what and required conditions, then stop.";
+    return "This turn explicitly asks for detail. Explain the main ordered steps in three to five short sentences, at most 75 words. Preserve who does what and required conditions, then stop.";
   }
   if ((/\b(?:onboarding|employee handbook|new employee|new hire|new here)\b/i.test(question)
     || /\bwhat\s+(?:should|do)\s+i\s+(?:need\s+to\s+)?know\s+(?:as|being)\s+(?:an?\s+)?employee\b/i.test(question))
     && /\b(?:know|about|overview|summary|basics|important|highlights)\b/i.test(question)) {
     return "This turn asks for a quick employee orientation, NOT detailed policy contents. Your ENTIRE reply must be TWO short sentences, at most 35 words. Give one useful supported action about leave or getting help, then point to pay or working arrangements as the next topic. Do not list exact work hours, shift times, pay dates, benefit waiting periods, ID cards, or dress rules. Those details belong in a follow-up if requested. Stop after the second sentence.";
   }
-  return "For this turn, answer just the user's question in one or two short sentences, at most 40 words. Give the useful action or fact, not adjacent policy rules. If evidence is missing, identify the specific gap and one next step in at most 30 words. Stop when answered.";
+  return "For this turn, answer just the user's question in one or two short sentences, at most 30 words. Give the useful action or fact, not adjacent policy rules. If evidence is missing, identify the specific gap and one next step in at most 30 words. Stop when answered.";
 }
 
 export function buildGroundingInstructions(context: string, includeCharacterCapability = false, question = ""): string {

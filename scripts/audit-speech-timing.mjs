@@ -25,7 +25,7 @@ dotenv.config({ path: path.join(projectDirectory, ".env.local"), override: true,
 
 const apiKey = process.env.OPENAI_API_KEY;
 const model = process.env.OPENAI_REALTIME_MODEL ?? "gpt-realtime-2.1";
-const voice = process.env.OPENAI_REALTIME_VOICE ?? "cedar";
+const voice = process.env.OPENAI_REALTIME_VOICE ?? "marin";
 const sampleRate = 24_000;
 const bytesPerSample = 2;
 const maxClipSeconds = 18;

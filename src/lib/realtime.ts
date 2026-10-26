@@ -1956,7 +1956,7 @@ export class RealtimeVoiceClient {
           ? { status: "scheduled", beats: plan.beats.length, silent: plan.silent, rendered: false,
               speech_anchors: plan.beats.map(beat => beat.anchor).filter(Boolean),
               next: plan.silent ? "Nonverbal request fulfilled; no spoken continuation."
-                : "Continue your short spoken reply, using the planned anchor words naturally. Do not describe the tool." }
+                : "Now speak your short reply, using the planned anchor words naturally. Start directly with its first words: no preamble, commentary, or transition, and do not describe the tool." }
           : { status: "rejected", reason: superseded ? "superseded_by_newer_turn" : plan ? "already_performed_this_turn" : "invalid_arguments" }),
       },
     });
