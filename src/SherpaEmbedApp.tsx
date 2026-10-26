@@ -247,6 +247,9 @@ export function SherpaEmbedApp() {
           activityRef.current[source] = amplitude;
           if (source === "output") outputPeakRef.current = Math.max(outputPeakRef.current, amplitude);
         },
+        onVoiceBeat: ({ syllableTick, strength }) => {
+          Object.assign(activityRef.current, { syllableTick, syllableStrength: strength });
+        },
         onPlaybackWord: ({ wordTick, phraseTick, punctuation }) => {
           Object.assign(activityRef.current, { wordTick, phraseTick, punctuation });
         },

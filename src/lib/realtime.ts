@@ -17,6 +17,7 @@ import {
 import { missingTranscriptSuffix, OutputTranscriptStream } from "./transcript-stream";
 import type { ConversationPhase } from "../types";
 import { startFrameLoop } from "./frame-loop";
+import { HeardDelay, VoiceBeatDetector, outputDelayMs, type VoiceBeatState } from "./voice-beats";
 import { CaptionPlanner, captionWords, speechPunctuation, type CaptionPlan, type PlaybackWord } from "./spoken-caption";
 import { TalkOverController, isBackchannel, type TalkOverBoundary } from "./turn-taking";
 import { SpeechTimeline, ACTING_LEAD_MS } from "./caption-clock";
@@ -94,6 +95,8 @@ export type RealtimeCallbacks = {
   onUserTranscriptReset: () => void;
   onUserTranscriptDelta: (delta: string) => void;
   onAmplitude: (source: MeterSource, amplitude: number) => void;
+  /** Syllable beats found in the voice audio, released when they are heard. */
+  onVoiceBeat?: (beat: VoiceBeatState) => void;
   onPlaybackWord?: (word: PlaybackWord) => void;
   onCaptionPlan?: (plan: CaptionPlan) => void;
   onHandoff?: (reason: string) => void;
@@ -2823,7 +2826,22 @@ export class RealtimeVoiceClient {
     const analyser = context.createAnalyser();
     analyser.fftSize = 256;
     analyser.smoothingTimeConstant = 0.76;
-    context.createMediaStreamSource(stream).connect(analyser);
+    const streamSource = context.createMediaStreamSource(stream);
+    streamSource.connect(analyser);
+    // The 256-sample meter above only sees ~5 ms of each frame, which is
+    // fine for audibility but misses most syllables. The face gets its own
+    // gap-free tap of the voice for beat detection.
+    const voiceAnalyser = source === "output" ? context.createAnalyser() : null;
+    if (voiceAnalyser) {
+      voiceAnalyser.fftSize = 2048;
+      voiceAnalyser.smoothingTimeConstant = 0;
+      streamSource.connect(voiceAnalyser);
+    }
+    const voiceSamples = voiceAnalyser ? new Float32Array(voiceAnalyser.fftSize) : null;
+    const voiceBeats = new VoiceBeatDetector();
+    const heardBeats = new HeardDelay<VoiceBeatState>({ level: 0, syllableTick: 0, strength: 0, syllableAtMs: null });
+    const heardLevel = new HeardDelay(0);
+    let lastVoiceTime: number | null = null;
     if (routeToSpeakers) {
       const gain = context.createGain();
       analyser.connect(gain);
@@ -2898,8 +2916,27 @@ export class RealtimeVoiceClient {
           }, 900);
         }
       }
+      // The analysers read samples as they enter the graph; the listener
+      // hears them one output latency later. Hold face-facing values back
+      // by that much (less the frame the paint itself takes).
+      const heardDelay = source === "output" ? Math.max(0, outputDelayMs(context) - 16) : 0;
+      const contextMs = context.currentTime * 1000;
+      if (voiceAnalyser && voiceSamples) {
+        const fresh = lastVoiceTime === null
+          ? voiceSamples.length
+          : Math.round((context.currentTime - lastVoiceTime) * context.sampleRate);
+        lastVoiceTime = context.currentTime;
+        if (fresh > 0) {
+          voiceAnalyser.getFloatTimeDomainData(voiceSamples);
+          const count = Math.min(voiceSamples.length, fresh);
+          const beat = voiceBeats.push(voiceSamples.subarray(voiceSamples.length - count), context.sampleRate, contextMs);
+          const shown = this.responseInterrupted ? { ...beat, level: 0 } : beat;
+          this.callbacks.onVoiceBeat?.(heardBeats.push(shown, contextMs, heardDelay));
+        }
+      }
       if (time - lastEmission >= 16) {
-        this.callbacks.onAmplitude(source, source === "output" && this.responseInterrupted ? 0 : smoothed);
+        const amplitude = source === "output" && this.responseInterrupted ? 0 : smoothed;
+        this.callbacks.onAmplitude(source, source === "output" ? heardLevel.push(amplitude, contextMs, heardDelay) : amplitude);
         if (this.talkOver.pending) this.checkTalkOver();
         lastEmission = time;
       }

@@ -10,6 +10,13 @@ export const ACTING_LEAD_MS = 180;
 // the audio analyser into a per-word gate.
 const MIN_PHRASE_PAUSE_MS = 180;
 const MAX_PHRASE_PAUSE_HOLD_MS = 1_800;
+/**
+ * Longest a new sentence waits, past its estimated start, for the voice to
+ * actually pause and resume. Real sentence pauses are often far longer than
+ * the estimate allows, so without this gate the next sentence's words (and
+ * the expressions anchored to them) ran up to a second ahead of the voice.
+ */
+const MAX_SENTENCE_GATE_MS = 1_600;
 
 type PhrasePause = {
   startedMs: number;
@@ -55,6 +62,8 @@ export class SpeechTimeline {
   private elapsedMs = 0;
   private observedAudioElapsedMs = 0;
   private audioWasAudible = false;
+  /** Sentence gating only applies once a real audio clock is feeding pauses. */
+  private audioWasObserved = false;
   private pendingPhrasePause: PhrasePause | null = null;
   private phraseAnchors = new Map<number, number>();
 
@@ -70,6 +79,7 @@ export class SpeechTimeline {
     this.elapsedMs = 0;
     this.observedAudioElapsedMs = 0;
     this.audioWasAudible = false;
+    this.audioWasObserved = false;
     this.pendingPhrasePause = null;
     this.phraseAnchors.clear();
   }
@@ -123,6 +133,7 @@ export class SpeechTimeline {
     this.observedAudioElapsedMs = at;
 
     if (audible) {
+      this.audioWasObserved = true;
       const pending = this.pendingPhrasePause;
       if (pending) {
         const quietMs = Math.max(0, at - pending.startedMs);
@@ -277,7 +288,36 @@ export class SpeechTimeline {
       wordCount = Math.min(wordCount, pending.nextIndex);
       charEnd = wordCount > 0 ? this.entries[wordCount - 1].charEnd : 0;
     }
+    const gate = this.sentenceGate(elapsedMs);
+    if (gate !== null && wordCount > gate) {
+      wordCount = gate;
+      charEnd = wordCount > 0 ? this.entries[wordCount - 1].charEnd : 0;
+    }
     return { wordCount, charEnd };
+  }
+
+  /**
+   * Index of the first word that must wait, or null when nothing is gated.
+   * A word that opens a new sentence is held until the audio has paused and
+   * resumed after the sentence before it (a phrase anchor exists for it),
+   * the response has stopped being audible-tracked, or a bounded fallback
+   * passes. Only sentence endings gate; commas keep their estimated pacing.
+   */
+  private sentenceGate(elapsedMs: number): number | null {
+    if (!this.audioWasObserved) return null;
+    const first = Math.max(0, this.cursor - 1);
+    for (let index = first; index < this.entries.length - 1; index += 1) {
+      const word = this.entries[index];
+      const ending = speechPunctuation(word.text);
+      const endsSentence = ending === "sentence" || ending === "question" || ending === "exclamation" || /\n/u.test(word.chunk);
+      if (!endsSentence) continue;
+      const next = index + 1;
+      if (next < this.cursor) continue;
+      if (this.phraseAnchors.has(next)) return null;
+      if (elapsedMs >= word.endMs + MAX_SENTENCE_GATE_MS) return null;
+      return next;
+    }
+    return null;
   }
 
   advance(elapsedMs: number, leadMs = CAPTION_LEAD_MS): TimelineWord[] {

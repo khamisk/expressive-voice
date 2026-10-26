@@ -85,6 +85,7 @@ export function PerformanceAvatar({ expression, phase, activityRef, cue, present
         rootRef.current.dataset.intent = sample.intent;
         rootRef.current.dataset.bodyPose = [sample.body.x, sample.body.y, sample.body.scale, sample.body.squashX, sample.body.squashY].map((value) => value.toFixed(3)).join(",");
         rootRef.current.dataset.wordTick = String(sample.wordTick ?? -1);
+        rootRef.current.dataset.syllableTick = String(activityRef.current.syllableTick ?? -1);
         rootRef.current.dataset.phraseTick = String(sample.phraseTick ?? -1);
       }
       characterRef.current?.setAttribute(

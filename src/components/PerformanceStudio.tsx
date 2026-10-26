@@ -8,6 +8,7 @@ import type { ConversationPhase, SemanticExpression } from "../types";
 import type { CharacterGesture } from "../lib/character-gestures";
 import { planCaptionBreaks, speechPunctuation, type SpeechPunctuation } from "../lib/spoken-caption";
 import { CAPTION_LEAD_MS, ACTING_LEAD_MS } from "../lib/caption-clock";
+import { HeardDelay, VoiceBeatDetector, outputDelayMs, type VoiceBeatState } from "../lib/voice-beats";
 
 type CaptionClock = "recorded-word-timestamps" | "estimated-duration";
 type RecordedWord = { word: string; startMs: number; endMs: number };
@@ -216,12 +217,32 @@ export function PerformanceStudio() {
         source.connect(analyser);
         analyser.connect(context.destination);
         const samples = new Uint8Array(analyser.fftSize);
+        // Same syllable path as a live conversation, so recorded studies
+        // show the face following the voice exactly as it would live.
+        const voiceAnalyser = context.createAnalyser();
+        voiceAnalyser.fftSize = 2048;
+        voiceAnalyser.smoothingTimeConstant = 0;
+        source.connect(voiceAnalyser);
+        const voiceSamples = new Float32Array(voiceAnalyser.fftSize);
+        const beats = new VoiceBeatDetector();
+        const heard = new HeardDelay<VoiceBeatState>({ level: 0, syllableTick: 0, strength: 0, syllableAtMs: null });
+        let lastVoiceTime: number | null = null;
         meterCleanupRef.current = startFrameLoop(() => {
           analyser.getByteTimeDomainData(samples);
           let sum = 0;
           for (const sample of samples) sum += ((sample - 128) / 128) ** 2;
           const output = audio.paused ? 0 : Math.min(1, Math.sqrt(sum / samples.length) * 5.5);
           activityRef.current.output = output;
+          const fresh = lastVoiceTime === null ? voiceSamples.length : Math.round((context.currentTime - lastVoiceTime) * context.sampleRate);
+          lastVoiceTime = context.currentTime;
+          if (fresh > 0) {
+            voiceAnalyser.getFloatTimeDomainData(voiceSamples);
+            const count = Math.min(voiceSamples.length, fresh);
+            const now = context.currentTime * 1000;
+            const beat = heard.push(beats.push(voiceSamples.subarray(voiceSamples.length - count), context.sampleRate, now), now, Math.max(0, outputDelayMs(context) - 16));
+            activityRef.current.syllableTick = beat.syllableTick;
+            activityRef.current.syllableStrength = beat.strength;
+          }
           const playback = playbackRef.current;
           if (playback) updateAudioClock(audio, playback, output);
         });

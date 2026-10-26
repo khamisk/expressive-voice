@@ -198,6 +198,9 @@ export default function App() {
       onAmplitude: (source, amplitude) => {
         activityRef.current[source] = amplitude;
       },
+      onVoiceBeat: ({ syllableTick, strength }) => {
+        Object.assign(activityRef.current, { syllableTick, syllableStrength: strength });
+      },
       onPlaybackWord: ({ wordTick, phraseTick, punctuation }) => {
         Object.assign(activityRef.current, { wordTick, phraseTick, punctuation });
       },

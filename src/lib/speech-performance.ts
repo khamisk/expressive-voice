@@ -31,6 +31,11 @@ export type SpeechPunctuation = "none" | "comma" | "sentence" | "question" | "ex
  * and older clients can keep using amplitude-only activity. When present,
  * they are the clock for authored micro-beats; output amplitude only adds
  * tiny articulation to the current silhouette.
+ *
+ * `syllableTick` comes from the voice audio itself (VoiceBeatDetector), not
+ * from the transcript estimate. When present it drives a short pulse per
+ * heard syllable, scaled by `syllableStrength`, in place of the slower
+ * loudness-onset accent.
  */
 export type VoiceActivity = {
   input: number;
@@ -38,7 +43,23 @@ export type VoiceActivity = {
   wordTick?: number;
   phraseTick?: number;
   punctuation?: SpeechPunctuation;
+  syllableTick?: number;
+  syllableStrength?: number;
 };
+
+/** A syllable pulse rises quickly and settles before the next syllable. */
+const SYLLABLE_RISE_MS = 45;
+const SYLLABLE_FALL_MS = 170;
+
+function syllableEnvelope(age: number): number {
+  if (age < 0) return 0;
+  if (age < SYLLABLE_RISE_MS) {
+    const p = age / SYLLABLE_RISE_MS;
+    return p * p * (3 - 2 * p);
+  }
+  const p = Math.min(1, (age - SYLLABLE_RISE_MS) / SYLLABLE_FALL_MS);
+  return (1 - p) * (1 - p);
+}
 export type FacePerformanceInput = {
   phase: ConversationPhase;
   expression: AvatarExpression;
@@ -415,6 +436,8 @@ export class SpeechPerformance {
   private lastWordTick: number | undefined;
   private tickCueId: string | null = null;
   private lastMicroBeatAt = -Infinity;
+  private lastSyllableTick: number | undefined;
+  private syllablePulses: Array<{ at: number; strength: number }> = [];
   private idleMotion: {
     beat: IdleBeat;
     startedAt: number;
@@ -542,6 +565,18 @@ export class SpeechPerformance {
     this.listeningPresence = damp(this.listeningPresence, listening ? 1 : 0, dt, 0.2);
     this.softness = damp(this.softness, isSoft(input.expression) ? 0.48 : 1, dt, 0.18);
     this.motionScale = damp(this.motionScale, input.reducedMotion ? 0.18 : 1, dt, 0.15);
+
+    const syllableTick = input.activity.syllableTick;
+    if (syllableTick !== undefined && syllableTick !== this.lastSyllableTick) {
+      // Only pulse for a syllable heard while speaking. Ticks that arrive
+      // while listening or idle just move the marker so they never replay.
+      if (talking && this.lastSyllableTick !== undefined && syllableTick > this.lastSyllableTick) {
+        this.syllablePulses.push({ at: time, strength: unit(input.activity.syllableStrength ?? 0.5) });
+        if (this.syllablePulses.length > 4) this.syllablePulses.shift();
+      }
+      this.lastSyllableTick = syllableTick;
+    }
+    this.syllablePulses = this.syllablePulses.filter((pulse) => time - pulse.at < SYLLABLE_RISE_MS + SYLLABLE_FALL_MS);
 
     if (input.cue && input.cue.id !== this.lastCueId) {
       this.lastCueId = input.cue.id;
@@ -951,7 +986,8 @@ export class SpeechPerformance {
     }
 
     const onset = Math.max(0, this.energy - this.sustainedEnergy);
-    if (talking && onset > 0.11 && time - this.lastAccentAt > 360) {
+    const hearsSyllables = input.activity.syllableTick !== undefined;
+    if (talking && !hearsSyllables && onset > 0.11 && time - this.lastAccentAt > 360) {
       this.lastAccentAt = time;
       this.accentStrength = unit(onset * 2.6);
     }
@@ -1010,9 +1046,34 @@ export class SpeechPerformance {
     }
     if (this.effect && (time - this.effect.startedAt > EFFECT_DURATION || (this.effect.retiringAt !== undefined && time - this.effect.retiringAt > 180))) this.effect = null;
 
+    // Syllable pulses sit on top of the sprung pose rather than inside its
+    // target, so the spring cannot smear a 45 ms rise into a 150 ms drift.
+    // Every syllable lifts the eyes slightly; stressed ones also dip the head
+    // and stretch the body, like a nod on the important word.
+    let pulse = 0;
+    let stressPulse = 0;
+    for (const syllable of this.syllablePulses) {
+      const shape = syllableEnvelope(time - syllable.at);
+      pulse += shape * (0.45 + 0.55 * syllable.strength);
+      stressPulse += shape * Math.max(0, syllable.strength - 0.45) / 0.55;
+    }
+    const gain = this.speechPresence * this.softness * this.motionScale;
+    pulse = Math.min(1.2, pulse) * gain;
+    stressPulse = Math.min(1, stressPulse) * gain;
+    const shown = { ...this.expression };
+    shown.heightLeft += pulse * 9;
+    shown.heightRight += pulse * 8;
+    shown.widthLeft -= pulse * 1.2;
+    shown.widthRight -= pulse * 1.2;
+    shown.headX -= stressPulse * 2.6;
+    const shownBody = { ...this.body };
+    shownBody.squashY += pulse * 0.022 + stressPulse * 0.012;
+    shownBody.squashX -= pulse * 0.012;
+    shownBody.y -= pulse * 1.4;
+
     return {
-      expression: { ...this.expression },
-      body: { ...this.body },
+      expression: shown,
+      body: shownBody,
       openness: (1 - blink) * unit(this.accentOpenness),
       energy: this.energy,
       speech,
